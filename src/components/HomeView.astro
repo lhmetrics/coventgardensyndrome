@@ -3,9 +3,11 @@ import { getCollection } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
 import StoryCard from './StoryCard.astro';
 import LangSwitcher from './LangSwitcher.astro';
+import SectionsMenu from './SectionsMenu.astro';
 import { ui } from '../i18n/ui';
 import { locales, type Locale } from '../i18n/locales';
-import { getHomePath } from '../i18n/paths';
+import { getHomePath, getSectionPath } from '../i18n/paths';
+import { sectionIds, sections } from '../i18n/sections';
 
 interface Props {
   lang: Locale;
@@ -30,6 +32,8 @@ const alternates = Object.fromEntries(locales.map((l) => [l, getHomePath(l)])) a
   lang={lang}
   alternates={alternates}
 >
+  <SectionsMenu lang={lang} />
+
   <header class="hero">
     <img class="hero-photo" src="/photos/hero.jpg" alt="" />
     <div class="hero-scrim"></div>
@@ -42,6 +46,25 @@ const alternates = Object.fromEntries(locales.map((l) => [l, getHomePath(l)])) a
 
   <section class="manifesto">
     {t.manifesto.map((paragraph) => <p>{paragraph}</p>)}
+  </section>
+
+  <section class="sections-strip" aria-label={t.sectionsHeading}>
+    <h2>{t.sectionsHeading}</h2>
+    <div class="chips">
+      {
+        sectionIds.map((id) => {
+          const s = sections[id][lang];
+          return (
+            <a class="chip" href={getSectionPath(lang, id)}>
+              <span class="emoji" aria-hidden="true">
+                {s.emoji}
+              </span>
+              {s.title}
+            </a>
+          );
+        })
+      }
+    </div>
   </section>
 
   <main class="content">
@@ -156,6 +179,53 @@ const alternates = Object.fromEntries(locales.map((l) => [l, getHomePath(l)])) a
     content: '”';
     font-style: normal;
     color: var(--accent);
+  }
+
+  .sections-strip {
+    max-width: 60rem;
+    margin: 0 auto;
+    padding: 0 1.5rem 3.5rem;
+    text-align: center;
+  }
+
+  .sections-strip h2 {
+    margin: 0 0 1.5rem;
+    font-size: 0.8rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--ink-dim);
+  }
+
+  .chips {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.75rem;
+  }
+
+  .chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5em;
+    padding: 0.55em 1.1em;
+    border: 1px solid var(--rule);
+    border-radius: 999px;
+    text-decoration: none;
+    color: var(--ink-dim);
+    font-family: var(--serif);
+    font-size: 0.92rem;
+    transition:
+      color 0.2s ease,
+      border-color 0.2s ease;
+  }
+
+  .chip:hover {
+    color: var(--ink);
+    border-color: var(--accent);
+  }
+
+  .chip .emoji {
+    font-size: 1rem;
   }
 
   .content {

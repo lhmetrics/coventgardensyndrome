@@ -1,8 +1,9 @@
 ---
-title: "Cuento #1"
+title: "El oso que sabe demasiado"
 date: 2026-09-10
 excerpt: "El Oso está en su vigésimo tercer año — recuerda este Hogar mejor que nadie."
 cover: "/photos/story-1.jpg"
+section: night-chronicles
 ---
 
 ## El oso que sabe demasiado

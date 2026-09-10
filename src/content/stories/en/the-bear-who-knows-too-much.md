@@ -1,8 +1,9 @@
 ---
-title: "Story #1"
+title: "The Bear Who Knows Too Much"
 date: 2026-09-10
 excerpt: "Bear is in his twenty-third year — he remembers this Home better than anyone."
 cover: "/photos/story-1.jpg"
+section: night-chronicles
 ---
 
 ## The Bear Who Knows Too Much

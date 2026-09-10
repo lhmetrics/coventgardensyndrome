@@ -1,0 +1,182 @@
+---
+// Fixed burger icon (mirrors LangSwitcher's opposite corner) that opens a
+// CSS-only overlay listing all 6 site sections with a short description —
+// the site's main discovery affordance for sections that don't have a spot
+// in the main nav yet. No client JS, matching the rest of the site.
+import { sectionIds, sections } from '../i18n/sections';
+import type { Locale } from '../i18n/locales';
+import { getSectionPath } from '../i18n/paths';
+import { ui } from '../i18n/ui';
+
+interface Props {
+  lang: Locale;
+}
+
+const { lang } = Astro.props;
+const t = ui[lang];
+---
+
+<input type="checkbox" id="sections-toggle" class="sections-toggle-input" />
+<div class="sections-menu">
+  <label for="sections-toggle" class="sections-button" aria-label={t.sectionsToggleLabel}>
+    <span aria-hidden="true">☰</span>
+  </label>
+  <label for="sections-toggle" class="sections-overlay" aria-hidden="true"></label>
+  <div class="sections-panel" role="dialog" aria-label={t.sectionsHeading}>
+    <label for="sections-toggle" class="sections-close" aria-label={t.sectionsClose}>
+      <span aria-hidden="true">×</span>
+    </label>
+    <h2>{t.sectionsHeading}</h2>
+    <ul>
+      {
+        sectionIds.map((id) => {
+          const s = sections[id][lang];
+          return (
+            <li>
+              <a href={getSectionPath(lang, id)}>
+                <span class="emoji" aria-hidden="true">
+                  {s.emoji}
+                </span>
+                <span class="text">
+                  <span class="title">{s.title}</span>
+                  <span class="description">{s.description}</span>
+                </span>
+              </a>
+            </li>
+          );
+        })
+      }
+    </ul>
+  </div>
+</div>
+
+<style>
+  .sections-toggle-input {
+    position: absolute;
+    top: 1.25rem;
+    left: 1.5rem;
+    width: 1px;
+    height: 1px;
+    opacity: 0;
+  }
+
+  .sections-button {
+    position: fixed;
+    top: 1.25rem;
+    left: 1.5rem;
+    z-index: 20;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 2rem;
+    height: 2rem;
+    font-size: 1.1rem;
+    color: var(--ink-dim);
+    cursor: pointer;
+  }
+
+  .sections-button:hover {
+    color: var(--ink);
+  }
+
+  .sections-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 29;
+    background: rgba(14, 13, 11, 0.7);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.25s ease;
+  }
+
+  .sections-panel {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 30;
+    width: min(22rem, 86vw);
+    overflow-y: auto;
+    background: var(--bg-raised);
+    border-right: 1px solid var(--rule);
+    padding: 4rem 1.75rem 2.5rem;
+    transform: translateX(-100%);
+    transition: transform 0.3s ease;
+  }
+
+  .sections-toggle-input:checked ~ .sections-menu .sections-overlay {
+    opacity: 1;
+    pointer-events: auto;
+  }
+
+  .sections-toggle-input:checked ~ .sections-menu .sections-panel {
+    transform: translateX(0);
+  }
+
+  .sections-close {
+    position: absolute;
+    top: 1.1rem;
+    right: 1.25rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 2rem;
+    height: 2rem;
+    font-size: 1.4rem;
+    line-height: 1;
+    color: var(--ink-dim);
+    cursor: pointer;
+  }
+
+  .sections-close:hover {
+    color: var(--ink);
+  }
+
+  .sections-panel h2 {
+    margin: 0 0 1.5rem;
+    font-size: 1rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--ink-dim);
+  }
+
+  .sections-panel ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .sections-panel a {
+    display: flex;
+    gap: 0.85rem;
+    align-items: flex-start;
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .sections-panel .emoji {
+    font-size: 1.4rem;
+    line-height: 1.3;
+  }
+
+  .sections-panel .title {
+    display: block;
+    font-family: var(--serif);
+    font-size: 1.05rem;
+  }
+
+  .sections-panel a:hover .title {
+    color: var(--accent);
+  }
+
+  .sections-panel .description {
+    display: block;
+    margin-top: 0.3em;
+    font-size: 0.85rem;
+    line-height: 1.5;
+    color: var(--ink-dim);
+  }
+</style>

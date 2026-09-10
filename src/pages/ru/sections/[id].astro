@@ -1,0 +1,12 @@
+---
+import { sectionIds } from '../../../i18n/sections';
+import SectionView from '../../../components/SectionView.astro';
+
+export function getStaticPaths() {
+  return sectionIds.map((id) => ({ params: { id }, props: { sectionId: id } }));
+}
+
+const { sectionId } = Astro.props;
+---
+
+<SectionView lang="ru" sectionId={sectionId} />

@@ -2,6 +2,7 @@
 import { render, type CollectionEntry } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
 import LangSwitcher from './LangSwitcher.astro';
+import SectionsMenu from './SectionsMenu.astro';
 import { ui } from '../i18n/ui';
 import { localeTags, type Locale } from '../i18n/locales';
 import { getHomePath } from '../i18n/paths';
@@ -28,6 +29,7 @@ const formattedDate = story.data.date.toLocaleDateString(localeTags[lang], {
   lang={lang}
 >
   <article class="story">
+    <SectionsMenu lang={lang} />
     <LangSwitcher lang={lang} />
     <a class="back" href={getHomePath(lang)}>{t.back}</a>
 

@@ -6,3 +6,5 @@ const prefix = (locale: Locale) => (locale === defaultLocale ? '' : `/${locale}`
 export const getHomePath = (locale: Locale) => `${prefix(locale)}/`;
 
 export const getStoryPath = (locale: Locale, slug: string) => `${prefix(locale)}/stories/${slug}/`;
+
+export const getSectionPath = (locale: Locale, id: string) => `${prefix(locale)}/sections/${id}/`;

@@ -11,6 +11,10 @@ export const ui: Record<
     empty: string;
     back: string;
     footer: (year: number) => string;
+    sectionsToggleLabel: string;
+    sectionsClose: string;
+    sectionsHeading: string;
+    sectionsEmpty: string;
   }
 > = {
   en: {
@@ -24,6 +28,10 @@ export const ui: Record<
     empty: "The first story hasn't been posted yet — check back soon.",
     back: '← All stories',
     footer: (year) => `© ${year} Covent Garden Syndrome`,
+    sectionsToggleLabel: 'Sections',
+    sectionsClose: 'Close',
+    sectionsHeading: 'Explore by section',
+    sectionsEmpty: 'This section is just beginning — new stories coming soon.',
   },
   es: {
     kicker: 'Covent Garden Syndrome',
@@ -36,6 +44,10 @@ export const ui: Record<
     empty: 'Todavía no se ha publicado ninguna historia — vuelve pronto.',
     back: '← Todas las historias',
     footer: (year) => `© ${year} Covent Garden Syndrome`,
+    sectionsToggleLabel: 'Secciones',
+    sectionsClose: 'Cerrar',
+    sectionsHeading: 'Explorar por sección',
+    sectionsEmpty: 'Esta sección apenas comienza — pronto habrá nuevas historias.',
   },
   ru: {
     kicker: 'Covent Garden Syndrome',
@@ -48,5 +60,9 @@ export const ui: Record<
     empty: 'Первая история ещё не опубликована — загляните позже.',
     back: '← Все истории',
     footer: (year) => `© ${year} Covent Garden Syndrome`,
+    sectionsToggleLabel: 'Разделы',
+    sectionsClose: 'Закрыть',
+    sectionsHeading: 'По разделам',
+    sectionsEmpty: 'Этот раздел только начинается — новые истории появятся совсем скоро.',
   },
 };
