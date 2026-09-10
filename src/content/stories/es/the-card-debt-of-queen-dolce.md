@@ -1,6 +1,6 @@
 ---
 title: "La deuda de juego de la Reina Dolce"
-date: 2026-09-10
+date: 2026-09-10T01:00:00Z
 excerpt: "Dolce llegó de IKEA antes que el Oso y se coronó Reina Steampunk de la mesa de cartas — pero lo que más desea es ver por fin el mar."
 cover: "/photos/the-card-debt-of-queen-dolce.jpg"
 section: night-chronicles

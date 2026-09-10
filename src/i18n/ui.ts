@@ -15,6 +15,11 @@ export const ui: Record<
     sectionsClose: string;
     sectionsHeading: string;
     sectionsEmpty: string;
+    sortLabel: string;
+    sortOldestFirst: string;
+    sortNewestFirst: string;
+    prevChapter: string;
+    nextChapter: string;
   }
 > = {
   en: {
@@ -32,6 +37,11 @@ export const ui: Record<
     sectionsClose: 'Close',
     sectionsHeading: 'Explore by section',
     sectionsEmpty: 'This section is just beginning — new stories coming soon.',
+    sortLabel: 'Sort stories',
+    sortOldestFirst: 'Oldest first',
+    sortNewestFirst: 'Newest first',
+    prevChapter: '← Previous chapter',
+    nextChapter: 'Next chapter →',
   },
   es: {
     kicker: 'Covent Garden Syndrome',
@@ -48,6 +58,11 @@ export const ui: Record<
     sectionsClose: 'Cerrar',
     sectionsHeading: 'Explorar por sección',
     sectionsEmpty: 'Esta sección apenas comienza — pronto habrá nuevas historias.',
+    sortLabel: 'Ordenar historias',
+    sortOldestFirst: 'Más antiguas primero',
+    sortNewestFirst: 'Más recientes primero',
+    prevChapter: '← Capítulo anterior',
+    nextChapter: 'Capítulo siguiente →',
   },
   ru: {
     kicker: 'Covent Garden Syndrome',
@@ -64,5 +79,10 @@ export const ui: Record<
     sectionsClose: 'Закрыть',
     sectionsHeading: 'По разделам',
     sectionsEmpty: 'Этот раздел только начинается — новые истории появятся совсем скоро.',
+    sortLabel: 'Сортировка историй',
+    sortOldestFirst: 'Сначала старые',
+    sortNewestFirst: 'Сначала новые',
+    prevChapter: '← Предыдущая глава',
+    nextChapter: 'Следующая глава →',
   },
 };

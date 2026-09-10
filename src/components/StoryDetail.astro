@@ -1,11 +1,12 @@
 ---
-import { render, type CollectionEntry } from 'astro:content';
+import { getCollection, render, type CollectionEntry } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
 import LangSwitcher from './LangSwitcher.astro';
 import SectionsMenu from './SectionsMenu.astro';
+import SectionBadge from './SectionBadge.astro';
 import { ui } from '../i18n/ui';
 import { localeTags, type Locale } from '../i18n/locales';
-import { getHomePath } from '../i18n/paths';
+import { getHomePath, getStoryPath } from '../i18n/paths';
 
 interface Props {
   lang: Locale;
@@ -21,6 +22,19 @@ const formattedDate = story.data.date.toLocaleDateString(localeTags[lang], {
   month: 'long',
   year: 'numeric',
 });
+
+// Prev/next chapter nav: same ordering as the homepage (oldest first), so
+// "next" always means "the next chapter in the site's story", regardless
+// of section. First/last story simply omits the missing side.
+const allStories = (await getCollection('stories', ({ id }) => id.startsWith(`${lang}/`))).sort(
+  (a, b) => a.data.date.valueOf() - b.data.date.valueOf(),
+);
+const currentIndex = allStories.findIndex((s) => s.id === story.id);
+const prevStory = currentIndex > 0 ? allStories[currentIndex - 1] : undefined;
+const nextStory =
+  currentIndex >= 0 && currentIndex < allStories.length - 1
+    ? allStories[currentIndex + 1]
+    : undefined;
 ---
 
 <Layout
@@ -35,6 +49,7 @@ const formattedDate = story.data.date.toLocaleDateString(localeTags[lang], {
 
     <header>
       <p class="date">{formattedDate}</p>
+      {story.data.section && <SectionBadge lang={lang} sectionId={story.data.section} />}
       <h1>{story.data.title}</h1>
     </header>
 
@@ -43,6 +58,29 @@ const formattedDate = story.data.date.toLocaleDateString(localeTags[lang], {
     <div class="prose">
       <Content />
     </div>
+
+    {
+      (prevStory || nextStory) && (
+        <nav class="chapter-nav" aria-label="Chapters">
+          {prevStory ? (
+            <a class="chapter-link prev" href={getStoryPath(lang, prevStory.id.slice(lang.length + 1))}>
+              <span class="chapter-label">{t.prevChapter}</span>
+              <span class="chapter-title">{prevStory.data.title}</span>
+            </a>
+          ) : (
+            <span />
+          )}
+          {nextStory ? (
+            <a class="chapter-link next" href={getStoryPath(lang, nextStory.id.slice(lang.length + 1))}>
+              <span class="chapter-label">{t.nextChapter}</span>
+              <span class="chapter-title">{nextStory.data.title}</span>
+            </a>
+          ) : (
+            <span />
+          )}
+        </nav>
+      )
+    }
   </article>
 </Layout>
 
@@ -72,6 +110,10 @@ const formattedDate = story.data.date.toLocaleDateString(localeTags[lang], {
     letter-spacing: 0.08em;
     text-transform: uppercase;
     color: var(--ink-dim);
+  }
+
+  header :global(.section-badge) {
+    margin-bottom: 0.9em;
   }
 
   h1 {
@@ -120,5 +162,61 @@ const formattedDate = story.data.date.toLocaleDateString(localeTags[lang], {
   .prose :global(h2) {
     margin: 1.8em 0 0.6em;
     font-size: 1.4rem;
+  }
+
+  .chapter-nav {
+    display: flex;
+    gap: 1.5rem;
+    margin-top: 4rem;
+    padding-top: 2rem;
+    border-top: 1px solid var(--rule);
+  }
+
+  .chapter-link {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4em;
+    text-decoration: none;
+    color: inherit;
+    padding: 1rem;
+    border: 1px solid var(--rule);
+    transition: border-color 0.2s ease;
+  }
+
+  .chapter-link:hover {
+    border-color: var(--accent);
+  }
+
+  .chapter-link.next {
+    text-align: right;
+    align-items: flex-end;
+  }
+
+  .chapter-label {
+    font-size: 0.75rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--ink-dim);
+  }
+
+  .chapter-title {
+    font-family: var(--serif);
+    font-size: 1.05rem;
+  }
+
+  .chapter-link:hover .chapter-title {
+    color: var(--accent);
+  }
+
+  @media (max-width: 32rem) {
+    .chapter-nav {
+      flex-direction: column;
+    }
+
+    .chapter-link.next {
+      text-align: left;
+      align-items: flex-start;
+    }
   }
 </style>

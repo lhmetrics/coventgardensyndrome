@@ -18,12 +18,28 @@ const { lang, sectionId } = Astro.props;
 const t = ui[lang];
 const section = sections[sectionId][lang];
 
-const stories = (
+// Default matches the homepage policy (oldest first). A CSS-only :target
+// toggle (no JS) lets the reader flip to newest-first — both orders are
+// pre-rendered and only one is shown at a time, see the .grid-* rules below.
+const storiesOldestFirst = (
   await getCollection(
     'stories',
     ({ id, data }) => id.startsWith(`${lang}/`) && data.section === sectionId,
   )
-).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+).sort((a, b) => a.data.date.valueOf() - b.data.date.valueOf());
+const storiesNewestFirst = [...storiesOldestFirst].reverse();
+
+function renderCard(story: (typeof storiesOldestFirst)[number]) {
+  const slug = story.id.slice(lang.length + 1);
+  return {
+    lang,
+    slug,
+    title: story.data.title,
+    date: story.data.date,
+    excerpt: story.data.excerpt,
+    cover: story.data.cover,
+  };
+}
 ---
 
 <Layout
@@ -41,25 +57,39 @@ const stories = (
   </header>
 
   <main class="content">
-    <a class="back" href={getHomePath(lang)}>{t.back}</a>
+    <div class="toolbar">
+      <a class="back" href={getHomePath(lang)}>
+        {t.back}
+      </a>
+      {storiesOldestFirst.length > 1 && (
+        <nav class="sort" aria-label={t.sortLabel}>
+          <a class="sort-link" href="#oldest-first">
+            {t.sortOldestFirst}
+          </a>
+          <a class="sort-link" href="#newest-first">
+            {t.sortNewestFirst}
+          </a>
+        </nav>
+      )}
+    </div>
+
+    <span id="oldest-first" class="sort-target" />
+    <span id="newest-first" class="sort-target" />
 
     {
-      stories.length > 0 ? (
-        <section class="grid">
-          {stories.map((story) => {
-            const slug = story.id.slice(lang.length + 1);
-            return (
-              <StoryCard
-                lang={lang}
-                slug={slug}
-                title={story.data.title}
-                date={story.data.date}
-                excerpt={story.data.excerpt}
-                cover={story.data.cover}
-              />
-            );
-          })}
-        </section>
+      storiesOldestFirst.length > 0 ? (
+        <>
+          <section class="grid grid-oldest">
+            {storiesOldestFirst.map((story) => (
+              <StoryCard {...renderCard(story)} />
+            ))}
+          </section>
+          <section class="grid grid-newest">
+            {storiesNewestFirst.map((story) => (
+              <StoryCard {...renderCard(story)} />
+            ))}
+          </section>
+        </>
       ) : (
         <p class="empty">{t.sectionsEmpty}</p>
       )
@@ -103,9 +133,16 @@ const stories = (
     padding: 1rem 1.5rem 5rem;
   }
 
-  .back {
-    display: inline-block;
+  .toolbar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem 1.5rem;
     margin-bottom: 2.5rem;
+  }
+
+  .back {
     color: var(--ink-dim);
     text-decoration: none;
     font-size: 0.9rem;
@@ -115,10 +152,58 @@ const stories = (
     color: var(--ink);
   }
 
+  .sort {
+    display: flex;
+    gap: 0.6rem;
+  }
+
+  .sort-link {
+    padding: 0.35em 0.9em;
+    border: 1px solid var(--rule);
+    border-radius: 999px;
+    text-decoration: none;
+    color: var(--ink-dim);
+    font-size: 0.8rem;
+    transition:
+      color 0.2s ease,
+      border-color 0.2s ease;
+  }
+
+  .sort-link:hover {
+    color: var(--ink);
+    border-color: var(--accent);
+  }
+
+  /* CSS-only sort toggle, no JS: both orders are always in the DOM, and
+     :target (driven by the #oldest-first / #newest-first links above)
+     picks which one is visible. Default (no hash, or #oldest-first) shows
+     the oldest-first grid; jumping to #newest-first swaps them. */
+  .sort-target {
+    display: block;
+    width: 0;
+    height: 0;
+    overflow: hidden;
+  }
+
   .grid {
-    display: grid;
     grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
     gap: 2.5rem 2rem;
+  }
+
+  .grid-oldest {
+    display: grid;
+  }
+
+  .grid-newest {
+    display: none;
+  }
+
+  #newest-first:target ~ .grid-oldest {
+    display: none;
+  }
+
+  #newest-first:target ~ .grid-newest {
+    display: grid;
   }
 
   .empty {

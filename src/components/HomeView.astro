@@ -16,8 +16,12 @@ interface Props {
 const { lang } = Astro.props;
 const t = ui[lang];
 
+// Homepage ordering rule (Elena's call, current policy — revisit if the
+// story count grows large enough that newest-first becomes more useful):
+// oldest first, so the stories read in the order they were published/told,
+// e.g. Bear → Dolce → Koska. Don't flip this to newest-first without asking.
 const stories = (await getCollection('stories', ({ id }) => id.startsWith(`${lang}/`))).sort(
-  (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
+  (a, b) => a.data.date.valueOf() - b.data.date.valueOf(),
 );
 
 const alternates = Object.fromEntries(locales.map((l) => [l, getHomePath(l)])) as Record<
@@ -81,6 +85,7 @@ const alternates = Object.fromEntries(locales.map((l) => [l, getHomePath(l)])) a
                 date={story.data.date}
                 excerpt={story.data.excerpt}
                 cover={story.data.cover}
+                section={story.data.section}
               />
             );
           })}

@@ -1,6 +1,6 @@
 ---
 title: "The Card Debt of Queen Dolce"
-date: 2026-09-10
+date: 2026-09-10T01:00:00Z
 excerpt: "Dolce arrived from IKEA before Bear and crowned herself the Steampunk Queen of the card table — but what she wants most is to finally see the sea."
 cover: "/photos/the-card-debt-of-queen-dolce.jpg"
 section: night-chronicles

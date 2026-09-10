@@ -1,0 +1,49 @@
+---
+// Small pill showing which section a story belongs to, linking to that
+// section's index page. Used on homepage/section-listing cards (after the
+// date) and on the story page itself (near the date, in the header).
+import type { Locale } from '../i18n/locales';
+import { sections, type SectionId } from '../i18n/sections';
+import { getSectionPath } from '../i18n/paths';
+
+interface Props {
+  lang: Locale;
+  sectionId: SectionId;
+}
+
+const { lang, sectionId } = Astro.props;
+const section = sections[sectionId][lang];
+---
+
+<a class="section-badge" href={getSectionPath(lang, sectionId)}>
+  <span class="emoji" aria-hidden="true">{section.emoji}</span>{section.title}
+</a>
+
+<style>
+  .section-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35em;
+    margin: 0.4em 0 0;
+    padding: 0.25em 0.75em;
+    border: 1px solid var(--rule);
+    border-radius: 999px;
+    font-family: var(--sans);
+    font-size: 0.7rem;
+    letter-spacing: 0.03em;
+    text-decoration: none;
+    color: var(--ink-dim);
+    transition:
+      color 0.2s ease,
+      border-color 0.2s ease;
+  }
+
+  .section-badge:hover {
+    color: var(--ink);
+    border-color: var(--accent);
+  }
+
+  .emoji {
+    font-size: 0.85rem;
+  }
+</style>

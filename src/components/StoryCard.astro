@@ -1,6 +1,8 @@
 ---
 import { localeTags, type Locale } from '../i18n/locales';
 import { getStoryPath } from '../i18n/paths';
+import SectionBadge from './SectionBadge.astro';
+import type { SectionId } from '../i18n/sections';
 
 interface Props {
   lang: Locale;
@@ -9,30 +11,38 @@ interface Props {
   date: Date;
   excerpt?: string;
   cover?: string;
+  section?: SectionId;
 }
 
-const { lang, slug, title, date, excerpt, cover } = Astro.props;
+const { lang, slug, title, date, excerpt, cover, section } = Astro.props;
 
 const formattedDate = date.toLocaleDateString(localeTags[lang], {
   day: 'numeric',
   month: 'long',
   year: 'numeric',
 });
+const href = getStoryPath(lang, slug);
 ---
 
-<a class="card" href={getStoryPath(lang, slug)}>
-  <div class="cover" class:list={{ placeholder: !cover }}>
-    {cover && <img src={cover} alt="" loading="lazy" />}
-  </div>
+<div class="card">
+  <a class="cover-link" href={href} tabindex="-1">
+    <div class="cover" class:list={{ placeholder: !cover }}>
+      {cover && <img src={cover} alt="" loading="lazy" />}
+    </div>
+  </a>
   <div class="body">
     <p class="date">{formattedDate}</p>
-    <h3 class="title">{title}</h3>
+    {section && <SectionBadge lang={lang} sectionId={section} />}
+    <a class="title-link" href={href}>
+      <h3 class="title">{title}</h3>
+    </a>
     {excerpt && <p class="excerpt">{excerpt}</p>}
   </div>
-</a>
+</div>
 
 <style>
-  .card {
+  .cover-link,
+  .title-link {
     display: block;
     text-decoration: none;
     color: inherit;
@@ -78,6 +88,10 @@ const formattedDate = date.toLocaleDateString(localeTags[lang], {
 
   .title {
     font-size: 1.25rem;
+  }
+
+  .title-link:hover .title {
+    color: var(--accent);
   }
 
   .excerpt {
