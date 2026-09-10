@@ -25,8 +25,8 @@ const alternates = Object.fromEntries(locales.map((l) => [l, getHomePath(l)])) a
 ---
 
 <Layout
-  title={lang === 'en' ? 'Covent Garden Syndrome' : `Covent Garden Syndrome — ${t.title}`}
-  description={t.lede}
+  title={`Covent Garden Syndrome — ${t.tagline}`}
+  description={t.manifesto[0]}
   lang={lang}
   alternates={alternates}
 >
@@ -36,10 +36,13 @@ const alternates = Object.fromEntries(locales.map((l) => [l, getHomePath(l)])) a
     <LangSwitcher lang={lang} />
     <div class="hero-text">
       <p class="kicker">{t.kicker}</p>
-      <h1>{t.title}</h1>
-      <p class="lede">{t.lede}</p>
+      <h1>{t.tagline}</h1>
     </div>
   </header>
+
+  <section class="manifesto">
+    {t.manifesto.map((paragraph) => <p>{paragraph}</p>)}
+  </section>
 
   <main class="content">
     {
@@ -119,11 +122,37 @@ const alternates = Object.fromEntries(locales.map((l) => [l, getHomePath(l)])) a
     font-size: clamp(2.25rem, 5vw, 3.25rem);
   }
 
-  .lede {
-    margin: 1.25em auto 0;
-    max-width: 34rem;
+  .manifesto {
+    max-width: 38rem;
+    margin: 0 auto;
+    padding: 4.5rem 1.5rem;
+    text-align: center;
+  }
+
+  .manifesto p {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 1.15rem;
+    line-height: 1.75;
     color: var(--ink-dim);
-    font-size: 1.05rem;
+    margin: 0 0 1.4em;
+  }
+
+  .manifesto p:first-child::before {
+    content: '“';
+    font-style: normal;
+    color: var(--accent);
+  }
+
+  .manifesto p:last-child {
+    margin-bottom: 0;
+    color: var(--ink);
+  }
+
+  .manifesto p:last-child::after {
+    content: '”';
+    font-style: normal;
+    color: var(--accent);
   }
 
   .content {
