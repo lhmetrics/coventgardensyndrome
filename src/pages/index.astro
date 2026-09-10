@@ -10,12 +10,16 @@ const stories = (await getCollection('stories')).sort(
 
 <Layout title="Covent Garden Syndrome">
   <header class="hero">
-    <p class="kicker">Covent Garden Syndrome</p>
-    <h1>Stories &amp; Photographs</h1>
-    <p class="lede">
-      A slow, ongoing journal — places passed through, people met along the way,
-      and the photographs that came out of it.
-    </p>
+    <img class="hero-photo" src="/photos/hero.jpg" alt="" />
+    <div class="hero-scrim"></div>
+    <div class="hero-text">
+      <p class="kicker">Covent Garden Syndrome</p>
+      <h1>Stories &amp; Photographs</h1>
+      <p class="lede">
+        A slow, ongoing journal — places passed through, people met along the way,
+        and the photographs that came out of it.
+      </p>
+    </div>
   </header>
 
   <main class="content">
@@ -45,9 +49,38 @@ const stories = (await getCollection('stories')).sort(
 
 <style>
   .hero {
+    position: relative;
+    display: flex;
+    align-items: flex-end;
+    min-height: min(88vh, 46rem);
+    overflow: hidden;
+  }
+
+  .hero-photo {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .hero-scrim {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      to top,
+      rgba(14, 13, 11, 0.95) 0%,
+      rgba(14, 13, 11, 0.55) 40%,
+      rgba(14, 13, 11, 0.15) 70%
+    );
+  }
+
+  .hero-text {
+    position: relative;
+    width: 100%;
     max-width: 44rem;
     margin: 0 auto;
-    padding: 5.5rem 1.5rem 3rem;
+    padding: 3rem 1.5rem 3.5rem;
     text-align: center;
   }
 
