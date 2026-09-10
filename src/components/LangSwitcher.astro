@@ -1,0 +1,43 @@
+---
+import { locales, localeLabels, type Locale } from '../i18n/locales';
+import { getHomePath } from '../i18n/paths';
+
+interface Props {
+  lang: Locale;
+}
+
+const { lang } = Astro.props;
+---
+
+<nav class="lang-switch" aria-label="Language">
+  {
+    locales.map((l) => (
+      <a href={getHomePath(l)} aria-current={l === lang ? 'page' : undefined}>
+        {localeLabels[l]}
+      </a>
+    ))
+  }
+</nav>
+
+<style>
+  .lang-switch {
+    position: fixed;
+    top: 1.25rem;
+    right: 1.5rem;
+    z-index: 10;
+    display: flex;
+    gap: 0.9rem;
+    font-size: 0.75rem;
+    letter-spacing: 0.06em;
+  }
+
+  .lang-switch a {
+    text-decoration: none;
+    color: var(--ink-dim);
+  }
+
+  .lang-switch a[aria-current='page'] {
+    color: var(--ink);
+    border-bottom: 1px solid var(--accent);
+  }
+</style>

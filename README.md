@@ -3,10 +3,16 @@
 A personal journal of stories and photographs, built with [Astro](https://astro.build)
 and published on GitHub Pages at [coventgardensyndrome.com](https://coventgardensyndrome.com).
 
+## Languages
+
+The site is in English by default, with Spanish and Russian available via
+the language switcher in the top-right corner (`/es/`, `/ru/`). UI text
+lives in [`src/i18n/ui.ts`](src/i18n/ui.ts).
+
 ## Adding a story
 
-1. Add a markdown file under `src/content/stories/`, e.g. `my-story.md`, with
-   frontmatter:
+1. Add a markdown file under `src/content/stories/en/`, e.g.
+   `src/content/stories/en/my-story.md`, with frontmatter:
 
    ```md
    ---
@@ -19,6 +25,12 @@ and published on GitHub Pages at [coventgardensyndrome.com](https://coventgarden
    The story text goes here. Standard markdown, including `## headings`
    and `![](/photos/another.jpg)` images.
    ```
+
+   The language is decided by the folder (`en/`, `es/`, `ru/`), not by
+   anything in the frontmatter. To publish a Spanish or Russian version of
+   the same story, add a file with the same slug under
+   `src/content/stories/es/` or `src/content/stories/ru/` — a story only
+   needs to exist in the languages it's actually translated into.
 
 2. Put any photos it uses in `public/photos/`.
 3. Commit and push to `main` — the site rebuilds and deploys automatically.

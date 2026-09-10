@@ -1,17 +1,24 @@
 ---
+import { defaultLocale, type Locale } from '../i18n/locales';
+
 interface Props {
   title: string;
   description?: string;
+  lang?: Locale;
+  // Map of locale -> path, for hreflang alternate links (e.g. from getHomePath/getStoryPath).
+  alternates?: Partial<Record<Locale, string>>;
 }
 
 const {
   title,
   description = 'Covent Garden Syndrome — a personal journal of stories and photographs.',
+  lang = defaultLocale,
+  alternates,
 } = Astro.props;
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang={lang}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -19,6 +26,12 @@ const {
     <meta name="description" content={description} />
     <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
+    {
+      alternates &&
+        Object.entries(alternates).map(([hreflang, href]) => (
+          <link rel="alternate" hreflang={hreflang} href={new URL(href, Astro.site)} />
+        ))
+    }
   </head>
   <body>
     <slot />

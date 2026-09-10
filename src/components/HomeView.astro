@@ -1,0 +1,154 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+import StoryCard from './StoryCard.astro';
+import LangSwitcher from './LangSwitcher.astro';
+import { ui } from '../i18n/ui';
+import { locales, type Locale } from '../i18n/locales';
+import { getHomePath } from '../i18n/paths';
+
+interface Props {
+  lang: Locale;
+}
+
+const { lang } = Astro.props;
+const t = ui[lang];
+
+const stories = (await getCollection('stories', ({ id }) => id.startsWith(`${lang}/`))).sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
+);
+
+const alternates = Object.fromEntries(locales.map((l) => [l, getHomePath(l)])) as Record<
+  Locale,
+  string
+>;
+---
+
+<Layout
+  title={lang === 'en' ? 'Covent Garden Syndrome' : `Covent Garden Syndrome — ${t.title}`}
+  description={t.lede}
+  lang={lang}
+  alternates={alternates}
+>
+  <header class="hero">
+    <img class="hero-photo" src="/photos/hero.jpg" alt="" />
+    <div class="hero-scrim"></div>
+    <LangSwitcher lang={lang} />
+    <div class="hero-text">
+      <p class="kicker">{t.kicker}</p>
+      <h1>{t.title}</h1>
+      <p class="lede">{t.lede}</p>
+    </div>
+  </header>
+
+  <main class="content">
+    {
+      stories.length > 0 ? (
+        <section class="grid">
+          {stories.map((story) => {
+            const slug = story.id.slice(lang.length + 1);
+            return (
+              <StoryCard
+                lang={lang}
+                slug={slug}
+                title={story.data.title}
+                date={story.data.date}
+                excerpt={story.data.excerpt}
+                cover={story.data.cover}
+              />
+            );
+          })}
+        </section>
+      ) : (
+        <p class="empty">{t.empty}</p>
+      )
+    }
+  </main>
+
+  <footer class="footer">
+    <p>{t.footer(new Date().getFullYear())}</p>
+  </footer>
+</Layout>
+
+<style>
+  .hero {
+    position: relative;
+    display: flex;
+    align-items: flex-end;
+    min-height: min(88vh, 46rem);
+    overflow: hidden;
+  }
+
+  .hero-photo {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .hero-scrim {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      to top,
+      rgba(14, 13, 11, 0.95) 0%,
+      rgba(14, 13, 11, 0.55) 40%,
+      rgba(14, 13, 11, 0.15) 70%
+    );
+  }
+
+  .hero-text {
+    position: relative;
+    width: 100%;
+    max-width: 44rem;
+    margin: 0 auto;
+    padding: 3rem 1.5rem 3.5rem;
+    text-align: center;
+  }
+
+  .kicker {
+    margin: 0 0 0.75em;
+    font-size: 0.8rem;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--accent);
+  }
+
+  h1 {
+    font-size: clamp(2.25rem, 5vw, 3.25rem);
+  }
+
+  .lede {
+    margin: 1.25em auto 0;
+    max-width: 34rem;
+    color: var(--ink-dim);
+    font-size: 1.05rem;
+  }
+
+  .content {
+    max-width: 72rem;
+    margin: 0 auto;
+    padding: 2rem 1.5rem 5rem;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
+    gap: 2.5rem 2rem;
+  }
+
+  .empty {
+    text-align: center;
+    color: var(--ink-dim);
+    padding: 3rem 0;
+  }
+
+  .footer {
+    border-top: 1px solid var(--rule);
+    padding: 2rem 1.5rem;
+    text-align: center;
+    color: var(--ink-dim);
+    font-size: 0.85rem;
+  }
+</style>

@@ -1,5 +1,9 @@
 ---
+import { localeTags, type Locale } from '../i18n/locales';
+import { getStoryPath } from '../i18n/paths';
+
 interface Props {
+  lang: Locale;
   slug: string;
   title: string;
   date: Date;
@@ -7,16 +11,16 @@ interface Props {
   cover?: string;
 }
 
-const { slug, title, date, excerpt, cover } = Astro.props;
+const { lang, slug, title, date, excerpt, cover } = Astro.props;
 
-const formattedDate = date.toLocaleDateString('en-GB', {
+const formattedDate = date.toLocaleDateString(localeTags[lang], {
   day: 'numeric',
   month: 'long',
   year: 'numeric',
 });
 ---
 
-<a class="card" href={`/stories/${slug}/`}>
+<a class="card" href={getStoryPath(lang, slug)}>
   <div class="cover" class:list={{ placeholder: !cover }}>
     {cover && <img src={cover} alt="" loading="lazy" />}
   </div>

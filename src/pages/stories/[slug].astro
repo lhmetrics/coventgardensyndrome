@@ -1,96 +1,16 @@
 ---
-import { getCollection, render } from 'astro:content';
-import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+import StoryDetail from '../../components/StoryDetail.astro';
 
 export async function getStaticPaths() {
-  const stories = await getCollection('stories');
+  const stories = await getCollection('stories', ({ id }) => id.startsWith('en/'));
   return stories.map((story) => ({
-    params: { slug: story.id },
+    params: { slug: story.id.slice('en/'.length) },
     props: { story },
   }));
 }
 
 const { story } = Astro.props;
-const { Content } = await render(story);
-
-const formattedDate = story.data.date.toLocaleDateString('en-GB', {
-  day: 'numeric',
-  month: 'long',
-  year: 'numeric',
-});
 ---
 
-<Layout title={`${story.data.title} — Covent Garden Syndrome`} description={story.data.excerpt}>
-  <article class="story">
-    <a class="back" href="/">&larr; All stories</a>
-
-    <header>
-      <p class="date">{formattedDate}</p>
-      <h1>{story.data.title}</h1>
-    </header>
-
-    {story.data.cover && <img class="cover" src={story.data.cover} alt="" />}
-
-    <div class="prose">
-      <Content />
-    </div>
-  </article>
-</Layout>
-
-<style>
-  .story {
-    max-width: 42rem;
-    margin: 0 auto;
-    padding: 3rem 1.5rem 6rem;
-  }
-
-  .back {
-    display: inline-block;
-    margin-bottom: 2.5rem;
-    color: var(--ink-dim);
-    text-decoration: none;
-    font-size: 0.9rem;
-  }
-
-  .back:hover {
-    color: var(--ink);
-  }
-
-  .date {
-    margin: 0 0 0.5em;
-    font-size: 0.75rem;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    color: var(--ink-dim);
-  }
-
-  h1 {
-    font-size: clamp(1.9rem, 4.5vw, 2.6rem);
-  }
-
-  .cover {
-    width: 100%;
-    margin: 2.5rem 0;
-    border: 1px solid var(--rule);
-  }
-
-  .prose {
-    margin-top: 2.5rem;
-    font-size: 1.05rem;
-  }
-
-  .prose :global(p) {
-    margin: 0 0 1.4em;
-  }
-
-  .prose :global(img) {
-    width: 100%;
-    margin: 2em 0;
-    border: 1px solid var(--rule);
-  }
-
-  .prose :global(h2) {
-    margin: 1.8em 0 0.6em;
-    font-size: 1.4rem;
-  }
-</style>
+<StoryDetail lang="en" story={story} />
