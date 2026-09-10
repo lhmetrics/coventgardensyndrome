@@ -88,6 +88,10 @@ const formattedDate = story.data.date.toLocaleDateString(localeTags[lang], {
     margin-top: 2.5rem;
     font-family: var(--serif);
     font-size: 1.05rem;
+    /* Zoomed inline images (below) are allowed to visually overflow this
+       column so they can enlarge in place; clip at the column edge instead
+       of letting them force page-wide horizontal scroll. */
+    overflow-x: hidden;
   }
 
   .prose :global(p) {
@@ -98,6 +102,19 @@ const formattedDate = story.data.date.toLocaleDateString(localeTags[lang], {
     width: 100%;
     margin: 2em 0;
     border: 1px solid var(--rule);
+    /* Tap-or-hover to enlarge: no JS needed — :hover also fires on tap for
+       a plain (non-link) element on iOS/Android, so this doubles as a
+       touch affordance. Scale is modest so it stays fully visible even on
+       narrow phones (see the .prose overflow-x rule above). */
+    cursor: zoom-in;
+    position: relative;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+  }
+
+  .prose :global(img:hover) {
+    transform: scale(1.4);
+    box-shadow: 0 1rem 2.5rem rgba(0, 0, 0, 0.5);
+    z-index: 1;
   }
 
   .prose :global(h2) {
