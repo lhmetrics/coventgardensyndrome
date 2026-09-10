@@ -4,8 +4,9 @@ import Layout from '../layouts/Layout.astro';
 import LangSwitcher from './LangSwitcher.astro';
 import SectionsMenu from './SectionsMenu.astro';
 import SectionBadge from './SectionBadge.astro';
+import BrandMark from './BrandMark.astro';
 import { ui } from '../i18n/ui';
-import { localeTags, type Locale } from '../i18n/locales';
+import { locales, localeTags, type Locale } from '../i18n/locales';
 import { getHomePath, getStoryPath } from '../i18n/paths';
 
 interface Props {
@@ -35,6 +36,13 @@ const nextStory =
   currentIndex >= 0 && currentIndex < allStories.length - 1
     ? allStories[currentIndex + 1]
     : undefined;
+
+// Which locales this same story (by slug) actually exists in, so the
+// language switcher can deep-link to the translation instead of always
+// falling back to that locale's homepage.
+const slug = story.id.slice(lang.length + 1);
+const allSlugs = await getCollection('stories');
+const availableLocales = locales.filter((l) => allSlugs.some((s) => s.id === `${l}/${slug}`));
 ---
 
 <Layout
@@ -44,7 +52,12 @@ const nextStory =
 >
   <article class="story">
     <SectionsMenu lang={lang} />
-    <LangSwitcher lang={lang} />
+    <LangSwitcher lang={lang} storySlug={slug} availableLocales={availableLocales} />
+
+    <div class="masthead">
+      <BrandMark lang={lang} />
+    </div>
+
     <a class="back" href={getHomePath(lang)}>{t.back}</a>
 
     <header>
@@ -63,18 +76,28 @@ const nextStory =
       (prevStory || nextStory) && (
         <nav class="chapter-nav" aria-label="Chapters">
           {prevStory ? (
-            <a class="chapter-link prev" href={getStoryPath(lang, prevStory.id.slice(lang.length + 1))}>
-              <span class="chapter-label">{t.prevChapter}</span>
-              <span class="chapter-title">{prevStory.data.title}</span>
-            </a>
+            <div class="chapter-card">
+              {prevStory.data.section && (
+                <SectionBadge lang={lang} sectionId={prevStory.data.section} />
+              )}
+              <a class="chapter-link" href={getStoryPath(lang, prevStory.id.slice(lang.length + 1))}>
+                <span class="chapter-label">{t.prevChapter}</span>
+                <span class="chapter-title">{prevStory.data.title}</span>
+              </a>
+            </div>
           ) : (
             <span />
           )}
           {nextStory ? (
-            <a class="chapter-link next" href={getStoryPath(lang, nextStory.id.slice(lang.length + 1))}>
-              <span class="chapter-label">{t.nextChapter}</span>
-              <span class="chapter-title">{nextStory.data.title}</span>
-            </a>
+            <div class="chapter-card next">
+              {nextStory.data.section && (
+                <SectionBadge lang={lang} sectionId={nextStory.data.section} />
+              )}
+              <a class="chapter-link" href={getStoryPath(lang, nextStory.id.slice(lang.length + 1))}>
+                <span class="chapter-label">{t.nextChapter}</span>
+                <span class="chapter-title">{nextStory.data.title}</span>
+              </a>
+            </div>
           ) : (
             <span />
           )}
@@ -90,6 +113,11 @@ const nextStory =
     max-width: 42rem;
     margin: 0 auto;
     padding: 3rem 1.5rem 6rem;
+  }
+
+  .masthead {
+    text-align: center;
+    margin-bottom: 2rem;
   }
 
   .back {
@@ -172,25 +200,32 @@ const nextStory =
     border-top: 1px solid var(--rule);
   }
 
-  .chapter-link {
+  .chapter-card {
     flex: 1;
     display: flex;
     flex-direction: column;
-    gap: 0.4em;
-    text-decoration: none;
-    color: inherit;
+    align-items: flex-start;
+    gap: 0.5em;
     padding: 1rem;
     border: 1px solid var(--rule);
     transition: border-color 0.2s ease;
   }
 
-  .chapter-link:hover {
+  .chapter-card:hover {
     border-color: var(--accent);
   }
 
-  .chapter-link.next {
+  .chapter-card.next {
     text-align: right;
     align-items: flex-end;
+  }
+
+  .chapter-link {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4em;
+    text-decoration: none;
+    color: inherit;
   }
 
   .chapter-label {
@@ -205,7 +240,7 @@ const nextStory =
     font-size: 1.05rem;
   }
 
-  .chapter-link:hover .chapter-title {
+  .chapter-card:hover .chapter-title {
     color: var(--accent);
   }
 
@@ -214,7 +249,7 @@ const nextStory =
       flex-direction: column;
     }
 
-    .chapter-link.next {
+    .chapter-card.next {
       text-align: left;
       align-items: flex-start;
     }

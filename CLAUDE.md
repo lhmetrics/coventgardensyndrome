@@ -65,9 +65,13 @@ hand-rolled, not Astro's built-in `i18n` routing config.
   from which folder a file lives in — there is no `lang` frontmatter
   field. Each per-locale `[slug].astro` page filters the collection by
   `id.startsWith('<lang>/')` and strips that prefix to get the route slug.
-  A story does not need to exist in all three languages; if a translation
-  is missing, the language switcher on story pages always falls back to
-  that locale's homepage (not a missing translated story).
+  A story does not need to exist in all three languages; the language
+  switcher ([`LangSwitcher.astro`](src/components/LangSwitcher.astro)) on a
+  story page deep-links to that same slug's translation when it exists
+  (checked at build time against the collection) and falls back to that
+  locale's homepage only when the translation is missing. On section pages
+  it always deep-links to the section (sections are a fixed taxonomy that
+  exists in every locale, unlike stories).
 - **Photos** go in `public/photos/`, referenced as absolute paths
   (`/photos/foo.jpg`) — both as a story's optional `cover` frontmatter
   field and inline in markdown body.

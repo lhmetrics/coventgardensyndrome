@@ -1,18 +1,35 @@
 ---
 import { locales, localeLabels, type Locale } from '../i18n/locales';
-import { getHomePath } from '../i18n/paths';
+import { getHomePath, getSectionPath, getStoryPath } from '../i18n/paths';
+import type { SectionId } from '../i18n/sections';
 
 interface Props {
   lang: Locale;
+  // Section pages: sections are a fixed taxonomy that exists in every
+  // locale, so switching language can always deep-link to the same
+  // section's page in the target locale.
+  sectionId?: SectionId;
+  // Story pages: a story doesn't necessarily exist in all 3 locales (see
+  // repo CLAUDE.md), so the caller must say which locales this slug is
+  // actually available in — switching to any other locale falls back to
+  // that locale's homepage instead of a missing page.
+  storySlug?: string;
+  availableLocales?: readonly Locale[];
 }
 
-const { lang } = Astro.props;
+const { lang, sectionId, storySlug, availableLocales } = Astro.props;
+
+function hrefFor(l: Locale) {
+  if (sectionId) return getSectionPath(l, sectionId);
+  if (storySlug && availableLocales?.includes(l)) return getStoryPath(l, storySlug);
+  return getHomePath(l);
+}
 ---
 
 <nav class="lang-switch" aria-label="Language">
   {
     locales.map((l) => (
-      <a href={getHomePath(l)} aria-current={l === lang ? 'page' : undefined}>
+      <a href={hrefFor(l)} aria-current={l === lang ? 'page' : undefined}>
         {localeLabels[l]}
       </a>
     ))

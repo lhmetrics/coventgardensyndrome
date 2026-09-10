@@ -4,6 +4,7 @@ import Layout from '../layouts/Layout.astro';
 import StoryCard from './StoryCard.astro';
 import LangSwitcher from './LangSwitcher.astro';
 import SectionsMenu from './SectionsMenu.astro';
+import BrandMark from './BrandMark.astro';
 import { ui } from '../i18n/ui';
 import type { Locale } from '../i18n/locales';
 import { getHomePath } from '../i18n/paths';
@@ -48,9 +49,12 @@ function renderCard(story: (typeof storiesOldestFirst)[number]) {
   lang={lang}
 >
   <SectionsMenu lang={lang} />
-  <LangSwitcher lang={lang} />
+  <LangSwitcher lang={lang} sectionId={sectionId} />
 
   <header class="section-hero">
+    <div class="masthead">
+      <BrandMark lang={lang} />
+    </div>
     <p class="emoji">{section.emoji}</p>
     <h1>{section.title}</h1>
     <p class="description">{section.description}</p>
@@ -107,6 +111,10 @@ function renderCard(story: (typeof storiesOldestFirst)[number]) {
     margin: 0 auto;
     padding: 6rem 1.5rem 2.5rem;
     text-align: center;
+  }
+
+  .masthead {
+    margin-bottom: 2rem;
   }
 
   .emoji {

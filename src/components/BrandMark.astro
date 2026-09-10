@@ -1,0 +1,30 @@
+---
+// Small persistent site wordmark for pages that don't show the full
+// hero (story pages, section pages) — reuses the homepage's script-font
+// treatment so it reads as the same brand, and links back home.
+import type { Locale } from '../i18n/locales';
+import { getHomePath } from '../i18n/paths';
+
+interface Props {
+  lang: Locale;
+}
+
+const { lang } = Astro.props;
+---
+
+<a class="brand-mark" href={getHomePath(lang)}>Covent Garden Syndrome</a>
+
+<style>
+  .brand-mark {
+    display: inline-block;
+    font-family: var(--script);
+    font-size: 1.5rem;
+    color: var(--turquoise);
+    text-decoration: none;
+    letter-spacing: 0.01em;
+  }
+
+  .brand-mark:hover {
+    opacity: 0.85;
+  }
+</style>
