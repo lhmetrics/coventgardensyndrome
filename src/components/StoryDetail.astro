@@ -24,17 +24,25 @@ const formattedDate = story.data.date.toLocaleDateString(localeTags[lang], {
   year: 'numeric',
 });
 
-// Prev/next chapter nav: same ordering as the homepage (oldest first), so
-// "next" always means "the next chapter in the site's story", regardless
-// of section. First/last story simply omits the missing side.
-const allStories = (await getCollection('stories', ({ id }) => id.startsWith(`${lang}/`))).sort(
-  (a, b) => a.data.date.valueOf() - b.data.date.valueOf(),
-);
-const currentIndex = allStories.findIndex((s) => s.id === story.id);
-const prevStory = currentIndex > 0 ? allStories[currentIndex - 1] : undefined;
+// Prev/next chapter nav: scoped to the current story's own section — each
+// section reads like its own book, so chapters don't hop between sections
+// (Elena's call, discussed with her spouse). A sectionless story has no
+// "book" to walk, so it gets no chapter nav at all. Ordering matches the
+// homepage/section-page default (oldest first); first/last chapter in the
+// section simply omits the missing side.
+const sectionStories = story.data.section
+  ? (
+      await getCollection(
+        'stories',
+        ({ id, data }) => id.startsWith(`${lang}/`) && data.section === story.data.section,
+      )
+    ).sort((a, b) => a.data.date.valueOf() - b.data.date.valueOf())
+  : [];
+const currentIndex = sectionStories.findIndex((s) => s.id === story.id);
+const prevStory = currentIndex > 0 ? sectionStories[currentIndex - 1] : undefined;
 const nextStory =
-  currentIndex >= 0 && currentIndex < allStories.length - 1
-    ? allStories[currentIndex + 1]
+  currentIndex >= 0 && currentIndex < sectionStories.length - 1
+    ? sectionStories[currentIndex + 1]
     : undefined;
 
 // Which locales this same story (by slug) actually exists in, so the
@@ -76,28 +84,18 @@ const availableLocales = locales.filter((l) => allSlugs.some((s) => s.id === `${
       (prevStory || nextStory) && (
         <nav class="chapter-nav" aria-label="Chapters">
           {prevStory ? (
-            <div class="chapter-card">
-              {prevStory.data.section && (
-                <SectionBadge lang={lang} sectionId={prevStory.data.section} />
-              )}
-              <a class="chapter-link" href={getStoryPath(lang, prevStory.id.slice(lang.length + 1))}>
-                <span class="chapter-label">{t.prevChapter}</span>
-                <span class="chapter-title">{prevStory.data.title}</span>
-              </a>
-            </div>
+            <a class="chapter-link" href={getStoryPath(lang, prevStory.id.slice(lang.length + 1))}>
+              <span class="chapter-label">{t.prevChapter}</span>
+              <span class="chapter-title">{prevStory.data.title}</span>
+            </a>
           ) : (
             <span />
           )}
           {nextStory ? (
-            <div class="chapter-card next">
-              {nextStory.data.section && (
-                <SectionBadge lang={lang} sectionId={nextStory.data.section} />
-              )}
-              <a class="chapter-link" href={getStoryPath(lang, nextStory.id.slice(lang.length + 1))}>
-                <span class="chapter-label">{t.nextChapter}</span>
-                <span class="chapter-title">{nextStory.data.title}</span>
-              </a>
-            </div>
+            <a class="chapter-link next" href={getStoryPath(lang, nextStory.id.slice(lang.length + 1))}>
+              <span class="chapter-label">{t.nextChapter}</span>
+              <span class="chapter-title">{nextStory.data.title}</span>
+            </a>
           ) : (
             <span />
           )}
@@ -200,32 +198,25 @@ const availableLocales = locales.filter((l) => allSlugs.some((s) => s.id === `${
     border-top: 1px solid var(--rule);
   }
 
-  .chapter-card {
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 0.5em;
-    padding: 1rem;
-    border: 1px solid var(--rule);
-    transition: border-color 0.2s ease;
-  }
-
-  .chapter-card:hover {
-    border-color: var(--accent);
-  }
-
-  .chapter-card.next {
-    text-align: right;
-    align-items: flex-end;
-  }
-
   .chapter-link {
+    flex: 1;
     display: flex;
     flex-direction: column;
     gap: 0.4em;
     text-decoration: none;
     color: inherit;
+    padding: 1rem;
+    border: 1px solid var(--rule);
+    transition: border-color 0.2s ease;
+  }
+
+  .chapter-link:hover {
+    border-color: var(--accent);
+  }
+
+  .chapter-link.next {
+    text-align: right;
+    align-items: flex-end;
   }
 
   .chapter-label {
@@ -240,7 +231,7 @@ const availableLocales = locales.filter((l) => allSlugs.some((s) => s.id === `${
     font-size: 1.05rem;
   }
 
-  .chapter-card:hover .chapter-title {
+  .chapter-link:hover .chapter-title {
     color: var(--accent);
   }
 
@@ -249,7 +240,7 @@ const availableLocales = locales.filter((l) => allSlugs.some((s) => s.id === `${
       flex-direction: column;
     }
 
-    .chapter-card.next {
+    .chapter-link.next {
       text-align: left;
       align-items: flex-start;
     }
