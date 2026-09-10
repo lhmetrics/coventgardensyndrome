@@ -1,0 +1,98 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+import StoryCard from '../components/StoryCard.astro';
+
+const stories = (await getCollection('stories')).sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
+);
+---
+
+<Layout title="Covent Garden Syndrome">
+  <header class="hero">
+    <p class="kicker">Covent Garden Syndrome</p>
+    <h1>Stories &amp; Photographs</h1>
+    <p class="lede">
+      A slow, ongoing journal — places passed through, people met along the way,
+      and the photographs that came out of it.
+    </p>
+  </header>
+
+  <main class="content">
+    {
+      stories.length > 0 ? (
+        <section class="grid">
+          {stories.map((story) => (
+            <StoryCard
+              slug={story.id}
+              title={story.data.title}
+              date={story.data.date}
+              excerpt={story.data.excerpt}
+              cover={story.data.cover}
+            />
+          ))}
+        </section>
+      ) : (
+        <p class="empty">The first story hasn't been posted yet — check back soon.</p>
+      )
+    }
+  </main>
+
+  <footer class="footer">
+    <p>&copy; {new Date().getFullYear()} Covent Garden Syndrome</p>
+  </footer>
+</Layout>
+
+<style>
+  .hero {
+    max-width: 44rem;
+    margin: 0 auto;
+    padding: 5.5rem 1.5rem 3rem;
+    text-align: center;
+  }
+
+  .kicker {
+    margin: 0 0 0.75em;
+    font-size: 0.8rem;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--accent);
+  }
+
+  h1 {
+    font-size: clamp(2.25rem, 5vw, 3.25rem);
+  }
+
+  .lede {
+    margin: 1.25em auto 0;
+    max-width: 34rem;
+    color: var(--ink-dim);
+    font-size: 1.05rem;
+  }
+
+  .content {
+    max-width: 72rem;
+    margin: 0 auto;
+    padding: 2rem 1.5rem 5rem;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
+    gap: 2.5rem 2rem;
+  }
+
+  .empty {
+    text-align: center;
+    color: var(--ink-dim);
+    padding: 3rem 0;
+  }
+
+  .footer {
+    border-top: 1px solid var(--rule);
+    padding: 2rem 1.5rem;
+    text-align: center;
+    color: var(--ink-dim);
+    font-size: 0.85rem;
+  }
+</style>
