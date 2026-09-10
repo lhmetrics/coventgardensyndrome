@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <!-- Placeholder cover for Synergy: Human & AI stories, until a real photo
+       is supplied — a simple circle-and-bolt mark using the site's own
+       design tokens (see Layout.astro :root). Swap the story's `cover`
+       frontmatter to a real photo when one is ready; this file can stay
+       for future placeholder needs. -->
+  <rect width="800" height="600" fill="#16140f" />
+  <circle cx="400" cy="300" r="150" fill="#0e0d0b" stroke="#c9a24b" stroke-width="3" />
+  <text x="400" y="300" font-size="170" text-anchor="middle" dominant-baseline="central">⚡</text>
+</svg>
