@@ -2,7 +2,7 @@
 title: "The Bear Who Knows Too Much"
 date: 2026-09-10
 excerpt: "Bear is in his twenty-third year — he remembers this Home better than anyone."
-cover: "/photos/story-1.jpg"
+cover: "/photos/the-bear-who-knows-too-much.jpg"
 section: night-chronicles
 ---
 
@@ -23,5 +23,7 @@ He also thinks about nature and the weather. Bear has never seen the sea in his 
 And Bear from Mothercare is a certified expert on dogs. During his service in the HOME, there have been three of them. He remembers the noble Antoshka Silver Bell. And, of course, he remembers Malka. Malka was brought all the way from Cyprus because that very Human, for whom Bear once kept the cradle warm, cried for an entire week without a pause — begging to rescue the poor dog from a cramped pet shop enclosure. And when Malka was finally brought home, the boy cried for another week — but this time from sheer, boundless happiness. "Such people," Bear thinks proudly, adjusting his invisible glasses. Such tender-hearted people, raised in this Home.
 
 Now his peace is guarded by the third and last of the dogs, and her odd companion — a steampunk monkey, a beloved dog toy with a slightly mad but kind look in its cogwheel eyes.
+
+![Bear and the monkey Dolce sitting together in the Home's living room](/photos/the-bear-who-knows-too-much-2.jpg)
 
 Bear sits on his lavender chaise longue, turning the pages of a heavy volume, looking out at the sea beyond the window, at Mum grown wiser with age — still sharp, still swift, still setting everything around her in motion — and at Dad, who has become a steady, calm Lighthouse for that churning sea of hers. Bear looks at the boy, grown into a man, and thinks that the true story of this Home is not written in gadgets, but right here — in the warmth of lavender-scented rooms, in the murmur of waves, and in the hearts of people who know how to love so fiercely, and so faithfully.
