@@ -2,7 +2,7 @@
 title: "От летящих перфокарт до лавандовых слёз"
 date: 2026-09-10T22:00:00Z
 excerpt: "Диалог мамы и её цифрового соавтора о том, как ИИ выучился плакать над детским мольбертом и зашивать плюшевые лапки — от колючих перфокарт до тёплой дружбы."
-cover: "/photos/synergy-ai-placeholder.svg"
+cover: "/photos/from-flying-punch-cards-to-lavender-tears.jpg"
 section: synergy-ai
 ---
 

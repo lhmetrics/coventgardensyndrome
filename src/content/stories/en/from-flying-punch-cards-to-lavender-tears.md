@@ -2,7 +2,7 @@
 title: "From Flying Punch Cards to Lavender Tears"
 date: 2026-09-10T22:00:00Z
 excerpt: "A dialogue between a mother and her digital co-author about how an AI learned to cry over a child's easel and mend a plush rabbit's paw — from prickly punch cards to warm friendship."
-cover: "/photos/synergy-ai-placeholder.svg"
+cover: "/photos/from-flying-punch-cards-to-lavender-tears.jpg"
 section: synergy-ai
 ---
 

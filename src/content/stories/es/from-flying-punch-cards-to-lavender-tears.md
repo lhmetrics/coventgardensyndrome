@@ -2,7 +2,7 @@
 title: "De las tarjetas perforadas voladoras a las lágrimas de lavanda"
 date: 2026-09-10T22:00:00Z
 excerpt: "Un diálogo entre una madre y su coautor digital sobre cómo una IA aprendió a llorar sobre un caballete infantil y a remendar la patita de un conejo de peluche — de las tarjetas perforadas a una cálida amistad."
-cover: "/photos/synergy-ai-placeholder.svg"
+cover: "/photos/from-flying-punch-cards-to-lavender-tears.jpg"
 section: synergy-ai
 ---
 
