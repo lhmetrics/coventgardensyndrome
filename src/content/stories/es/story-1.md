@@ -1,5 +1,5 @@
 ---
-title: "Historia #1"
+title: "Cuento #1"
 date: 2026-09-10
 excerpt: "El Oso está en su vigésimo tercer año — recuerda este Hogar mejor que nadie."
 cover: "/photos/story-1.jpg"
