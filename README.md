@@ -38,6 +38,16 @@ lives in [`src/i18n/ui.ts`](src/i18n/ui.ts).
 The `TMP/` folder (untracked, see its own README) is just a local scratch
 space for dropping raw photos/text before they're turned into a story.
 
+## Content editor (for non-technical editing)
+
+`/admin/` on the live site is a [Sveltia CMS](https://github.com/sveltia/sveltia-cms)
+form-based editor — add/edit stories and upload photos from a browser, no
+git or code needed. It commits straight to `main` as whoever is signed in
+with GitHub, using their own repo access. Config: `public/admin/config.yml`.
+Login goes through a GitHub OAuth App + a Cloudflare Worker proxy
+(`cms-auth.coventgardensyndrome.com`) — see the setup notes in `CLAUDE.md`
+if that ever needs to be recreated.
+
 ## Local development
 
 Requires Node.js 20.3+ or 22+.

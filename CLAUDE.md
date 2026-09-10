@@ -111,3 +111,35 @@ needs re-creating.
 
 **No Cloudflare API/MCP access is configured in this environment** — DNS
 changes there need the owner to do them manually in the dashboard.
+
+## Content editor (Sveltia CMS)
+
+`public/admin/index.html` + `public/admin/config.yml` set up
+[Sveltia CMS](https://github.com/sveltia/sveltia-cms) (an actively
+maintained, Decap-CMS-compatible drop-in — Decap itself has unpatched
+known vulnerabilities as of 2026, don't switch back to it) as a
+form-based `/admin/` editor, so a non-technical collaborator (Elena's
+spouse) can add/edit stories and photos from a browser and have it commit
+straight to `main` under their own GitHub account — no terminal, no git.
+The config defines one folder collection per locale (`stories_ru`,
+`stories_en`, `stories_es`), matching the `src/content/stories/<lang>/`
+layout; it does **not** cover the homepage manifesto/UI copy
+(`src/i18n/ui.ts`) or design changes — those still go through Claude Code.
+
+This needs two pieces of external, one-time setup that live outside the
+repo (only recreate if the login flow breaks):
+
+1. A **GitHub OAuth App** (github.com/settings/developers, owned by the
+   `lhmetrics` account), with its callback URL pointing at
+   `https://cms-auth.coventgardensyndrome.com/callback`.
+2. A **Cloudflare Worker** running an OAuth proxy (e.g.
+   [`sveltia/sveltia-cms-auth`](https://github.com/sveltia/sveltia-cms-auth)),
+   with the OAuth App's client ID/secret set as Worker secrets, and a
+   custom domain `cms-auth.coventgardensyndrome.com` attached to it (DNS
+   for this is handled automatically by Cloudflare once that custom
+   domain is added in the Worker's settings — no manual DNS record needed,
+   unlike the apex/`www` records for the main site).
+
+Repo access for editors is a plain GitHub collaborator invite
+(`gh api -X PUT repos/lhmetrics/coventgardensyndrome/collaborators/<user> -f "permission=push"`),
+not tied to the CMS setup itself.

@@ -1,0 +1,45 @@
+backend:
+  name: github
+  repo: lhmetrics/coventgardensyndrome
+  branch: main
+  base_url: "https://cms-auth.coventgardensyndrome.com"
+
+media_folder: "public/photos"
+public_folder: "/photos"
+
+collections:
+  - name: "stories_ru"
+    label: "Истории (русский)"
+    folder: "src/content/stories/ru"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Заголовок", name: "title", widget: "string" }
+      - { label: "Дата", name: "date", widget: "date" }
+      - { label: "Краткое описание (для карточки)", name: "excerpt", widget: "string", required: false }
+      - { label: "Обложка", name: "cover", widget: "image", required: false }
+      - { label: "Текст истории", name: "body", widget: "markdown" }
+
+  - name: "stories_en"
+    label: "Stories (English)"
+    folder: "src/content/stories/en"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "date" }
+      - { label: "Excerpt (card teaser)", name: "excerpt", widget: "string", required: false }
+      - { label: "Cover photo", name: "cover", widget: "image", required: false }
+      - { label: "Story text", name: "body", widget: "markdown" }
+
+  - name: "stories_es"
+    label: "Historias (Español)"
+    folder: "src/content/stories/es"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Título", name: "title", widget: "string" }
+      - { label: "Fecha", name: "date", widget: "date" }
+      - { label: "Resumen breve", name: "excerpt", widget: "string", required: false }
+      - { label: "Foto de portada", name: "cover", widget: "image", required: false }
+      - { label: "Texto de la historia", name: "body", widget: "markdown" }
