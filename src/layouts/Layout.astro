@@ -26,12 +26,6 @@ const {
     <meta name="description" content={description} />
     <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Petit+Formal+Script&display=swap"
-    />
     {
       alternates &&
         Object.entries(alternates).map(([hreflang, href]) => (
@@ -61,10 +55,7 @@ const {
     --rule: #2a271f;
     --serif: Georgia, 'Times New Roman', 'Iowan Old Style', serif;
     --sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
-    /* Petit Formal Script (Google Fonts) is the closest free match to
-       Apple Chancery's formal calligraphic look, and renders the same
-       for every visitor regardless of OS. */
-    --script: 'Petit Formal Script', 'Apple Chancery', cursive;
+    --script: 'Apple Chancery', 'Lucida Handwriting', 'Brush Script MT', cursive;
   }
 
   * {
