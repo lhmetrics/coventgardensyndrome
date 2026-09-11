@@ -51,12 +51,22 @@ const nextStory =
 const slug = story.id.slice(lang.length + 1);
 const allSlugs = await getCollection('stories');
 const availableLocales = locales.filter((l) => allSlugs.some((s) => s.id === `${l}/${slug}`));
+
+// hreflang alternates for <head> and (via the sitemap) search engines —
+// only the locales this story actually has a translation in.
+const alternates = Object.fromEntries(availableLocales.map((l) => [l, getStoryPath(l, slug)]));
+if (availableLocales.includes('en')) {
+  alternates['x-default'] = getStoryPath('en', slug);
+}
 ---
 
 <Layout
   title={`${story.data.title} — Covent Garden Syndrome`}
   description={story.data.excerpt}
   lang={lang}
+  alternates={alternates}
+  image={story.data.cover}
+  type="article"
 >
   <article class="story">
     <SectionsMenu lang={lang} />

@@ -24,10 +24,10 @@ const stories = (await getCollection('stories', ({ id }) => id.startsWith(`${lan
   (a, b) => a.data.date.valueOf() - b.data.date.valueOf(),
 );
 
-const alternates = Object.fromEntries(locales.map((l) => [l, getHomePath(l)])) as Record<
-  Locale,
-  string
->;
+const alternates = {
+  ...Object.fromEntries(locales.map((l) => [l, getHomePath(l)])),
+  'x-default': getHomePath('en'),
+};
 ---
 
 <Layout

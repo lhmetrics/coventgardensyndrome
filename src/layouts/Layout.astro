@@ -1,12 +1,21 @@
 ---
-import { defaultLocale, type Locale } from '../i18n/locales';
+import { defaultLocale, locales, localeTags, type Locale } from '../i18n/locales';
 
 interface Props {
   title: string;
   description?: string;
   lang?: Locale;
-  // Map of locale -> path, for hreflang alternate links (e.g. from getHomePath/getStoryPath).
-  alternates?: Partial<Record<Locale, string>>;
+  // Map of locale -> path (e.g. from getHomePath/getStoryPath/getSectionPath),
+  // for hreflang alternate links. An 'x-default' key is also accepted, for
+  // the language-neutral fallback search engines use when none of a
+  // visitor's languages match.
+  alternates?: Partial<Record<Locale | 'x-default', string>>;
+  // Absolute or root-relative path to a representative image (og:image /
+  // twitter:image). Falls back to the site's default hero photo.
+  image?: string;
+  // 'article' for a single story, 'website' for everything else
+  // (homepage, section index pages).
+  type?: 'website' | 'article';
 }
 
 const {
@@ -14,7 +23,14 @@ const {
   description = 'Covent Garden Syndrome — a personal journal of stories and photographs.',
   lang = defaultLocale,
   alternates,
+  image = '/photos/hero.jpg',
+  type = 'website',
 } = Astro.props;
+
+const canonicalPath = alternates?.[lang];
+const canonicalURL = new URL(canonicalPath ?? Astro.url.pathname, Astro.site);
+const imageURL = new URL(image, Astro.site);
+const ogLocale = localeTags[lang].replace('-', '_');
 ---
 
 <!doctype html>
@@ -26,12 +42,35 @@ const {
     <meta name="description" content={description} />
     <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
+    <link rel="canonical" href={canonicalURL} />
     {
       alternates &&
         Object.entries(alternates).map(([hreflang, href]) => (
           <link rel="alternate" hreflang={hreflang} href={new URL(href, Astro.site)} />
         ))
     }
+
+    <!-- Open Graph -->
+    <meta property="og:site_name" content="Covent Garden Syndrome" />
+    <meta property="og:type" content={type} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonicalURL} />
+    <meta property="og:image" content={imageURL} />
+    <meta property="og:locale" content={ogLocale} />
+    {
+      alternates &&
+        locales
+          .filter((l) => l !== lang && alternates[l])
+          .map((l) => <meta property="og:locale:alternate" content={localeTags[l].replace('-', '_')} />)
+    }
+
+    <!-- Twitter Card (no @handle configured — this is a personal project,
+         not a brand account) -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={imageURL} />
   </head>
   <body>
     <slot />
