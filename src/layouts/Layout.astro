@@ -42,6 +42,9 @@ const ogLocale = localeTags[lang].replace('-', '_');
     <meta name="description" content={description} />
     <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
+    <!-- Bing Webmaster Tools site verification (alternative to
+         public/BingSiteAuth.xml — Bing accepts either). -->
+    <meta name="msvalidate.01" content="BF6E5023F915CEE7FB4D9098C7CDCDF6" />
     <link rel="canonical" href={canonicalURL} />
     {
       alternates &&
