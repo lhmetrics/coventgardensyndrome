@@ -16,6 +16,11 @@ interface Props {
   // 'article' for a single story, 'website' for everything else
   // (homepage, section index pages).
   type?: 'website' | 'article';
+  // article:* tags — only meaningful (and only rendered) when type is
+  // 'article'. publishedTime is an ISO 8601 string; section is that
+  // story's section title in the current locale.
+  publishedTime?: string;
+  section?: string;
 }
 
 const {
@@ -25,6 +30,8 @@ const {
   alternates,
   image = '/photos/hero.jpg',
   type = 'website',
+  publishedTime,
+  section,
 } = Astro.props;
 
 const canonicalPath = alternates?.[lang];
@@ -67,6 +74,10 @@ const ogLocale = localeTags[lang].replace('-', '_');
           .filter((l) => l !== lang && alternates[l])
           .map((l) => <meta property="og:locale:alternate" content={localeTags[l].replace('-', '_')} />)
     }
+    {type === 'article' && publishedTime && (
+      <meta property="article:published_time" content={publishedTime} />
+    )}
+    {type === 'article' && section && <meta property="article:section" content={section} />}
 
     <!-- Twitter Card (no @handle configured — this is a personal project,
          not a brand account) -->

@@ -8,6 +8,7 @@ import BrandMark from './BrandMark.astro';
 import { ui } from '../i18n/ui';
 import { locales, localeTags, type Locale } from '../i18n/locales';
 import { getHomePath, getStoryPath } from '../i18n/paths';
+import { sections } from '../i18n/sections';
 
 interface Props {
   lang: Locale;
@@ -67,6 +68,8 @@ if (availableLocales.includes('en')) {
   alternates={alternates}
   image={story.data.cover}
   type="article"
+  publishedTime={story.data.date.toISOString()}
+  section={story.data.section ? sections[story.data.section][lang].title : undefined}
 >
   <article class="story">
     <SectionsMenu lang={lang} />
