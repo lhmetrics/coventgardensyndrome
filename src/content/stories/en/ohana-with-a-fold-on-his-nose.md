@@ -1,12 +1,12 @@
 ---
-title: "Chapter 4: Ohana with a Fold on His Nose"
+title: "Ohana with a Fold on His Nose"
 date: 2026-09-11T09:00:00Z
 excerpt: "A sequel to Koska's story — how a blue alien with a stubborn fold on his nose took over guard duty, and the Hawaiian word 'Ohana' became the Family's shield."
 cover: "/photos/ohana-with-a-fold-on-his-nose.jpg"
 section: night-chronicles
 ---
 
-## Chapter 4: Ohana with a Fold on His Nose
+## Ohana with a Fold on His Nose
 
 Do you remember the story of Koska the rabbit? Do you remember how, in Disneyland Paris, he protected his buddy when the boy suddenly fell ill with a high temperature, and Mum had that clueless dialogue with the French fire brigade? That situation was anecdotal, yet so real.
 

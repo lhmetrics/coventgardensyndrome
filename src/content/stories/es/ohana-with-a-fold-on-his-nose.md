@@ -1,12 +1,12 @@
 ---
-title: "Capítulo 4: Ohana con un pliegue en la nariz"
+title: "Ohana con un pliegue en la nariz"
 date: 2026-09-11T09:00:00Z
 excerpt: "Una continuación de la historia de Koska — cómo un alienígena azul con un pliegue en la nariz asumió la guardia, y la palabra hawaiana 'Ohana' se convirtió en el escudo de la Familia."
 cover: "/photos/ohana-with-a-fold-on-his-nose.jpg"
 section: night-chronicles
 ---
 
-## Capítulo 4: Ohana con un pliegue en la nariz
+## Ohana con un pliegue en la nariz
 
 ¿Recuerdas la historia del conejo Koska? ¿Recuerdas cómo, en Disneyland París, protegió a su buddy cuando el niño enfermó repentinamente con fiebre alta, y Mamá mantuvo aquel diálogo absurdo con el cuerpo de bomberos francés? Aquella situación fue anecdótica, pero muy real.
 
