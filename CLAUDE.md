@@ -24,18 +24,37 @@ npm run preview   # preview the production build locally
 
 No test suite, linter, or formatter is configured.
 
-**Node version:** requires Node 20.3+ or 22+. The Astro version is pinned
-to `^5.18.2` deliberately — Astro 7 requires Node ≥22.12, but the local
-machine runs Node 20.20.1 (a Node 22 install exists via Homebrew at
-`/usr/local/Cellar/node@22` but isn't the linked/active `node`). Don't
-bump the astro dependency to 7.x without checking the active Node version
-first.
+**Node version:** the project is on Astro `^7.3.2` (upgraded from 5.18.2 to
+clear a critical RCE + several XSS advisories — see "Dependencies /
+security" below), which requires Node ≥22.12. The locally *linked* `node`
+is still 20.20.1 (too old), but a Node 22 install exists via Homebrew at
+`/usr/local/opt/node@22` — prepend it to `PATH` for any local
+install/dev/build command instead of relinking the system default:
+
+```sh
+export PATH="/usr/local/opt/node@22/bin:$PATH"
+```
+
+CI is unaffected either way — `withastro/action` (used in the deploy
+workflow) defaults to Node 24 regardless of what's configured here.
 
 **npm cache permissions:** the global npm cache (`~/.npm`) has root-owned
 files from a past `sudo npm` invocation, so a plain `npm install` fails
 with `EACCES`. Pass a writable cache dir instead of fixing it globally,
 e.g. `npm install --cache /tmp/some-writable-dir`, unless the user asks
 to fix it permanently (`sudo chown -R $(whoami) ~/.npm`).
+
+## Dependencies / security
+
+The only dependency is `astro` (everything else is transitive). Check
+`gh api repos/lhmetrics/coventgardensyndrome/dependabot/alerts` occasionally
+— since there's exactly one direct dependency, a clean `npm audit` (with
+Node 22 on `PATH`, see above) after bumping `astro` to latest resolves
+essentially everything in one go, as it did for the Sept 2026 batch (1
+critical RCE in `sharp`'s AVIF path + several `astro` XSS advisories, none
+of which were actually reachable — this site uses plain `<img>` tags, no
+`astro:assets`/`<Image>`, so the image-processing RCE path was never
+exercised — but not worth leaving unpatched regardless).
 
 ## Architecture
 

@@ -50,7 +50,7 @@ if that ever needs to be recreated.
 
 ## Local development
 
-Requires Node.js 20.3+ or 22+.
+Requires Node.js 22.12+.
 
 ```sh
 npm install
