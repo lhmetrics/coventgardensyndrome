@@ -77,7 +77,7 @@ export const sections: Record<SectionId, Record<Locale, SectionCopy>> = {
     },
     en: {
       emoji: '🔍',
-      title: 'Secrets of Stamps and Time',
+      title: 'Secrets of Hallmarks and Time',
       description:
         'A historical, hands-on guide for collectors — the story of the Bell harmonium, silver hallmarks, antique porcelain marks.',
     },
