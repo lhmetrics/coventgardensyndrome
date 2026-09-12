@@ -2,7 +2,7 @@
 title: "De Qué Callan las Cosas (A modo de prólogo)"
 date: 2026-09-12T21:00:00Z
 excerpt: "Un prólogo para \"Secretos de Sellos y Tiempo\": aprender a leer la historia a través de contrastes, grabados y firmas en objetos antiguos."
-cover: "/photos/stamps-time-placeholder.svg"
+cover: "/photos/what-things-stay-silent-about.jpg"
 section: stamps-time
 ---
 
