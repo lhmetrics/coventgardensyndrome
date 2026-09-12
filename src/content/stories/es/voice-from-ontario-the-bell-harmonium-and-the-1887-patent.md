@@ -4,6 +4,17 @@ date: 2026-09-12T22:00:00Z
 excerpt: "La placa «Bell Organ & Piano Co.» y una patente de 1887 para un pedal a prueba de ratones: lo que el armonio de nuestra Casa revela sobre la época victoriana."
 cover: "/photos/voice-from-ontario-the-bell-harmonium-and-the-1887-patent.jpg"
 section: stamps-time
+gallery:
+  - src: "/photos/voice-from-ontario-the-bell-harmonium-and-the-1887-patent-gallery-1.jpg"
+    alt: "El armonio Bell al pie de la escalera en la Casa"
+  - src: "/photos/voice-from-ontario-the-bell-harmonium-and-the-1887-patent-gallery-2.jpg"
+    alt: "La placa Guelph, Ontario y el teclado, en primer plano"
+  - src: "/photos/voice-from-ontario-the-bell-harmonium-and-the-1887-patent-gallery-3.jpg"
+    alt: "La marca de hierro fundido «Mouse Proof Pedal» en los pedales"
+  - src: "/photos/voice-from-ontario-the-bell-harmonium-and-the-1887-patent-gallery-4.jpg"
+    alt: "Perillas de registro de porcelana: Forte, Treble Coupler, Cremona, Hobo, Bass Coupler"
+  - src: "/photos/voice-from-ontario-the-bell-harmonium-and-the-1887-patent-gallery-5.jpg"
+    alt: "Perillas de registro de porcelana: Cremona, Hobo, Bass Coupler, Melodia, Flute"
 ---
 
 ## Una Voz desde Ontario: El Armonio Bell y la Patente de 1887

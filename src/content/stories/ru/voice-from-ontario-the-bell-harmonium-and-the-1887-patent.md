@@ -4,6 +4,17 @@ date: 2026-09-12T22:00:00Z
 excerpt: "Клеймо «Bell Organ & Piano Co.» и патент 1887 года на «мышиную» педаль: что фисгармония в нашем Доме рассказывает о викторианской эпохе."
 cover: "/photos/voice-from-ontario-the-bell-harmonium-and-the-1887-patent.jpg"
 section: stamps-time
+gallery:
+  - src: "/photos/voice-from-ontario-the-bell-harmonium-and-the-1887-patent-gallery-1.jpg"
+    alt: "Фисгармония Bell у лестницы в Доме"
+  - src: "/photos/voice-from-ontario-the-bell-harmonium-and-the-1887-patent-gallery-2.jpg"
+    alt: "Клеймо Guelph, Ontario и клавиатура крупным планом"
+  - src: "/photos/voice-from-ontario-the-bell-harmonium-and-the-1887-patent-gallery-3.jpg"
+    alt: "Чугунное клеймо «Mouse Proof Pedal» на педалях"
+  - src: "/photos/voice-from-ontario-the-bell-harmonium-and-the-1887-patent-gallery-4.jpg"
+    alt: "Фарфоровые ручки-регистры: Forte, Treble Coupler, Cremona, Hobo, Bass Coupler"
+  - src: "/photos/voice-from-ontario-the-bell-harmonium-and-the-1887-patent-gallery-5.jpg"
+    alt: "Фарфоровые ручки-регистры: Cremona, Hobo, Bass Coupler, Melodia, Flute"
 ---
 
 ## Голос из Онтарио: Фисгармония Bell и патент 1887 года

@@ -4,6 +4,17 @@ date: 2026-09-12T22:00:00Z
 excerpt: "The \"Bell Organ & Piano Co.\" nameplate and an 1887 patent for a mouse-proof pedal: what the harmonium in our Home reveals about the Victorian era."
 cover: "/photos/voice-from-ontario-the-bell-harmonium-and-the-1887-patent.jpg"
 section: stamps-time
+gallery:
+  - src: "/photos/voice-from-ontario-the-bell-harmonium-and-the-1887-patent-gallery-1.jpg"
+    alt: "The Bell harmonium at the foot of the stairs at Home"
+  - src: "/photos/voice-from-ontario-the-bell-harmonium-and-the-1887-patent-gallery-2.jpg"
+    alt: "The Guelph, Ontario nameplate and keyboard, close up"
+  - src: "/photos/voice-from-ontario-the-bell-harmonium-and-the-1887-patent-gallery-3.jpg"
+    alt: "The cast-iron \"Mouse Proof Pedal\" mark on the pedals"
+  - src: "/photos/voice-from-ontario-the-bell-harmonium-and-the-1887-patent-gallery-4.jpg"
+    alt: "Porcelain stop knobs: Forte, Treble Coupler, Cremona, Hobo, Bass Coupler"
+  - src: "/photos/voice-from-ontario-the-bell-harmonium-and-the-1887-patent-gallery-5.jpg"
+    alt: "Porcelain stop knobs: Cremona, Hobo, Bass Coupler, Melodia, Flute"
 ---
 
 ## A Voice from Ontario: The Bell Harmonium and the 1887 Patent
