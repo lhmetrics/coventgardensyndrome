@@ -18,11 +18,11 @@ Alyonka bathes with great, regal pleasure. She can luxuriate for hours in the wa
 
 The routine has been perfected down to the smallest detail: Mum gently bathes Alyonka and carefully hands her over into Dad's reliable hands — for drying and a final, relaxing massage. After that, the clean young lady flies like a bullet to inspect the bed and, of course, collect her rightfully earned evening biscuits.
 
+![Alyonka in the foam, mid-bath](/photos/bath-night-or-the-buttons-that-hold-it-together-2.jpg)
+
 —
 
 With Bibisechka, the procedure is considerably more complicated. As a rule, sphynx cats don't take much pleasure in bathing, they get fitted with special little caps, and the process itself stretches into eternity. Our case is no exception — except without the cap.
-
-![Bibisechka in the foam, mid-bath](/photos/bath-night-or-the-buttons-that-hold-it-together-2.jpg)
 
 The hairless daughter howls desperately across the entire Home during water procedures: "Muuum!" and "Heeelp meee!" But credit where it's due — at least she doesn't scratch anyone or try to escape. Or maybe it's simply that Mum's gentle hands aren't actually all that gentle, but rather quite firm and confident.
 

@@ -18,11 +18,11 @@ Aliónka se baña con gran placer, como una reina. Puede disfrutar durante horas
 
 El esquema está perfeccionado hasta el más mínimo detalle: Mamá baña con cariño a Aliónka y la entrega con cuidado a las manos fiables de Papá, para el secado y el masaje relajante final. Después de eso, la señorita limpia sale disparada a inspeccionar la cama y, por supuesto, a cobrar sus galletas nocturnas de rigor.
 
+![Aliónka entre la espuma, en pleno baño](/photos/bath-night-or-the-buttons-that-hold-it-together-2.jpg)
+
 —
 
 Con Bibisechka el procedimiento es considerablemente más complicado. Por lo general, los sphynx no disfrutan demasiado del baño, se les pone unos gorritos especiales, y el proceso en sí se estira hasta el infinito. Nuestro caso no es la excepción, salvo que sin el gorrito.
-
-![Bibisechka entre la espuma, en pleno baño](/photos/bath-night-or-the-buttons-that-hold-it-together-2.jpg)
 
 La hija calva de Mamá grita desesperadamente por toda la Casa durante los procedimientos con agua: «¡Mamáaaa!» y «¡Socorrooo!». Pero hay que reconocerle el mérito: al menos no araña a nadie ni intenta escapar. O tal vez todo se deba a que las manos tiernas de Mamá en realidad no son tan tiernas, sino bastante firmes y seguras.
 
