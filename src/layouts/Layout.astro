@@ -45,6 +45,16 @@ const ogLocale = localeTags[lang].replace('-', '_');
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- The site itself runs zero client-side JS and loads nothing
+         cross-origin, so this can be locked down hard. (Doesn't cover
+         /admin/ — Sveltia CMS needs its own, separate policy — and
+         GitHub Pages can't send a real header, so frame-ancestors/
+         X-Frame-Options protection isn't achievable from here; that
+         would need a proxying layer in front, e.g. Cloudflare.) -->
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self'; img-src 'self'; style-src 'self' 'unsafe-inline'; script-src 'none'; object-src 'none'; base-uri 'self'; form-action 'self';"
+    />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="description" content={description} />
     <meta name="generator" content={Astro.generator} />
@@ -117,6 +127,10 @@ const ogLocale = localeTags[lang].replace('-', '_');
 
   html {
     background: var(--bg);
+    /* Global safety net against any accidental horizontal overflow (e.g.
+       the hover-zoom on story images, see StoryDetail.astro) — clip at
+       the actual viewport edge, not some narrow content column's edge. */
+    overflow-x: hidden;
   }
 
   body {
