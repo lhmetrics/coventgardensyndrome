@@ -4,6 +4,15 @@ date: 2026-09-12T20:00:00Z
 excerpt: "Noche de baño en la Casa: bañando a Aliónka y a Bibisechka, y por qué Mamá es el botón que lo sostiene todo."
 cover: "/photos/bath-night-or-the-buttons-that-hold-it-together.jpg"
 section: house-diary
+gallery:
+  - src: "/photos/bath-night-or-the-buttons-that-hold-it-together-gallery-1.jpg"
+    alt: "Aliónka sonriendo entre la espuma"
+  - src: "/photos/bath-night-or-the-buttons-that-hold-it-together-gallery-2.jpg"
+    alt: "Aliónka con gorrito de espuma bajo el agua"
+  - src: "/photos/bath-night-or-the-buttons-that-hold-it-together-gallery-3.jpg"
+    alt: "Aliónka con su gorrito de espuma, primer plano"
+  - src: "/photos/bath-night-or-the-buttons-that-hold-it-together-gallery-4.jpg"
+    alt: "Aliónka con su gorrito de espuma, otra toma"
 ---
 
 ## Noche de Baño, o Los Botones que lo Sostienen Todo

@@ -4,6 +4,15 @@ date: 2026-09-12T20:00:00Z
 excerpt: "Bath night at the Home: bathing Alyonka and Bibisechka, and why Mum is the button that holds it all together."
 cover: "/photos/bath-night-or-the-buttons-that-hold-it-together.jpg"
 section: house-diary
+gallery:
+  - src: "/photos/bath-night-or-the-buttons-that-hold-it-together-gallery-1.jpg"
+    alt: "Alyonka smiling in the foam"
+  - src: "/photos/bath-night-or-the-buttons-that-hold-it-together-gallery-2.jpg"
+    alt: "Alyonka wearing a foam cap under running water"
+  - src: "/photos/bath-night-or-the-buttons-that-hold-it-together-gallery-3.jpg"
+    alt: "Alyonka in her foam cap, close up"
+  - src: "/photos/bath-night-or-the-buttons-that-hold-it-together-gallery-4.jpg"
+    alt: "Alyonka in her foam cap, another shot"
 ---
 
 ## Bath Night, or The Buttons That Hold It All Together

@@ -4,6 +4,15 @@ date: 2026-09-12T20:00:00Z
 excerpt: "Банный вечер в Доме: как купают Аленку и Бибисечку, и почему мама — это пуговка, на которой держится весь порядок."
 cover: "/photos/bath-night-or-the-buttons-that-hold-it-together.jpg"
 section: house-diary
+gallery:
+  - src: "/photos/bath-night-or-the-buttons-that-hold-it-together-gallery-1.jpg"
+    alt: "Аленка улыбается в пене"
+  - src: "/photos/bath-night-or-the-buttons-that-hold-it-together-gallery-2.jpg"
+    alt: "Аленка в пенной шапочке под струёй воды"
+  - src: "/photos/bath-night-or-the-buttons-that-hold-it-together-gallery-3.jpg"
+    alt: "Аленка в пенной шапочке, крупный план"
+  - src: "/photos/bath-night-or-the-buttons-that-hold-it-together-gallery-4.jpg"
+    alt: "Аленка в пенной шапочке, ещё один кадр"
 ---
 
 ## Банный ночер, или На ком держатся пуговки

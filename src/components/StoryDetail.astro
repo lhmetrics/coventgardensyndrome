@@ -5,6 +5,7 @@ import LangSwitcher from './LangSwitcher.astro';
 import SectionsMenu from './SectionsMenu.astro';
 import SectionBadge from './SectionBadge.astro';
 import BrandMark from './BrandMark.astro';
+import Gallery from './Gallery.astro';
 import { ui } from '../i18n/ui';
 import { locales, localeTags, type Locale } from '../i18n/locales';
 import { getHomePath, getStoryPath } from '../i18n/paths';
@@ -92,6 +93,8 @@ if (availableLocales.includes('en')) {
     <div class="prose">
       <Content />
     </div>
+
+    {story.data.gallery && story.data.gallery.length > 0 && <Gallery images={story.data.gallery} />}
 
     {
       (prevStory || nextStory) && (

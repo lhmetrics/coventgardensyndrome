@@ -1,0 +1,211 @@
+---
+// Reusable swipeable photo gallery — see project memory "story-slug-convention"
+// sibling doc for how it's wired into a story's frontmatter (a `gallery`
+// array of { src, alt }). Rendered by StoryDetail.astro at the end of a
+// post's text, before the chapter nav.
+//
+// Technical approach: the strip itself is a plain CSS horizontal
+// scroll-snap track — swiping (touch), two-finger scroll (trackpad), and
+// scrollbar-dragging (desktop mouse) all work with zero JS, on every
+// browser. A small enhancement script only keeps the dots/counter in
+// sync with whichever slide is centered, and wires the prev/next
+// buttons — if JS fails to load, the gallery still fully works, just
+// without the "2 / 5" readout.
+interface GalleryImage {
+  src: string;
+  alt?: string;
+}
+
+interface Props {
+  images: GalleryImage[];
+}
+
+const { images } = Astro.props;
+---
+
+{
+  images.length > 0 && (
+    <div class="gallery" data-gallery>
+      <div class="gallery-track" data-gallery-track>
+        {images.map((image) => (
+          <figure class="gallery-slide" data-gallery-slide>
+            <img src={image.src} alt={image.alt ?? ''} loading="lazy" />
+          </figure>
+        ))}
+      </div>
+
+      {images.length > 1 && (
+        <>
+          <button type="button" class="gallery-nav prev" data-gallery-prev aria-label="Previous photo">
+            ‹
+          </button>
+          <button type="button" class="gallery-nav next" data-gallery-next aria-label="Next photo">
+            ›
+          </button>
+
+          <div class="gallery-footer">
+            <div class="gallery-dots" data-gallery-dots aria-hidden="true">
+              {images.map(() => (
+                <span class="gallery-dot" data-gallery-dot />
+              ))}
+            </div>
+            <span class="gallery-counter">
+              <span data-gallery-current>1</span> / {images.length}
+            </span>
+          </div>
+        </>
+      )}
+    </div>
+  )
+}
+
+<style>
+  .gallery {
+    position: relative;
+    margin: 2.5rem 0;
+  }
+
+  .gallery-track {
+    display: flex;
+    gap: 0.6rem;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+
+  .gallery-track::-webkit-scrollbar {
+    display: none;
+  }
+
+  .gallery-slide {
+    flex: 0 0 100%;
+    scroll-snap-align: center;
+    margin: 0;
+  }
+
+  .gallery-slide img {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    border: 1px solid var(--rule);
+    display: block;
+  }
+
+  .gallery-nav {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 2.25rem;
+    height: 2.25rem;
+    border-radius: 999px;
+    border: 1px solid var(--rule);
+    background: rgba(14, 13, 11, 0.72);
+    color: var(--ink);
+    font-size: 1.3rem;
+    line-height: 1;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.2s ease, border-color 0.2s ease;
+  }
+
+  .gallery:hover .gallery-nav,
+  .gallery:focus-within .gallery-nav {
+    opacity: 1;
+  }
+
+  .gallery-nav:hover {
+    border-color: var(--accent);
+  }
+
+  .gallery-nav.prev {
+    left: 0.5rem;
+  }
+
+  .gallery-nav.next {
+    right: 0.5rem;
+  }
+
+  .gallery-footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.75rem;
+    margin-top: 0.75rem;
+  }
+
+  .gallery-dots {
+    display: flex;
+    gap: 0.4rem;
+  }
+
+  .gallery-dot {
+    width: 0.4rem;
+    height: 0.4rem;
+    border-radius: 999px;
+    background: var(--rule);
+    transition: background 0.2s ease, transform 0.2s ease;
+  }
+
+  .gallery-dot.is-active {
+    background: var(--accent);
+    transform: scale(1.3);
+  }
+
+  .gallery-counter {
+    font-size: 0.75rem;
+    letter-spacing: 0.06em;
+    color: var(--ink-dim);
+    font-variant-numeric: tabular-nums;
+  }
+
+  /* No hover on touch devices — the on-screen prev/next buttons would
+     otherwise stay invisible forever since there's no ":hover" to trigger
+     them. Swiping directly is the primary interaction there anyway. */
+  @media (hover: none) {
+    .gallery-nav {
+      display: none;
+    }
+  }
+</style>
+
+<script>
+  document.querySelectorAll<HTMLElement>('[data-gallery]').forEach((gallery) => {
+    const track = gallery.querySelector<HTMLElement>('[data-gallery-track]');
+    const slides = Array.from(gallery.querySelectorAll<HTMLElement>('[data-gallery-slide]'));
+    const dots = Array.from(gallery.querySelectorAll<HTMLElement>('[data-gallery-dot]'));
+    const counter = gallery.querySelector('[data-gallery-current]');
+    if (!track || slides.length === 0) return;
+
+    const setActive = (index: number) => {
+      dots.forEach((dot, i) => dot.classList.toggle('is-active', i === index));
+      if (counter) counter.textContent = String(index + 1);
+    };
+
+    // Whichever slide is most visible inside the scroll track "is" the
+    // current one — works for swipe, trackpad scroll, and the nav
+    // buttons alike, with no manual scroll-position math.
+    const observer = new IntersectionObserver(
+      (entries) => {
+        const mostVisible = entries
+          .filter((entry) => entry.isIntersecting)
+          .sort((a, b) => b.intersectionRatio - a.intersectionRatio)[0];
+        if (mostVisible) setActive(slides.indexOf(mostVisible.target as HTMLElement));
+      },
+      { root: track, threshold: [0.5, 0.75, 1] },
+    );
+    slides.forEach((slide) => observer.observe(slide));
+
+    gallery.querySelector('[data-gallery-prev]')?.addEventListener('click', () => {
+      track.scrollBy({ left: -track.clientWidth, behavior: 'smooth' });
+    });
+    gallery.querySelector('[data-gallery-next]')?.addEventListener('click', () => {
+      track.scrollBy({ left: track.clientWidth, behavior: 'smooth' });
+    });
+
+    setActive(0);
+  });
+</script>

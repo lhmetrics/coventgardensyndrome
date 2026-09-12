@@ -27,6 +27,18 @@ const stories = defineCollection({
     // story belongs to. Optional and gradual by design — sections fill in
     // over time, and older/miscellaneous stories may stay unsectioned.
     section: z.enum(sectionIds).optional(),
+    // Optional swipeable photo gallery, rendered at the end of the post
+    // (src/components/Gallery.astro) — a reusable block for posts with a
+    // handful of extra photos that don't need individual placement in the
+    // body text. `alt` is per-locale like everything else in this file.
+    gallery: z
+      .array(
+        z.object({
+          src: z.string(),
+          alt: z.string().optional(),
+        }),
+      )
+      .optional(),
   }),
 });
 
