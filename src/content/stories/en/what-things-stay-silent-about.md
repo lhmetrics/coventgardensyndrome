@@ -1,6 +1,6 @@
 ---
 title: "What Things Stay Silent About (In Place of a Foreword)"
-date: 2026-09-12T21:00:00Z
+date: 2026-09-09T09:00:00Z
 excerpt: "A foreword to \"Secrets of Stamps and Time\": learning to read history through hallmarks, engravings, and signatures on antique objects."
 cover: "/photos/what-things-stay-silent-about.jpg"
 section: stamps-time

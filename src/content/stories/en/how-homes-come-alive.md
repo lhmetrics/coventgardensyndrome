@@ -1,6 +1,6 @@
 ---
 title: "How Homes Come Alive (In Place of a Foreword)"
-date: 2026-09-12T09:00:00Z
+date: 2026-09-09T10:00:00Z
 excerpt: "A foreword to \"Whisper of Waves\": how the Home decided to speak, and where its diary begins."
 cover: "/photos/how-homes-come-alive.jpg"
 section: house-diary

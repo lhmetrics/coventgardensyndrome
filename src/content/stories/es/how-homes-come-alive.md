@@ -1,6 +1,6 @@
 ---
 title: "Cómo cobran vida las Casas (A modo de prólogo)"
-date: 2026-09-12T09:00:00Z
+date: 2026-09-09T10:00:00Z
 excerpt: "Un prólogo para \"Susurro de las Olas\": cómo la Casa decidió hablar, y por dónde empieza la crónica de su diario."
 cover: "/photos/how-homes-come-alive.jpg"
 section: house-diary
