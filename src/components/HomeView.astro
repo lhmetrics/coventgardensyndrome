@@ -52,6 +52,20 @@ const alternates = {
     {t.manifesto.map((paragraph) => <p>{paragraph}</p>)}
   </section>
 
+  <section class="about">
+    <h2>{t.about.heading}</h2>
+    <p class="warning">{t.about.warning}</p>
+    <p>{t.about.intro}</p>
+    <p set:html={t.about.definition} />
+    <p>{t.about.origin}</p>
+    <p>{t.about.symptomsIntro}</p>
+    <ul>
+      {t.about.symptoms.map((symptom) => <li>{symptom}</li>)}
+    </ul>
+    <p>{t.about.disclaimer}</p>
+    <p class="outro">{t.about.outro}</p>
+  </section>
+
   <section class="sections-strip" aria-label={t.sectionsHeading}>
     <h2>{t.sectionsHeading}</h2>
     <div class="chips">
@@ -184,6 +198,63 @@ const alternates = {
     content: '”';
     font-style: normal;
     color: var(--accent);
+  }
+
+  .about {
+    max-width: 38rem;
+    margin: 0 auto;
+    padding: 0 1.5rem 4.5rem;
+  }
+
+  .about h2 {
+    font-size: clamp(1.5rem, 3.5vw, 1.9rem);
+    text-align: center;
+    margin: 0 0 1.5rem;
+  }
+
+  .about p {
+    font-family: var(--serif);
+    font-size: 1.02rem;
+    line-height: 1.75;
+    color: var(--ink-dim);
+    margin: 0 0 1.4em;
+  }
+
+  .about .warning {
+    border: 1px solid var(--rule);
+    padding: 1em 1.25em;
+    font-weight: bold;
+    color: var(--ink);
+    text-align: center;
+  }
+
+  .about :global(strong) {
+    color: var(--ink);
+    font-weight: bold;
+  }
+
+  .about ul {
+    margin: 0 0 1.4em;
+    padding: 0 0 0 1.25em;
+  }
+
+  .about li {
+    font-family: var(--serif);
+    font-size: 1.02rem;
+    line-height: 1.6;
+    color: var(--ink-dim);
+    margin: 0 0 0.75em;
+  }
+
+  .about li::marker {
+    color: var(--accent);
+  }
+
+  .about .outro {
+    margin-bottom: 0;
+    color: var(--ink);
+    font-style: italic;
+    text-align: center;
   }
 
   .sections-strip {
