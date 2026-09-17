@@ -4,6 +4,17 @@ date: 2026-09-13T22:00:00Z
 excerpt: "What happens on top of the Bell harmonium deep in the night, when Bear, Dog, and Dolce the monkey are left alone with an instrument that can play itself."
 cover: "/photos/secret-concert-for-the-lady-of-the-night-or-what-the-toys-sing-about.jpg"
 section: night-chronicles
+gallery:
+  - src: "/photos/secret-concert-for-the-lady-of-the-night-or-what-the-toys-sing-about-gallery-1.jpg"
+    alt: "Dog, Bear, and Dolce the Monkey on the Bell harmonium"
+  - src: "/photos/secret-concert-for-the-lady-of-the-night-or-what-the-toys-sing-about-gallery-2.jpg"
+    alt: "Dog and Bear leaning against each other"
+  - src: "/photos/secret-concert-for-the-lady-of-the-night-or-what-the-toys-sing-about-gallery-3.jpg"
+    alt: "Bear and the Monkey on the organ's top shelf"
+  - src: "/photos/secret-concert-for-the-lady-of-the-night-or-what-the-toys-sing-about-gallery-4.jpg"
+    alt: "The night salon by candlelight"
+  - src: "/photos/secret-concert-for-the-lady-of-the-night-or-what-the-toys-sing-about-gallery-5.jpg"
+    alt: "Dog, Bear, and Monkey all together"
 ---
 
 ## A Secret Concert for the Lady of the Night, or What the Toys Sing About

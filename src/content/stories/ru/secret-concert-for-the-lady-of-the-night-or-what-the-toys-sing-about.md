@@ -4,6 +4,17 @@ date: 2026-09-13T22:00:00Z
 excerpt: "Что происходит на верхней полке фисгармонии Bell глубоко ночью, когда Медведь, Пёс и мартышка Дольче остаются одни с инструментом, который умеет играть сам."
 cover: "/photos/secret-concert-for-the-lady-of-the-night-or-what-the-toys-sing-about.jpg"
 section: night-chronicles
+gallery:
+  - src: "/photos/secret-concert-for-the-lady-of-the-night-or-what-the-toys-sing-about-gallery-1.jpg"
+    alt: "Пёс, Медведь и Мартышка Dolce на фисгармонии Bell"
+  - src: "/photos/secret-concert-for-the-lady-of-the-night-or-what-the-toys-sing-about-gallery-2.jpg"
+    alt: "Пёс и Медведь, прижавшись друг к другу"
+  - src: "/photos/secret-concert-for-the-lady-of-the-night-or-what-the-toys-sing-about-gallery-3.jpg"
+    alt: "Медведь и Мартышка на верхней полке органа"
+  - src: "/photos/secret-concert-for-the-lady-of-the-night-or-what-the-toys-sing-about-gallery-4.jpg"
+    alt: "Ночная гостиная в свете свечи"
+  - src: "/photos/secret-concert-for-the-lady-of-the-night-or-what-the-toys-sing-about-gallery-5.jpg"
+    alt: "Пёс, Медведь и Мартышка все вместе"
 ---
 
 ## Тайный концерт для Дамы Ночи, или О чем поют игрушки

@@ -4,6 +4,17 @@ date: 2026-09-13T22:00:00Z
 excerpt: "Lo que ocurre sobre el armonio Bell muy entrada la noche, cuando el Oso, el Perro y la monita Dolce se quedan a solas con un instrumento que sabe tocar solo."
 cover: "/photos/secret-concert-for-the-lady-of-the-night-or-what-the-toys-sing-about.jpg"
 section: night-chronicles
+gallery:
+  - src: "/photos/secret-concert-for-the-lady-of-the-night-or-what-the-toys-sing-about-gallery-1.jpg"
+    alt: "Perro, Oso y la Monita Dolce sobre el armonio Bell"
+  - src: "/photos/secret-concert-for-the-lady-of-the-night-or-what-the-toys-sing-about-gallery-2.jpg"
+    alt: "Perro y Oso apoyados el uno en el otro"
+  - src: "/photos/secret-concert-for-the-lady-of-the-night-or-what-the-toys-sing-about-gallery-3.jpg"
+    alt: "Oso y la Monita en la repisa superior del órgano"
+  - src: "/photos/secret-concert-for-the-lady-of-the-night-or-what-the-toys-sing-about-gallery-4.jpg"
+    alt: "El salón nocturno a la luz de las velas"
+  - src: "/photos/secret-concert-for-the-lady-of-the-night-or-what-the-toys-sing-about-gallery-5.jpg"
+    alt: "Perro, Oso y Monita todos juntos"
 ---
 
 ## Un Concierto Secreto para la Dama de la Noche, o De Qué Cantan los Juguetes
