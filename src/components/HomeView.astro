@@ -24,6 +24,12 @@ const stories = (await getCollection('stories', ({ id }) => id.startsWith(`${lan
   (a, b) => a.data.date.valueOf() - b.data.date.valueOf(),
 );
 
+// Per-section post counts for the chip badges below — same filter logic
+// as SectionView.astro's own story count for that section/lang.
+const sectionCounts = Object.fromEntries(
+  sectionIds.map((id) => [id, stories.filter((story) => story.data.section === id).length]),
+);
+
 const alternates = {
   ...Object.fromEntries(locales.map((l) => [l, getHomePath(l)])),
   'x-default': getHomePath('en'),
@@ -78,6 +84,7 @@ const alternates = {
                 {s.emoji}
               </span>
               {s.title}
+              <span class="count">{sectionCounts[id]}</span>
             </a>
           );
         })
@@ -302,6 +309,28 @@ const alternates = {
 
   .chip .emoji {
     font-size: 1rem;
+  }
+
+  .chip .count {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 1.5em;
+    height: 1.5em;
+    padding: 0 0.35em;
+    border-radius: 999px;
+    background: var(--rule);
+    color: var(--ink-dim);
+    font-size: 0.75rem;
+    font-variant-numeric: tabular-nums;
+    transition:
+      color 0.2s ease,
+      background 0.2s ease;
+  }
+
+  .chip:hover .count {
+    color: var(--ink);
+    background: var(--accent);
   }
 
   .content {
