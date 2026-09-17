@@ -182,31 +182,47 @@ const { images } = Astro.props;
     const counter = gallery.querySelector('[data-gallery-current]');
     if (!track || slides.length === 0) return;
 
+    let current = 0;
+
     const setActive = (index: number) => {
+      current = index;
       dots.forEach((dot, i) => dot.classList.toggle('is-active', i === index));
       if (counter) counter.textContent = String(index + 1);
     };
 
-    // Whichever slide is most visible inside the scroll track "is" the
-    // current one — works for swipe, trackpad scroll, and the nav
-    // buttons alike, with no manual scroll-position math.
-    const observer = new IntersectionObserver(
-      (entries) => {
-        const mostVisible = entries
-          .filter((entry) => entry.isIntersecting)
-          .sort((a, b) => b.intersectionRatio - a.intersectionRatio)[0];
-        if (mostVisible) setActive(slides.indexOf(mostVisible.target as HTMLElement));
-      },
-      { root: track, threshold: [0.5, 0.75, 1] },
-    );
-    slides.forEach((slide) => observer.observe(slide));
+    // Whichever slide's left edge is closest to the current scroll
+    // position "is" the current one — this fires on swipe, trackpad
+    // scroll, and button-driven scrollIntoView alike. (An earlier version
+    // used IntersectionObserver, which didn't reliably catch a fast
+    // swipe's end position.)
+    let scrollSettleTimer: ReturnType<typeof setTimeout>;
+    track.addEventListener('scroll', () => {
+      clearTimeout(scrollSettleTimer);
+      scrollSettleTimer = setTimeout(() => {
+        let closest = 0;
+        let closestDistance = Infinity;
+        slides.forEach((slide, i) => {
+          const distance = Math.abs(slide.offsetLeft - track.scrollLeft);
+          if (distance < closestDistance) {
+            closestDistance = distance;
+            closest = i;
+          }
+        });
+        setActive(closest);
+      }, 100);
+    });
 
-    gallery.querySelector('[data-gallery-prev]')?.addEventListener('click', () => {
-      track.scrollBy({ left: -track.clientWidth, behavior: 'smooth' });
-    });
-    gallery.querySelector('[data-gallery-next]')?.addEventListener('click', () => {
-      track.scrollBy({ left: track.clientWidth, behavior: 'smooth' });
-    });
+    // scrollIntoView (rather than track.scrollBy) is what reliably plays
+    // nice with `scroll-snap-type: mandatory` — a plain scrollBy can get
+    // fought by the browser's own snap correction and silently undone,
+    // which is why the nav buttons previously did nothing.
+    const goTo = (index: number) => {
+      const clamped = Math.max(0, Math.min(slides.length - 1, index));
+      slides[clamped].scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
+    };
+
+    gallery.querySelector('[data-gallery-prev]')?.addEventListener('click', () => goTo(current - 1));
+    gallery.querySelector('[data-gallery-next]')?.addEventListener('click', () => goTo(current + 1));
 
     // A plain desktop mouse has no swipe gesture and its wheel only
     // reports vertical delta — without this, the track only responds to
