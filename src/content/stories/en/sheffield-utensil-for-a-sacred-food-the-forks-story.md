@@ -4,6 +4,15 @@ date: 2026-09-17T18:00:00Z
 excerpt: "The STERLING SILVER mark on a Sheffield bread fork's ferrule — and what it reveals about Edwardian etiquette and status."
 cover: "/photos/sheffield-utensil-for-a-sacred-food-the-forks-story.jpg"
 section: stamps-time
+gallery:
+  - src: "/photos/sheffield-utensil-for-a-sacred-food-the-forks-story-gallery-1.jpg"
+    alt: "The STERLING SILVER mark on the ferrule, close up"
+  - src: "/photos/sheffield-utensil-for-a-sacred-food-the-forks-story-gallery-2.jpg"
+    alt: "The ivory handle and silver ring, close up"
+  - src: "/photos/sheffield-utensil-for-a-sacred-food-the-forks-story-gallery-3.jpg"
+    alt: "The ferrule's mark under different light"
+  - src: "/photos/sheffield-utensil-for-a-sacred-food-the-forks-story-gallery-4.jpg"
+    alt: "The fork serving homemade pumpkin bread"
 ---
 
 ## A Sheffield Utensil for a Sacred Food (The Fork's Story)

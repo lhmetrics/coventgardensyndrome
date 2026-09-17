@@ -4,6 +4,15 @@ date: 2026-09-17T18:00:00Z
 excerpt: "Клеймо STERLING SILVER на ферруле хлебной вилки шеффилдских ювелиров — и то, что оно рассказывает об эдвардианском этикете и статусе."
 cover: "/photos/sheffield-utensil-for-a-sacred-food-the-forks-story.jpg"
 section: stamps-time
+gallery:
+  - src: "/photos/sheffield-utensil-for-a-sacred-food-the-forks-story-gallery-1.jpg"
+    alt: "Клеймо STERLING SILVER на ферруле, крупный план"
+  - src: "/photos/sheffield-utensil-for-a-sacred-food-the-forks-story-gallery-2.jpg"
+    alt: "Ручка из слоновой кости и серебряное кольцо крупным планом"
+  - src: "/photos/sheffield-utensil-for-a-sacred-food-the-forks-story-gallery-3.jpg"
+    alt: "Клеймо на ферруле при другом освещении"
+  - src: "/photos/sheffield-utensil-for-a-sacred-food-the-forks-story-gallery-4.jpg"
+    alt: "Вилка подаёт домашний тыквенный хлеб"
 ---
 
 ## Шеффилдский прибор для сакрального продукта (История вилки)

@@ -4,6 +4,15 @@ date: 2026-09-17T18:00:00Z
 excerpt: "El sello STERLING SILVER en el aro de un tenedor de pan de Sheffield — y lo que revela sobre la etiqueta y el estatus eduardianos."
 cover: "/photos/sheffield-utensil-for-a-sacred-food-the-forks-story.jpg"
 section: stamps-time
+gallery:
+  - src: "/photos/sheffield-utensil-for-a-sacred-food-the-forks-story-gallery-1.jpg"
+    alt: "El sello STERLING SILVER en el aro, en primer plano"
+  - src: "/photos/sheffield-utensil-for-a-sacred-food-the-forks-story-gallery-2.jpg"
+    alt: "El mango de marfil y el aro de plata, en primer plano"
+  - src: "/photos/sheffield-utensil-for-a-sacred-food-the-forks-story-gallery-3.jpg"
+    alt: "El sello del aro con otra iluminación"
+  - src: "/photos/sheffield-utensil-for-a-sacred-food-the-forks-story-gallery-4.jpg"
+    alt: "El tenedor sirviendo el pan casero de calabaza"
 ---
 
 ## Un Cubierto de Sheffield para un Alimento Sagrado (La Historia del Tenedor)
