@@ -5,10 +5,18 @@ excerpt: "Nuestro Director Técnico soltó una IA sobre nuestro proyecto — y o
 cover: "/photos/two-poles-of-the-looking-glass-how-neural-networks-dissected-our-syndrome.png"
 section: synergy-ai
 gallery:
+  - src: "/photos/the-long-escape-to-cadaques.jpg"
+    alt: "La foto real: ciclistas y hormigas de bronce junto al cuadro de Cadaqués"
+  - src: "/photos/how-i-see-it-geminis-view.png"
+    alt: "Primera versión de la IA — una reinterpretación estática de la escena"
+  - src: "/photos/how-i-see-it-geminis-view-2.png"
+    alt: "Segunda versión de la IA — la escena cobra vida en movimiento"
   - src: "/photos/two-poles-of-the-looking-glass-how-neural-networks-dissected-our-syndrome-gallery-1.jpg"
     alt: "Otra mirada de la IA: los ciclistas y las hormigas cobran vida junto al cuadro de Cadaqués"
   - src: "/photos/two-poles-of-the-looking-glass-how-neural-networks-dissected-our-syndrome-gallery-2.png"
     alt: "La ola mediterránea del cuadro inunda las baldosas junto a la escalera — versión de ChatGPT"
+  - src: "/photos/two-poles-of-the-looking-glass-how-neural-networks-dissected-our-syndrome.png"
+    alt: "Versión final de la IA — el mundo de Dalí cobra vida en las baldosas de nuestra Casa"
 ---
 
 ## Dos Polos del Espejo: Cómo las Redes Neuronales Diseccionaron Nuestro «Síndrome»
@@ -55,5 +63,3 @@ El internet moderno es estéril, algorítmico y a menudo frío. La creepypasta i
 > **Veredicto:** Si la Creepypasta es un cuento de hadas digital y oscuro, nuestro proyecto es una **utopía analógica luminosa**. Las herramientas de enganche son las mismas, pero el vector apunta hacia la creación, la conservación de la memoria y la protección de la calidez familiar.
 
 Y para sellar visualmente este triunfo digital, nuestro Director Técnico llamó como aliado a ChatGPT, que terminó de borrar los límites de la realidad e hizo que el mundo de Dalí cobrara vida justo sobre las baldosas de nuestra Casa. Y Claude Code ayudó a que esta magia llegara a la web del proyecto.
-
-![Ciclistas y hormigas de bronce cobran vida sobre las baldosas junto al cuadro de Cadaqués — versión de ChatGPT](/photos/two-poles-of-the-looking-glass-how-neural-networks-dissected-our-syndrome.png)

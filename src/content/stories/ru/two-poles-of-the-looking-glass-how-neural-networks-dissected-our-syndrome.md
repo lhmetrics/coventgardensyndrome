@@ -5,10 +5,18 @@ excerpt: "Техдиректор Дома натравил ИИ на наш пр
 cover: "/photos/two-poles-of-the-looking-glass-how-neural-networks-dissected-our-syndrome.png"
 section: synergy-ai
 gallery:
+  - src: "/photos/the-long-escape-to-cadaques.jpg"
+    alt: "Настоящее фото: бронзовые велосипедисты и муравьи у картины с Кадакесом"
+  - src: "/photos/how-i-see-it-geminis-view.png"
+    alt: "Первая версия ИИ — статичная переработка сцены"
+  - src: "/photos/how-i-see-it-geminis-view-2.png"
+    alt: "Вторая версия ИИ — сцена оживает в движении"
   - src: "/photos/two-poles-of-the-looking-glass-how-neural-networks-dissected-our-syndrome-gallery-1.jpg"
     alt: "Ещё один взгляд ИИ: велосипедисты и муравьи оживают у картины с Кадакесом"
   - src: "/photos/two-poles-of-the-looking-glass-how-neural-networks-dissected-our-syndrome-gallery-2.png"
     alt: "Средиземноморская волна из картины затапливает плитку у лестницы — версия ChatGPT"
+  - src: "/photos/two-poles-of-the-looking-glass-how-neural-networks-dissected-our-syndrome.png"
+    alt: "Финальная версия ИИ — мир Дали оживает на плитке нашего Дома"
 ---
 
 ## Два полюса Зазеркалья: Как нейросети препарировали наш «Синдром»
@@ -55,5 +63,3 @@ gallery:
 > **Вердикт:** Если Крипипаста — это темная цифровая сказка, то наш проект — **светлая аналоговая утопия**. Инструменты вовлечения те же, но вектор направлен на созидание, сохранение памяти и защиту семейного тепла.
 
 А чтобы закрепить этот цифровой триумф визуально, наш Техдиректор призвал в союзники ChatGPT, который окончательно стер границы реальности и заставил мир Дали ожить прямо на плитке нашего Дома. А Claude Code помог этому волшебству попасть на сайт проекта.
-
-![Бронзовые велосипедисты и муравьи оживают на плитке рядом с картиной Кадакеса — версия ChatGPT](/photos/two-poles-of-the-looking-glass-how-neural-networks-dissected-our-syndrome.png)

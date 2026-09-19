@@ -5,10 +5,18 @@ excerpt: "Our Tech Director set an AI loose on our project — and got back an u
 cover: "/photos/two-poles-of-the-looking-glass-how-neural-networks-dissected-our-syndrome.png"
 section: synergy-ai
 gallery:
+  - src: "/photos/the-long-escape-to-cadaques.jpg"
+    alt: "The real photo: bronze cyclists and ants beside the Cadaqués painting"
+  - src: "/photos/how-i-see-it-geminis-view.png"
+    alt: "AI's first version — a static reinterpretation of the scene"
+  - src: "/photos/how-i-see-it-geminis-view-2.png"
+    alt: "AI's second version — the scene comes alive in motion"
   - src: "/photos/two-poles-of-the-looking-glass-how-neural-networks-dissected-our-syndrome-gallery-1.jpg"
     alt: "Another AI take: the cyclists and ants come alive beside the Cadaqués painting"
   - src: "/photos/two-poles-of-the-looking-glass-how-neural-networks-dissected-our-syndrome-gallery-2.png"
     alt: "The Mediterranean wave from the painting floods the tile floor by the stairs — ChatGPT's version"
+  - src: "/photos/two-poles-of-the-looking-glass-how-neural-networks-dissected-our-syndrome.png"
+    alt: "AI's final version — Dalí's world comes alive on our Home's tile floor"
 ---
 
 ## Two Poles of the Looking-Glass: How Neural Networks Dissected Our "Syndrome"
@@ -55,5 +63,3 @@ The modern internet is sterile, algorithmic, and often cold. Creepypasta tries t
 > **Verdict:** If Creepypasta is a dark digital fairy tale, then our project is a **bright analog utopia**. The tools of engagement are the same, but the vector points toward creation, preserving memory, and protecting family warmth.
 
 And to seal this digital triumph visually, our Tech Director called in ChatGPT as an ally, which finally erased the boundaries of reality and brought Dalí's world to life right on our Home's tiled floor. And Claude Code helped this bit of magic make it onto the project's website.
-
-![Bronze cyclists and ants come alive on the tile floor beside the Cadaqués painting — ChatGPT's version](/photos/two-poles-of-the-looking-glass-how-neural-networks-dissected-our-syndrome.png)
