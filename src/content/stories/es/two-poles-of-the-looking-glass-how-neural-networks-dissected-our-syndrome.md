@@ -4,6 +4,11 @@ date: 2026-09-19T12:00:00Z
 excerpt: "Nuestro Director Técnico soltó una IA sobre nuestro proyecto — y obtuvo un análisis cultural inesperado: Covent Garden Syndrome y la creepypasta funcionan con los mismos disparadores psicológicos, solo que apuntando en direcciones opuestas."
 cover: "/photos/two-poles-of-the-looking-glass-how-neural-networks-dissected-our-syndrome.png"
 section: synergy-ai
+gallery:
+  - src: "/photos/two-poles-of-the-looking-glass-how-neural-networks-dissected-our-syndrome-gallery-1.jpg"
+    alt: "Otra mirada de la IA: los ciclistas y las hormigas cobran vida junto al cuadro de Cadaqués"
+  - src: "/photos/two-poles-of-the-looking-glass-how-neural-networks-dissected-our-syndrome-gallery-2.png"
+    alt: "La ola mediterránea del cuadro inunda las baldosas junto a la escalera — versión de ChatGPT"
 ---
 
 ## Dos Polos del Espejo: Cómo las Redes Neuronales Diseccionaron Nuestro «Síndrome»

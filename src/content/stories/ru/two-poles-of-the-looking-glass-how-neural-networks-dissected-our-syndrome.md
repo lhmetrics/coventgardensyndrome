@@ -4,6 +4,11 @@ date: 2026-09-19T12:00:00Z
 excerpt: "Техдиректор Дома натравил ИИ на наш проект — и получил неожиданный культурологический разбор: Covent Garden Syndrome и крипипаста работают по одним и тем же психологическим законам, только в разные стороны."
 cover: "/photos/two-poles-of-the-looking-glass-how-neural-networks-dissected-our-syndrome.png"
 section: synergy-ai
+gallery:
+  - src: "/photos/two-poles-of-the-looking-glass-how-neural-networks-dissected-our-syndrome-gallery-1.jpg"
+    alt: "Ещё один взгляд ИИ: велосипедисты и муравьи оживают у картины с Кадакесом"
+  - src: "/photos/two-poles-of-the-looking-glass-how-neural-networks-dissected-our-syndrome-gallery-2.png"
+    alt: "Средиземноморская волна из картины затапливает плитку у лестницы — версия ChatGPT"
 ---
 
 ## Два полюса Зазеркалья: Как нейросети препарировали наш «Синдром»
