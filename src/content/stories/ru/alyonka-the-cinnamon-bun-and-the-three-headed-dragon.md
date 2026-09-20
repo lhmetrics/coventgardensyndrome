@@ -4,6 +4,23 @@ date: 2026-09-20T12:00:00Z
 excerpt: "Первая глава из триптиха о хвостатых хранителях Дома. Как метис с ушами-лепестками роз научил маму новому порядку, спасся из петшопного плена и стал главным стражем ушедшего времени."
 cover: "/photos/alyonka-the-cinnamon-bun-and-the-three-headed-dragon.jpg"
 section: house-diary
+gallery:
+  - src: "/photos/alyonka-the-cinnamon-bun-and-the-three-headed-dragon-gallery-1.jpg"
+    alt: "Спасенная малышка сразу после купания, завернутая в полотенце"
+  - src: "/photos/alyonka-the-cinnamon-bun-and-the-three-headed-dragon-gallery-2.jpg"
+    alt: "Щенок Алёнка с огромными ушами-лепестками на полу"
+  - src: "/photos/alyonka-the-cinnamon-bun-and-the-three-headed-dragon-gallery-3.jpg"
+    alt: "Алёнка-щенок в свитере вместе с младшим сыном"
+  - src: "/photos/alyonka-the-cinnamon-bun-and-the-three-headed-dragon-gallery-4.jpg"
+    alt: "Щенок Алёнка выглядывает из своего домика-лежанки"
+  - src: "/photos/alyonka-the-cinnamon-bun-and-the-three-headed-dragon-gallery-5.jpg"
+    alt: "Взрослая Алёнка с корзиной роз в саду"
+  - src: "/photos/alyonka-the-cinnamon-bun-and-the-three-headed-dragon-gallery-6.jpg"
+    alt: "Алёнка на лужайке с очередной похищенной туфелькой в зубах"
+  - src: "/photos/alyonka-the-cinnamon-bun-and-the-three-headed-dragon-gallery-7.jpg"
+    alt: "Алёнка в круглой лежанке, закутанная в розовый плед"
+  - src: "/photos/alyonka-the-cinnamon-bun-and-the-three-headed-dragon-gallery-8.jpg"
+    alt: "Взрослая Алёнка на хозяйской кровати"
 ---
 
 ## Алёнка: История Булочки с корицей и трехглавого дракона

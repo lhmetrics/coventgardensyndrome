@@ -4,6 +4,23 @@ date: 2026-09-20T12:00:00Z
 excerpt: "El primer capítulo de un tríptico sobre los guardianes de cuatro patas de la Casa. Cómo una mestiza con orejas de pétalos de rosa le enseñó a Mamá un nuevo orden, escapó del cautiverio de una tienda de mascotas y se convirtió en la guardiana principal del tiempo que se fue."
 cover: "/photos/alyonka-the-cinnamon-bun-and-the-three-headed-dragon.jpg"
 section: house-diary
+gallery:
+  - src: "/photos/alyonka-the-cinnamon-bun-and-the-three-headed-dragon-gallery-1.jpg"
+    alt: "La pequeña rescatada justo después del baño, envuelta en una toalla"
+  - src: "/photos/alyonka-the-cinnamon-bun-and-the-three-headed-dragon-gallery-2.jpg"
+    alt: "La cachorra Alyonka con sus enormes orejas de pétalo, de pie en el suelo"
+  - src: "/photos/alyonka-the-cinnamon-bun-and-the-three-headed-dragon-gallery-3.jpg"
+    alt: "La cachorra Alyonka con un jersey junto al hijo menor"
+  - src: "/photos/alyonka-the-cinnamon-bun-and-the-three-headed-dragon-gallery-4.jpg"
+    alt: "La cachorra Alyonka asomándose desde su casita-cama"
+  - src: "/photos/alyonka-the-cinnamon-bun-and-the-three-headed-dragon-gallery-5.jpg"
+    alt: "Alyonka adulta con una cesta de rosas en el jardín"
+  - src: "/photos/alyonka-the-cinnamon-bun-and-the-three-headed-dragon-gallery-6.jpg"
+    alt: "Alyonka en el césped con otro zapato robado en la boca"
+  - src: "/photos/alyonka-the-cinnamon-bun-and-the-three-headed-dragon-gallery-7.jpg"
+    alt: "Alyonka acurrucada en su cama redonda, envuelta en una manta rosa"
+  - src: "/photos/alyonka-the-cinnamon-bun-and-the-three-headed-dragon-gallery-8.jpg"
+    alt: "Alyonka adulta sobre la cama de los dueños"
 ---
 
 ## Alyonka: La Historia del Bollo de Canela y el Dragón de Tres Cabezas

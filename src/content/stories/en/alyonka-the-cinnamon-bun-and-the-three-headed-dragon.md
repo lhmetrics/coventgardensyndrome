@@ -4,6 +4,23 @@ date: 2026-09-20T12:00:00Z
 excerpt: "The first chapter of a triptych about the Home's four-legged guardians. How a mixed breed with rose-petal ears taught Mom a whole new kind of order, escaped a pet shop's clutches, and became the chief keeper of time gone by."
 cover: "/photos/alyonka-the-cinnamon-bun-and-the-three-headed-dragon.jpg"
 section: house-diary
+gallery:
+  - src: "/photos/alyonka-the-cinnamon-bun-and-the-three-headed-dragon-gallery-1.jpg"
+    alt: "The rescued baby right after her bath, wrapped in a towel"
+  - src: "/photos/alyonka-the-cinnamon-bun-and-the-three-headed-dragon-gallery-2.jpg"
+    alt: "Puppy Alyonka with enormous petal ears, standing on the floor"
+  - src: "/photos/alyonka-the-cinnamon-bun-and-the-three-headed-dragon-gallery-3.jpg"
+    alt: "Puppy Alyonka in a little sweater with the youngest son"
+  - src: "/photos/alyonka-the-cinnamon-bun-and-the-three-headed-dragon-gallery-4.jpg"
+    alt: "Puppy Alyonka peeking out of her little dog house"
+  - src: "/photos/alyonka-the-cinnamon-bun-and-the-three-headed-dragon-gallery-5.jpg"
+    alt: "Adult Alyonka with a basket of roses in the garden"
+  - src: "/photos/alyonka-the-cinnamon-bun-and-the-three-headed-dragon-gallery-6.jpg"
+    alt: "Alyonka on the lawn with yet another stolen shoe in her mouth"
+  - src: "/photos/alyonka-the-cinnamon-bun-and-the-three-headed-dragon-gallery-7.jpg"
+    alt: "Alyonka curled up in her round bed, wrapped in a pink blanket"
+  - src: "/photos/alyonka-the-cinnamon-bun-and-the-three-headed-dragon-gallery-8.jpg"
+    alt: "Adult Alyonka on the master bed"
 ---
 
 ## Alyonka: The Story of the Cinnamon Bun and the Three-Headed Dragon
