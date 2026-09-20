@@ -4,6 +4,15 @@ date: 2026-09-20T14:00:00Z
 excerpt: "Как кошачий взгляд выворачивает наизнанку привычные стены и почему случайное преломление света способно затопить целую комнату бирюзовой волной."
 cover: "/photos/bagheeras-television-or-the-geometry-of-the-underwater-living-room.jpg"
 section: geometry-space
+gallery:
+  - src: "/photos/bagheeras-television-or-the-geometry-of-the-underwater-living-room-gallery-1.jpg"
+    alt: "Фонарь парит в толще бирюзовой воды — вид первый"
+  - src: "/photos/bagheeras-television-or-the-geometry-of-the-underwater-living-room-gallery-2.jpg"
+    alt: "Отражение террасы накладывается на гостиную — вид второй"
+  - src: "/photos/bagheeras-television-or-the-geometry-of-the-underwater-living-room-gallery-3.jpg"
+    alt: "Оптический излом между этажами Дома — вид третий"
+  - src: "/photos/bagheeras-television-or-the-geometry-of-the-underwater-living-room-gallery-4.jpg"
+    alt: "Общий план: окно второго света и подводная гостиная"
 ---
 
 ## Телевизор Багиры, или Геометрия подводной гостиной

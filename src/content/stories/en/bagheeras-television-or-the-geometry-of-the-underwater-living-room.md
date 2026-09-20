@@ -4,6 +4,15 @@ date: 2026-09-20T14:00:00Z
 excerpt: "How a cat's gaze turns familiar walls inside out, and why a chance trick of the light can flood an entire room with a turquoise wave."
 cover: "/photos/bagheeras-television-or-the-geometry-of-the-underwater-living-room.jpg"
 section: geometry-space
+gallery:
+  - src: "/photos/bagheeras-television-or-the-geometry-of-the-underwater-living-room-gallery-1.jpg"
+    alt: "The lantern hovers in the turquoise water — view one"
+  - src: "/photos/bagheeras-television-or-the-geometry-of-the-underwater-living-room-gallery-2.jpg"
+    alt: "The terrace's reflection overlays the living room — view two"
+  - src: "/photos/bagheeras-television-or-the-geometry-of-the-underwater-living-room-gallery-3.jpg"
+    alt: "The optical fracture between the Home's floors — view three"
+  - src: "/photos/bagheeras-television-or-the-geometry-of-the-underwater-living-room-gallery-4.jpg"
+    alt: "Wide shot: the second-light window and the underwater living room"
 ---
 
 ## Bagheera's Television, or The Geometry of the Underwater Living Room

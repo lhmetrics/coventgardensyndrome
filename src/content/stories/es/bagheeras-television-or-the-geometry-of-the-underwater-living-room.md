@@ -4,6 +4,15 @@ date: 2026-09-20T14:00:00Z
 excerpt: "Cómo la mirada de una gata pone del revés las paredes de siempre, y por qué un juego casual de la luz puede inundar toda una habitación con una ola turquesa."
 cover: "/photos/bagheeras-television-or-the-geometry-of-the-underwater-living-room.jpg"
 section: geometry-space
+gallery:
+  - src: "/photos/bagheeras-television-or-the-geometry-of-the-underwater-living-room-gallery-1.jpg"
+    alt: "El farol flota en el agua turquesa — primera vista"
+  - src: "/photos/bagheeras-television-or-the-geometry-of-the-underwater-living-room-gallery-2.jpg"
+    alt: "El reflejo de la terraza se superpone al salón — segunda vista"
+  - src: "/photos/bagheeras-television-or-the-geometry-of-the-underwater-living-room-gallery-3.jpg"
+    alt: "La fractura óptica entre los pisos de la Casa — tercera vista"
+  - src: "/photos/bagheeras-television-or-the-geometry-of-the-underwater-living-room-gallery-4.jpg"
+    alt: "Plano general: la ventana del segundo nivel de luz y el salón submarino"
 ---
 
 ## El Televisor de Bagheera, o La Geometría del Salón Submarino
