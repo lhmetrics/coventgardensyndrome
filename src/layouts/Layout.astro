@@ -45,15 +45,21 @@ const ogLocale = localeTags[lang].replace('-', '_');
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <!-- The site itself runs zero client-side JS and loads nothing
-         cross-origin, so this can be locked down hard. (Doesn't cover
-         /admin/ — Sveltia CMS needs its own, separate policy — and
-         GitHub Pages can't send a real header, so frame-ancestors/
-         X-Frame-Options protection isn't achievable from here; that
-         would need a proxying layer in front, e.g. Cloudflare.) -->
+    <!-- The site loads nothing cross-origin, so this can be locked down
+         hard. (Doesn't cover /admin/ — Sveltia CMS needs its own, separate
+         policy — and GitHub Pages can't send a real header, so
+         frame-ancestors/X-Frame-Options protection isn't achievable from
+         here; that would need a proxying layer in front, e.g. Cloudflare.)
+         script-src allows exactly one inline script by hash: the Gallery
+         component's enhancement script (src/components/Gallery.astro),
+         which is byte-identical on every page that includes it — this
+         must be updated (see the console's CSP violation error, which
+         reports the exact hash it expected) if that script's source ever
+         changes, or galleries silently lose their nav buttons/counter
+         again while swipe still works via plain CSS scroll-snap. -->
     <meta
       http-equiv="Content-Security-Policy"
-      content="default-src 'self'; img-src 'self'; style-src 'self' 'unsafe-inline'; script-src 'none'; object-src 'none'; base-uri 'self'; form-action 'self';"
+      content="default-src 'self'; img-src 'self'; style-src 'self' 'unsafe-inline'; script-src 'sha256-sw4ebrKd42tEDKA+THrP7SM7lm4nTVuH11VSfy16Lik='; object-src 'none'; base-uri 'self'; form-action 'self';"
     />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="description" content={description} />
