@@ -39,7 +39,7 @@ export const sections: Record<SectionId, Record<Locale, SectionCopy>> = {
       emoji: '🧸',
       title: 'Night Chronicles',
       description:
-        "Fairy tales about the Home's toys coming to life at night — bedtime stories for children, and for grown-ups who never stopped believing in magic.",
+        'Fairy tales about the Home’s toys coming to life at night — bedtime stories for children, and for grown-ups who never stopped believing in magic.',
     },
     es: {
       emoji: '🧸',
@@ -59,7 +59,7 @@ export const sections: Record<SectionId, Record<Locale, SectionCopy>> = {
       emoji: '🌊',
       title: 'Human Shores',
       description:
-        "A philosophical look at human nature, love and growing up, seen through the Home's looking-glass reality.",
+        'A philosophical look at human nature, love and growing up, seen through the Home’s looking-glass reality.',
     },
     es: {
       emoji: '🌊',
@@ -139,7 +139,7 @@ export const sections: Record<SectionId, Record<Locale, SectionCopy>> = {
       emoji: '🍂',
       title: 'Whisper of Waves (The House Diary)',
       description:
-        "Short mood snapshots from the Home's daily life — the sea's changing weather, bath day for Alyonka the dog, Bibisechka's paw on the piano keys.",
+        'Short mood snapshots from the Home’s daily life — the sea’s changing weather, bath day for Alyonka the dog, Bibisechka’s paw on the piano keys.',
     },
     es: {
       // Draft — no ES title supplied yet, confirm with Elena.
@@ -164,7 +164,7 @@ export const sections: Record<SectionId, Record<Locale, SectionCopy>> = {
       emoji: '🎭',
       title: 'Directing of Things / The Interior Theater',
       description:
-        "An interior isn't furniture from a catalogue — it's a living theater where anyone can be the director: the right staging makes even the most ordinary object start talking, arguing, or joking with its neighbors.",
+        'An interior isn’t furniture from a catalogue — it’s a living theater where anyone can be the director: the right staging makes even the most ordinary object start talking, arguing, or joking with its neighbors.',
     },
     es: {
       emoji: '🎭',

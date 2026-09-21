@@ -1,7 +1,7 @@
 ---
 title: "The Long Escape to Cadaqués, or Surrealism at Home"
 date: 2026-09-17T19:00:00Z
-excerpt: "A painting of Cadaqués that fell off the wall, bronze cyclists, and Dalí's ants — three coincidences that came together into one performance on the floor by the stairs."
+excerpt: "A painting of Cadaqués that fell off the wall, bronze cyclists, and Dalí’s ants — three coincidences that came together into one performance on the floor by the stairs."
 cover: "/photos/the-long-escape-to-cadaques.jpg"
 section: interior-theater
 ---

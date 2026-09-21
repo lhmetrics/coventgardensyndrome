@@ -1,7 +1,7 @@
 ---
 title: "Ohana with a Fold on His Nose"
 date: 2026-09-11T09:00:00Z
-excerpt: "A sequel to Koska's story — how a blue alien with a stubborn fold on his nose took over guard duty, and the Hawaiian word 'Ohana' became the Family's shield."
+excerpt: "A sequel to Koska’s story — how a blue alien with a stubborn fold on his nose took over guard duty, and the Hawaiian word ‘Ohana’ became the Family’s shield."
 cover: "/photos/ohana-with-a-fold-on-his-nose.jpg"
 section: night-chronicles
 ---

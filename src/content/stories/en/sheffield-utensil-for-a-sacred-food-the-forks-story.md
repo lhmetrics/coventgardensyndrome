@@ -1,7 +1,7 @@
 ---
-title: "A Sheffield Utensil for a Sacred Food (The Fork's Story)"
+title: "A Sheffield Utensil for a Sacred Food (The Fork’s Story)"
 date: 2026-09-17T18:00:00Z
-excerpt: "The STERLING SILVER mark on a Sheffield bread fork's ferrule — and what it reveals about Edwardian etiquette and status."
+excerpt: "The STERLING SILVER mark on a Sheffield bread fork’s ferrule — and what it reveals about Edwardian etiquette and status."
 cover: "/photos/sheffield-utensil-for-a-sacred-food-the-forks-story.jpg"
 section: stamps-time
 gallery:

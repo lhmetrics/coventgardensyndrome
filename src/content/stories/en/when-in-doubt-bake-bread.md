@@ -1,7 +1,7 @@
 ---
 title: "When in Doubt, Bake Bread"
 date: 2026-09-16T12:00:00Z
-excerpt: "Lentil-and-pumpkin bread, an antique Edwardian fork with a Sheffield hallmark, and a grandmother's rule: when in doubt, bake bread."
+excerpt: "Lentil-and-pumpkin bread, an antique Edwardian fork with a Sheffield hallmark, and a grandmother’s rule: when in doubt, bake bread."
 cover: "/photos/when-in-doubt-bake-bread.jpg"
 section: house-diary
 ---

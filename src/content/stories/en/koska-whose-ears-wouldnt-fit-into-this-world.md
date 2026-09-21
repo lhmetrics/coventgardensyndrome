@@ -1,5 +1,5 @@
 ---
-title: "Koska, Whose Ears Wouldn't Fit Into This World"
+title: "Koska, Whose Ears Wouldn’t Fit Into This World"
 date: 2026-09-10T21:00:00Z
 excerpt: "A plush rabbit almost lost on the Maldives, and still impossible to fall asleep without, even for a grown-up son now oceans away — a story of long-eared loyalty."
 cover: "/photos/koska-whose-ears-wouldnt-fit-into-this-world.jpg"

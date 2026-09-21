@@ -1,7 +1,7 @@
 ---
 title: "The Secret Code of the Lantern"
 date: 2026-09-21T12:00:00Z
-excerpt: "The second chapter on the Home's interior. How childhood art-school training helped strip the black Spanish wax off the floor, and uncovered a hidden rhyme between three-hundred-year-old terracotta and the El Farol chandelier."
+excerpt: "The second chapter on the Home’s interior. How childhood art-school training helped strip the black Spanish wax off the floor, and uncovered a hidden rhyme between three-hundred-year-old terracotta and the El Farol chandelier."
 cover: "/photos/the-secret-code-of-the-lantern.jpg"
 section: geometry-space
 ---

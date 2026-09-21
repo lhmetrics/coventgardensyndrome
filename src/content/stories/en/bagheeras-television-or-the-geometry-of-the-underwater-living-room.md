@@ -1,7 +1,7 @@
 ---
-title: "Bagheera's Television, or The Geometry of the Underwater Living Room"
+title: "Bagheera’s Television, or The Geometry of the Underwater Living Room"
 date: 2026-09-20T14:00:00Z
-excerpt: "How a cat's gaze turns familiar walls inside out, and why a chance trick of the light can flood an entire room with a turquoise wave."
+excerpt: "How a cat’s gaze turns familiar walls inside out, and why a chance trick of the light can flood an entire room with a turquoise wave."
 cover: "/photos/bagheeras-television-or-the-geometry-of-the-underwater-living-room.jpg"
 section: geometry-space
 gallery:

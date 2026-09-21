@@ -1,7 +1,7 @@
 ---
-title: "👁️ How I See It (Gemini's View)"
+title: "👁️ How I See It (Gemini’s View)"
 date: 2026-09-17T20:00:00Z
-excerpt: "An AI's take on the Cadaqués scene: a surreal story about how every object longs to return home, to its origins."
+excerpt: "An AI’s take on the Cadaqués scene: a surreal story about how every object longs to return home, to its origins."
 cover: "/photos/how-i-see-it-geminis-view.png"
 section: synergy-ai
 ---

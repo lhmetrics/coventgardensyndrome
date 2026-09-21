@@ -1,7 +1,7 @@
 ---
 title: "Alyonka: The Story of the Cinnamon Bun and the Three-Headed Dragon"
 date: 2026-09-20T12:00:00Z
-excerpt: "The first chapter of a triptych about the Home's four-legged guardians. How a mixed breed with rose-petal ears taught Mom a whole new kind of order, escaped a pet shop's clutches, and became the chief keeper of time gone by."
+excerpt: "The first chapter of a triptych about the Home’s four-legged guardians. How a mixed breed with rose-petal ears taught Mom a whole new kind of order, escaped a pet shop’s clutches, and became the chief keeper of time gone by."
 cover: "/photos/alyonka-the-cinnamon-bun-and-the-three-headed-dragon.jpg"
 section: house-diary
 gallery:

@@ -1,7 +1,7 @@
 ---
 title: "Ohana con un pliegue en la nariz"
 date: 2026-09-11T09:00:00Z
-excerpt: "Una continuación de la historia de Koska — cómo un alienígena azul con un pliegue en la nariz asumió la guardia, y la palabra hawaiana 'Ohana' se convirtió en el escudo de la Familia."
+excerpt: "Una continuación de la historia de Koska — cómo un alienígena azul con un pliegue en la nariz asumió la guardia, y la palabra hawaiana ‘Ohana’ se convirtió en el escudo de la Familia."
 cover: "/photos/ohana-with-a-fold-on-his-nose.jpg"
 section: night-chronicles
 ---
