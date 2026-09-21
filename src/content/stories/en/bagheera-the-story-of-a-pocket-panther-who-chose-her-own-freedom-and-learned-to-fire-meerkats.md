@@ -13,6 +13,8 @@ gallery:
     alt: "Kitten Bagheera peeking out of the towel"
   - src: "/photos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats-gallery-4.jpg"
     alt: "Alyonka carrying out her «customs inspection» of the bundle holding the Home’s new mistress"
+  - src: "/photos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats-gallery-5.jpg"
+    alt: "Bagheera sitting regally up near the ceiling, surveying her domain from above"
 ---
 
 ## Bagheera: The Story of a Pocket Panther Who Chose Her Own Freedom and Learned to Fire Meerkats

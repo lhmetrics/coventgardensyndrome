@@ -13,6 +13,8 @@ gallery:
     alt: "Багира-котёнок выглядывает из полотенца"
   - src: "/photos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats-gallery-4.jpg"
     alt: "Алёнка проводит «таможенный контроль» над свертком с новой хозяйкой Дома"
+  - src: "/photos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats-gallery-5.jpg"
+    alt: "Багира царственно восседает под потолком, обозревая владения сверху"
 ---
 
 ## Багира: История карманной пантеры, которая сама выбрала свою свободу и научилась увольнять сурикатов

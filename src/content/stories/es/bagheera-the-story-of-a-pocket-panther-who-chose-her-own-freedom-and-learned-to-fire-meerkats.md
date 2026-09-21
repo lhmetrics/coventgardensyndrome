@@ -13,6 +13,8 @@ gallery:
     alt: "La gatita Bagheera asomando de la toalla"
   - src: "/photos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats-gallery-4.jpg"
     alt: "Alyonka realizando su «control de aduanas» sobre el bulto con la nueva dueña de la Casa"
+  - src: "/photos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats-gallery-5.jpg"
+    alt: "Bagheera sentada con aire regio cerca del techo, contemplando sus dominios desde arriba"
 ---
 
 ## Bagheera: La Historia de una Pantera de Bolsillo que Eligió su Propia Libertad y Aprendió a Despedir Suricatas
