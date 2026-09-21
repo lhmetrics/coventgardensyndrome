@@ -1,7 +1,7 @@
 ---
 title: "The Anatomy of Time: A Short Guide to Conserving Antique Grandfather Clocks"
 date: 2026-09-21T20:00:00Z
-excerpt: "From dry-brushing with a nylon-stocking vacuum attachment to the «spacesuit method» against woodworm — a code of gentle rescue for a century-old floor mechanism."
+excerpt: "A theoretical introduction for collectors. A professional code for rescuing clocks 200–300 years old: from total dry cleaning and fumigation against woodworm to preserving hidden inscriptions."
 cover: "/photos/anatomy-of-time-a-guide-to-conserving-antique-grandfather-clocks.jpg"
 section: stamps-time
 ---

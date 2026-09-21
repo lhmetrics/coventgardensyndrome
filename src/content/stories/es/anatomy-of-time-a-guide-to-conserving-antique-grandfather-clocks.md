@@ -1,7 +1,7 @@
 ---
 title: "La Anatomía del Tiempo: Guía Breve para Conservar Relojes de Pie Antiguos"
 date: 2026-09-21T20:00:00Z
-excerpt: "Desde la limpieza en seco con una media de nailon en la aspiradora hasta el «método del traje espacial» contra la carcoma: un código de rescate delicado para un mecanismo de pie centenario."
+excerpt: "Una introducción teórica para coleccionistas. Un código profesional para rescatar relojes de 200–300 años: desde la limpieza en seco total y la fumigación contra la carcoma hasta la conservación de las inscripciones ocultas."
 cover: "/photos/anatomy-of-time-a-guide-to-conserving-antique-grandfather-clocks.jpg"
 section: stamps-time
 ---
