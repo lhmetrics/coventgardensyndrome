@@ -4,6 +4,17 @@ date: 2026-09-21T23:00:00Z
 excerpt: "Третья глава триптиха о хвостатых хранителях Дома. Как измученный уличный крикун стал упитанным бенгальским красавцем — и наотрез отказался переезжать с садовой перголы на диван."
 cover: "/photos/konstantin-a-young-artist-with-bengal-roots-who-fired-domestic-comfort.jpg"
 section: house-diary
+gallery:
+  - src: "/photos/konstantin-a-young-artist-with-bengal-roots-who-fired-domestic-comfort-gallery-1.jpg"
+    alt: "Константин уходит через террасу, вид сверху на бенгальский окрас"
+  - src: "/photos/konstantin-a-young-artist-with-bengal-roots-who-fired-domestic-comfort-gallery-2.jpg"
+    alt: "Константин смотрит вверх, выпрашивая свою порцию еды"
+  - src: "/photos/konstantin-a-young-artist-with-bengal-roots-who-fired-domestic-comfort-gallery-3.jpg"
+    alt: "Портрет Константина крупным планом на террасе"
+  - src: "/photos/konstantin-a-young-artist-with-bengal-roots-who-fired-domestic-comfort-gallery-4.jpg"
+    alt: "Константин идет через террасу мимо кованой решетки"
+  - src: "/photos/konstantin-a-young-artist-with-bengal-roots-who-fired-domestic-comfort-gallery-5.jpg"
+    alt: "Константин на деревянных балках перголы, среди зелени"
 ---
 
 ## Константин: молодой артист с бенгальскими корнями, который уволил домашний уют

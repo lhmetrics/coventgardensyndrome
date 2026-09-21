@@ -4,6 +4,17 @@ date: 2026-09-21T23:00:00Z
 excerpt: "The third chapter of the triptych about the Home’s tailed guardians. How an exhausted street crooner became a plump Bengal beauty — and flatly refused to trade the garden pergola for a sofa."
 cover: "/photos/konstantin-a-young-artist-with-bengal-roots-who-fired-domestic-comfort.jpg"
 section: house-diary
+gallery:
+  - src: "/photos/konstantin-a-young-artist-with-bengal-roots-who-fired-domestic-comfort-gallery-1.jpg"
+    alt: "Konstantin walking away across the terrace, an overhead view of his Bengal markings"
+  - src: "/photos/konstantin-a-young-artist-with-bengal-roots-who-fired-domestic-comfort-gallery-2.jpg"
+    alt: "Konstantin looking up, asking for his portion of food"
+  - src: "/photos/konstantin-a-young-artist-with-bengal-roots-who-fired-domestic-comfort-gallery-3.jpg"
+    alt: "A close-up portrait of Konstantin on the terrace"
+  - src: "/photos/konstantin-a-young-artist-with-bengal-roots-who-fired-domestic-comfort-gallery-4.jpg"
+    alt: "Konstantin walking across the terrace past the wrought-iron gate"
+  - src: "/photos/konstantin-a-young-artist-with-bengal-roots-who-fired-domestic-comfort-gallery-5.jpg"
+    alt: "Konstantin on the pergola’s wooden beams, amid the greenery"
 ---
 
 ## Konstantin: A Young Artist with Bengal Roots Who Fired Domestic Comfort

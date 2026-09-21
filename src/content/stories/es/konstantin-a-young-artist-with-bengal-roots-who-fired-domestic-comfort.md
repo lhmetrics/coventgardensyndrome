@@ -4,6 +4,17 @@ date: 2026-09-21T23:00:00Z
 excerpt: "El tercer capítulo del tríptico sobre los guardianes de cola de la Casa. Cómo un agotado cantante callejero se convirtió en una hermosura bengalí bien alimentada — y se negó en redondo a cambiar la pérgola del jardín por un sofá."
 cover: "/photos/konstantin-a-young-artist-with-bengal-roots-who-fired-domestic-comfort.jpg"
 section: house-diary
+gallery:
+  - src: "/photos/konstantin-a-young-artist-with-bengal-roots-who-fired-domestic-comfort-gallery-1.jpg"
+    alt: "Konstantín alejándose por la terraza, vista cenital de su pelaje bengalí"
+  - src: "/photos/konstantin-a-young-artist-with-bengal-roots-who-fired-domestic-comfort-gallery-2.jpg"
+    alt: "Konstantín mirando hacia arriba, pidiendo su ración de comida"
+  - src: "/photos/konstantin-a-young-artist-with-bengal-roots-who-fired-domestic-comfort-gallery-3.jpg"
+    alt: "Un primer plano de Konstantín en la terraza"
+  - src: "/photos/konstantin-a-young-artist-with-bengal-roots-who-fired-domestic-comfort-gallery-4.jpg"
+    alt: "Konstantín caminando por la terraza junto a la verja de hierro forjado"
+  - src: "/photos/konstantin-a-young-artist-with-bengal-roots-who-fired-domestic-comfort-gallery-5.jpg"
+    alt: "Konstantín sobre las vigas de madera de la pérgola, entre la vegetación"
 ---
 
 ## Konstantín: Un Joven Artista de Raíces Bengalíes que Despidió el Confort Doméstico
