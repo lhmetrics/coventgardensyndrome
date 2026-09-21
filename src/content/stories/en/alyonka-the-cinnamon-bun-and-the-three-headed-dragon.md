@@ -21,6 +21,8 @@ gallery:
     alt: "Alyonka curled up in her round bed, wrapped in a pink blanket"
   - src: "/photos/alyonka-the-cinnamon-bun-and-the-three-headed-dragon-gallery-8.jpg"
     alt: "Adult Alyonka on the master bed"
+  - src: "/photos/alyonka-the-cinnamon-bun-and-the-three-headed-dragon-gallery-9.jpg"
+    alt: "Alyonka in a little printed shirt, standing on her hind legs to reach a basket of flowers"
 ---
 
 ## Alyonka: The Story of the Cinnamon Bun and the Three-Headed Dragon

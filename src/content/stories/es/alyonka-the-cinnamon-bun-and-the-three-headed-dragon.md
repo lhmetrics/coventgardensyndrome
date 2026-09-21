@@ -21,6 +21,8 @@ gallery:
     alt: "Alyonka acurrucada en su cama redonda, envuelta en una manta rosa"
   - src: "/photos/alyonka-the-cinnamon-bun-and-the-three-headed-dragon-gallery-8.jpg"
     alt: "Alyonka adulta sobre la cama de los dueños"
+  - src: "/photos/alyonka-the-cinnamon-bun-and-the-three-headed-dragon-gallery-9.jpg"
+    alt: "Alyonka con una camiseta estampada, de pie sobre las patas traseras para alcanzar una cesta de flores"
 ---
 
 ## Alyonka: La Historia del Bollo de Canela y el Dragón de Tres Cabezas

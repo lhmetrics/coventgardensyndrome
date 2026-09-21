@@ -21,6 +21,8 @@ gallery:
     alt: "Алёнка в круглой лежанке, закутанная в розовый плед"
   - src: "/photos/alyonka-the-cinnamon-bun-and-the-three-headed-dragon-gallery-8.jpg"
     alt: "Взрослая Алёнка на хозяйской кровати"
+  - src: "/photos/alyonka-the-cinnamon-bun-and-the-three-headed-dragon-gallery-9.jpg"
+    alt: "Алёнка в нарядной футболке тянется на задних лапках к корзине с цветами"
 ---
 
 ## Алёнка: История Булочки с корицей и трехглавого дракона
