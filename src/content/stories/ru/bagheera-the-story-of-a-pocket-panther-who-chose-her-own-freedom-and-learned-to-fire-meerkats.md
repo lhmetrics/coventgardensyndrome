@@ -4,6 +4,15 @@ date: 2026-09-21T22:00:00Z
 excerpt: "Вторая глава триптиха о хвостатых хранителях Дома. Как черный котенок из объявления в Facebook прошел «таможенный контроль» у Алёнки, стал полноправной хозяйкой сада — и завела при дворе собственного придворного суриката."
 cover: "/photos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats.jpg"
 section: house-diary
+gallery:
+  - src: "/photos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats-gallery-1.jpg"
+    alt: "Багира и сфинкс Бибисечка играют в гостиной рядом с плюшевым мишкой"
+  - src: "/photos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats-gallery-2.jpg"
+    alt: "Спасенная котёнком Багира, только что искупанная и завернутая в полотенце"
+  - src: "/photos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats-gallery-3.jpg"
+    alt: "Багира-котёнок выглядывает из полотенца"
+  - src: "/photos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats-gallery-4.jpg"
+    alt: "Алёнка проводит «таможенный контроль» над свертком с новой хозяйкой Дома"
 ---
 
 ## Багира: История карманной пантеры, которая сама выбрала свою свободу и научилась увольнять сурикатов
@@ -33,3 +42,37 @@ section: house-diary
 Он охранял ее покой в первые дни карантина в комнате. Позже Багира стала гордо выносить его на новые территории, а Мама придумала сурикату важную церемониальную роль — стоять на страже кошачьего буфета, прямо внутри винтажной креманки на высокой ножке.
 
 С тех пор сурикат с абсолютно прямой спиной служит безмолвным пажом Ее Величества. Но Багира регулярно проводит «дворцовые перевороты». Если паж нарушает геометрию стола или слишком пристально смотрит в царскую тарелку, кошка аккуратно берет его зубами и... **увольняет**. Сурикат отправляется в ссылку на пол, а иногда и вовсе летит вниз по лестнице, мимо бирюзовых мини-кресел и огромного плюшевого мишки (где в кадр вечно любит просачиваться утонченная сфинкс Бибисечка). Чтобы потом, когда буря утихнет, снова вернуться на свой пост у креманки и покорно ждать нового настроения своей черной королевы.
+
+---
+
+### 🎬 Архив: от карманной пантеры до королевы Дома
+
+<figure>
+  <video controls preload="metadata" src="/videos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats-video-1.mp4"></video>
+  <figcaption>Багира-котёнок и молодая Алёнка на бабушкином ковре</figcaption>
+</figure>
+
+<figure>
+  <video controls preload="metadata" src="/videos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats-video-2.mp4"></video>
+  <figcaption>Первые игры: котёнок Багира сражается с коробкой салфеток</figcaption>
+</figure>
+
+<figure>
+  <video controls preload="metadata" src="/videos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats-video-3.mp4"></video>
+  <figcaption>Охота на игрушечную мышку</figcaption>
+</figure>
+
+<figure>
+  <video controls preload="metadata" src="/videos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats-video-4.mp4"></video>
+  <figcaption>Багира и щенок Алёнка играют вместе</figcaption>
+</figure>
+
+<figure>
+  <video controls preload="metadata" src="/videos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats-video-5.mp4"></video>
+  <figcaption>Багира осваивает журнальный столик — и пульт от телевизора</figcaption>
+</figure>
+
+<figure>
+  <video controls preload="metadata" src="/videos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats-video-6.mp4"></video>
+  <figcaption>Багира и Бибисечка сегодня — та же гостиная, спустя годы</figcaption>
+</figure>

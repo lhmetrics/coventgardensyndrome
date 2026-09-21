@@ -4,6 +4,15 @@ date: 2026-09-21T22:00:00Z
 excerpt: "The second chapter of the triptych about the Home’s tailed guardians. How a black kitten from a Facebook ad passed Alyonka’s «customs control», became the rightful mistress of the garden — and appointed herself a court meerkat."
 cover: "/photos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats.jpg"
 section: house-diary
+gallery:
+  - src: "/photos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats-gallery-1.jpg"
+    alt: "Bagheera and the sphynx Bibisechka playing in the living room next to the plush bear"
+  - src: "/photos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats-gallery-2.jpg"
+    alt: "Kitten Bagheera, just bathed and wrapped in a towel"
+  - src: "/photos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats-gallery-3.jpg"
+    alt: "Kitten Bagheera peeking out of the towel"
+  - src: "/photos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats-gallery-4.jpg"
+    alt: "Alyonka carrying out her «customs inspection» of the bundle holding the Home’s new mistress"
 ---
 
 ## Bagheera: The Story of a Pocket Panther Who Chose Her Own Freedom and Learned to Fire Meerkats
@@ -33,3 +42,37 @@ But every great queen has her own small secret. For Bagheera, it's a plush meerk
 He guarded her peace during her first days of quarantine in her room. Later, Bagheera began proudly carrying him out into new territories, and Mum came up with an important ceremonial role for the meerkat: to stand guard over the cat buffet, right inside a vintage stemmed glass bowl.
 
 Ever since, the meerkat, with his perfectly straight back, has served as Her Majesty's silent page. But Bagheera regularly stages her "palace coups." If the page disturbs the geometry of the table or stares a little too intently into the royal plate, the cat gently takes him in her teeth and... **fires him**. The meerkat is exiled to the floor, and sometimes flies clear down the stairs, past the turquoise mini armchairs and the enormous plush teddy bear (where the elegant sphynx Bibisechka forever loves to sneak into frame). Only to return, once the storm has passed, to his post by the bowl, and wait obediently for his black queen's next mood.
+
+---
+
+### 🎬 The Archive: From Pocket Panther to Queen of the Home
+
+<figure>
+  <video controls preload="metadata" src="/videos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats-video-1.mp4"></video>
+  <figcaption>Kitten Bagheera and young Alyonka on Grandma's old rug</figcaption>
+</figure>
+
+<figure>
+  <video controls preload="metadata" src="/videos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats-video-2.mp4"></video>
+  <figcaption>First games: kitten Bagheera takes on a tissue box</figcaption>
+</figure>
+
+<figure>
+  <video controls preload="metadata" src="/videos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats-video-3.mp4"></video>
+  <figcaption>Hunting a toy mouse</figcaption>
+</figure>
+
+<figure>
+  <video controls preload="metadata" src="/videos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats-video-4.mp4"></video>
+  <figcaption>Bagheera and puppy Alyonka playing together</figcaption>
+</figure>
+
+<figure>
+  <video controls preload="metadata" src="/videos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats-video-5.mp4"></video>
+  <figcaption>Bagheera claims the coffee table — and the TV remote</figcaption>
+</figure>
+
+<figure>
+  <video controls preload="metadata" src="/videos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats-video-6.mp4"></video>
+  <figcaption>Bagheera and Bibisechka today — the same living room, years later</figcaption>
+</figure>

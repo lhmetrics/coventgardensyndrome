@@ -4,6 +4,15 @@ date: 2026-09-21T22:00:00Z
 excerpt: "El segundo capítulo del tríptico sobre los guardianes de cola de la Casa. Cómo una gatita negra de un anuncio en Facebook superó el «control de aduanas» de Alyonka, se convirtió en la dueña legítima del jardín — y se hizo con su propia suricata de corte."
 cover: "/photos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats.jpg"
 section: house-diary
+gallery:
+  - src: "/photos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats-gallery-1.jpg"
+    alt: "Bagheera y la esfinge Bibisechka jugando en el salón junto al osito de peluche"
+  - src: "/photos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats-gallery-2.jpg"
+    alt: "La gatita Bagheera, recién bañada y envuelta en una toalla"
+  - src: "/photos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats-gallery-3.jpg"
+    alt: "La gatita Bagheera asomando de la toalla"
+  - src: "/photos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats-gallery-4.jpg"
+    alt: "Alyonka realizando su «control de aduanas» sobre el bulto con la nueva dueña de la Casa"
 ---
 
 ## Bagheera: La Historia de una Pantera de Bolsillo que Eligió su Propia Libertad y Aprendió a Despedir Suricatas
@@ -33,3 +42,37 @@ Pero toda gran reina tiene su pequeño secreto. Para Bagheera, es una suricata d
 Custodió su descanso durante los primeros días de cuarentena en su habitación. Más tarde, Bagheera empezó a sacarlo con orgullo a nuevos territorios, y Mamá le inventó a la suricata un importante papel ceremonial: montar guardia junto al aparador de la gata, justo dentro de un cuenco de cristal con pie, de estilo vintage.
 
 Desde entonces, la suricata, con la espalda perfectamente recta, sirve como paje silencioso de Su Majestad. Pero Bagheera protagoniza con regularidad sus «golpes de palacio». Si el paje altera la geometría de la mesa o mira demasiado fijamente el plato real, la gata lo toma con delicadeza entre los dientes y... **lo despide**. La suricata es desterrada al suelo, y a veces incluso sale volando escaleras abajo, pasando junto a los sillones en miniatura color turquesa y el enorme osito de peluche (donde a la elegante esfinge Bibisechka siempre le encanta colarse en el encuadre). Para luego, cuando la tormenta amaine, volver a su puesto junto al cuenco y esperar dócilmente el próximo humor de su reina negra.
+
+---
+
+### 🎬 El Archivo: De Pantera de Bolsillo a Reina de la Casa
+
+<figure>
+  <video controls preload="metadata" src="/videos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats-video-1.mp4"></video>
+  <figcaption>La gatita Bagheera y la joven Alyonka sobre la vieja alfombra de la abuela</figcaption>
+</figure>
+
+<figure>
+  <video controls preload="metadata" src="/videos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats-video-2.mp4"></video>
+  <figcaption>Primeros juegos: la gatita Bagheera se enfrenta a una caja de pañuelos</figcaption>
+</figure>
+
+<figure>
+  <video controls preload="metadata" src="/videos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats-video-3.mp4"></video>
+  <figcaption>Cazando un ratón de juguete</figcaption>
+</figure>
+
+<figure>
+  <video controls preload="metadata" src="/videos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats-video-4.mp4"></video>
+  <figcaption>Bagheera y la cachorra Alyonka jugando juntas</figcaption>
+</figure>
+
+<figure>
+  <video controls preload="metadata" src="/videos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats-video-5.mp4"></video>
+  <figcaption>Bagheera conquista la mesita de café — y el mando del televisor</figcaption>
+</figure>
+
+<figure>
+  <video controls preload="metadata" src="/videos/bagheera-the-story-of-a-pocket-panther-who-chose-her-own-freedom-and-learned-to-fire-meerkats-video-6.mp4"></video>
+  <figcaption>Bagheera y Bibisechka hoy — el mismo salón, años después</figcaption>
+</figure>
