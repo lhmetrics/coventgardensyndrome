@@ -4,6 +4,15 @@ date: 2026-09-21T22:30:00Z
 excerpt: "Between Bagheera and Konstantin — the story of a Don Sphynx who rejected haute couture, lives exclusively on Mum’s chest, and personally oversees every piece of antique furniture restored in the Home."
 cover: "/photos/bibisechka-the-cosmic-girl-who-fired-silk-dresses-and-led-the-clock-restoration.jpg"
 section: house-diary
+gallery:
+  - src: "/photos/bibisechka-the-cosmic-girl-who-fired-silk-dresses-and-led-the-clock-restoration-gallery-1.jpg"
+    alt: "Kitten Bibisechka curled up tight inside a soft blanket"
+  - src: "/photos/bibisechka-the-cosmic-girl-who-fired-silk-dresses-and-led-the-clock-restoration-gallery-2.jpg"
+    alt: "Bibisechka asleep in a wicker basket in the sun, legs stretched out"
+  - src: "/photos/bibisechka-the-cosmic-girl-who-fired-silk-dresses-and-led-the-clock-restoration-gallery-3.jpg"
+    alt: "Bibisechka parading across the dining table between the vintage porcelain and crystal"
+  - src: "/photos/bibisechka-the-cosmic-girl-who-fired-silk-dresses-and-led-the-clock-restoration-gallery-4.jpg"
+    alt: "A portrait of Bibisechka: the big ears and watchful eyes of a cosmic girl"
 ---
 
 ## Bibisechka: The Cosmic Girl Who Fired Silk Dresses and Took Charge of the Grandfather Clock Restoration
@@ -31,3 +40,22 @@ Bibisechka holds a special passion for interior design and restoration work. Whe
 ### ⚔️ War of the Worlds
 
 Bibisechka and Bagheera are absolute opposites, the Yin and Yang of the feline kingdom. The black panther can barely hold back her regal fury watching the hairless alien's eccentric antics. Bagheera genuinely considers the Home and Garden her own personal, inviolable residence, where she alone rules the world. Bibisechka simply exists outside these earthly conventions altogether. She is a cosmic girl, and neither humans nor panthers are granted the ability to guess what galactic signals are racing through her big, big-eared head at the exact moment she disrupts the Home's perfect geometry all over again.
+
+---
+
+### 🎬 The Archive: Chronicles of a Cosmic Girl
+
+<figure>
+  <video controls preload="metadata" src="/videos/bibisechka-the-cosmic-girl-who-fired-silk-dresses-and-led-the-clock-restoration-video-1.mp4"></video>
+  <figcaption>Kitten Bibisechka tumbling around with the plush teddy bear</figcaption>
+</figure>
+
+<figure>
+  <video controls preload="metadata" src="/videos/bibisechka-the-cosmic-girl-who-fired-silk-dresses-and-led-the-clock-restoration-video-2.mp4"></video>
+  <figcaption>Asleep, curled into a ball in the sunlight</figcaption>
+</figure>
+
+<figure>
+  <video controls preload="metadata" src="/videos/bibisechka-the-cosmic-girl-who-fired-silk-dresses-and-led-the-clock-restoration-video-3.mp4"></video>
+  <figcaption>In a blue sweater — one of the rare outfits to survive her veto — playing with Alyonka</figcaption>
+</figure>

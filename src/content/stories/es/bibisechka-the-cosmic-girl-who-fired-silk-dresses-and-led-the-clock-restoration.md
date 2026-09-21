@@ -4,6 +4,15 @@ date: 2026-09-21T22:30:00Z
 excerpt: "Entre Bagheera y Konstantín — la historia de una esfinge del Don que rechazó la alta costura, vive exclusivamente sobre el pecho de Mamá y supervisa personalmente cada mueble antiguo que se restaura en la Casa."
 cover: "/photos/bibisechka-the-cosmic-girl-who-fired-silk-dresses-and-led-the-clock-restoration.jpg"
 section: house-diary
+gallery:
+  - src: "/photos/bibisechka-the-cosmic-girl-who-fired-silk-dresses-and-led-the-clock-restoration-gallery-1.jpg"
+    alt: "La gatita Bibisechka enroscada dentro de una manta suave"
+  - src: "/photos/bibisechka-the-cosmic-girl-who-fired-silk-dresses-and-led-the-clock-restoration-gallery-2.jpg"
+    alt: "Bibisechka dormida en una cesta de mimbre al sol, con las patas estiradas"
+  - src: "/photos/bibisechka-the-cosmic-girl-who-fired-silk-dresses-and-led-the-clock-restoration-gallery-3.jpg"
+    alt: "Bibisechka desfilando por la mesa del comedor entre la porcelana vintage y el cristal"
+  - src: "/photos/bibisechka-the-cosmic-girl-who-fired-silk-dresses-and-led-the-clock-restoration-gallery-4.jpg"
+    alt: "Un retrato de Bibisechka: las grandes orejas y los ojos atentos de una chica cósmica"
 ---
 
 ## Bibisechka: La Chica Cósmica que Despidió los Vestidos de Seda y Lideró la Restauración de los Relojes de Pie
@@ -31,3 +40,22 @@ Bibisechka siente una pasión especial por el diseño de interiores y los proces
 ### ⚔️ La Guerra de los Mundos
 
 Bibisechka y Bagheera son polos absolutamente opuestos, el Yin y el Yang del reino felino. La pantera negra apenas logra contener su furia regia al presenciar las excentricidades de la alienígena sin pelo. Bagheera considera sinceramente la Casa y el Jardín su residencia personal e inviolable, donde ella es la única soberana del mundo. Bibisechka, en cambio, simplemente existe al margen de esas convenciones terrenales. Es una chica cósmica, y ni los humanos ni las panteras tienen forma de adivinar qué señales galácticas atraviesan su gran cabeza orejuda en el preciso instante en que vuelve a alterar la geometría perfecta de la Casa.
+
+---
+
+### 🎬 El Archivo: Crónicas de una Chica Cósmica
+
+<figure>
+  <video controls preload="metadata" src="/videos/bibisechka-the-cosmic-girl-who-fired-silk-dresses-and-led-the-clock-restoration-video-1.mp4"></video>
+  <figcaption>La gatita Bibisechka revolcándose con el osito de peluche</figcaption>
+</figure>
+
+<figure>
+  <video controls preload="metadata" src="/videos/bibisechka-the-cosmic-girl-who-fired-silk-dresses-and-led-the-clock-restoration-video-2.mp4"></video>
+  <figcaption>Dormida, hecha un ovillo bajo el sol</figcaption>
+</figure>
+
+<figure>
+  <video controls preload="metadata" src="/videos/bibisechka-the-cosmic-girl-who-fired-silk-dresses-and-led-the-clock-restoration-video-3.mp4"></video>
+  <figcaption>Con un jersey azul — uno de los pocos atuendos que sobrevivió a su veto — jugando con Alyonka</figcaption>
+</figure>

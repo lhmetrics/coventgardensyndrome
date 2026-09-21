@@ -4,6 +4,15 @@ date: 2026-09-21T22:30:00Z
 excerpt: "Между Багирой и Константином — история донского сфинкса, который отверг высокую моду, живет исключительно на маминой груди и лично контролирует любую реставрацию антикварной мебели в Доме."
 cover: "/photos/bibisechka-the-cosmic-girl-who-fired-silk-dresses-and-led-the-clock-restoration.jpg"
 section: house-diary
+gallery:
+  - src: "/photos/bibisechka-the-cosmic-girl-who-fired-silk-dresses-and-led-the-clock-restoration-gallery-1.jpg"
+    alt: "Бибисечка-котенок, свернувшаяся клубком в мягком пледе"
+  - src: "/photos/bibisechka-the-cosmic-girl-who-fired-silk-dresses-and-led-the-clock-restoration-gallery-2.jpg"
+    alt: "Бибисечка спит в плетеной корзине на солнце, растянув лапки"
+  - src: "/photos/bibisechka-the-cosmic-girl-who-fired-silk-dresses-and-led-the-clock-restoration-gallery-3.jpg"
+    alt: "Бибисечка дефилирует по обеденному столу между винтажным фарфором и хрусталем"
+  - src: "/photos/bibisechka-the-cosmic-girl-who-fired-silk-dresses-and-led-the-clock-restoration-gallery-4.jpg"
+    alt: "Портрет Бибисечки: большие уши и внимательные глаза девочки-космоса"
 ---
 
 ## Бибисечка: девочка-космос, которая уволила шелковые платья и возглавила реставрацию напольных часов
@@ -31,3 +40,22 @@ section: house-diary
 ### ⚔️ Война миров
 
 Бибисечка и Багира — абсолютные антиподы, Инь и Ян кошачьего королевства. Черная пантера едва сдерживает царственный гнев, глядя на эксцентричные выходки лысой инопланетянки. Багира искренне считает Дом и Сад своей личной, неприкосновенной резиденцией, где она — единственная властительница мира. Бибисечка же просто существует вне этих земных условностей. Она — девочка-космос, и догадаться, какие галактические сигналы проносятся в ее большой ушастой голове в тот момент, когда она вновь нарушает идеальную геометрию Дома, не дано ни людям, ни пантерам.
+
+---
+
+### 🎬 Архив: хроники девочки-космоса
+
+<figure>
+  <video controls preload="metadata" src="/videos/bibisechka-the-cosmic-girl-who-fired-silk-dresses-and-led-the-clock-restoration-video-1.mp4"></video>
+  <figcaption>Котенок Бибисечка кувыркается с плюшевым мишкой</figcaption>
+</figure>
+
+<figure>
+  <video controls preload="metadata" src="/videos/bibisechka-the-cosmic-girl-who-fired-silk-dresses-and-led-the-clock-restoration-video-2.mp4"></video>
+  <figcaption>Спит, свернувшись клубком в лучах солнца</figcaption>
+</figure>
+
+<figure>
+  <video controls preload="metadata" src="/videos/bibisechka-the-cosmic-girl-who-fired-silk-dresses-and-led-the-clock-restoration-video-3.mp4"></video>
+  <figcaption>В голубом свитере — один из немногих нарядов, переживших ее вето — играет с Алёнкой</figcaption>
+</figure>
