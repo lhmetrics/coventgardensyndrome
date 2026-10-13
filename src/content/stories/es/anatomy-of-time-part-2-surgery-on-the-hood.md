@@ -58,6 +58,46 @@ El uso de aceites de máquina líquidos o de productos tipo WD-40 en la zona del
 
 Bajo la capa de masilla apareció una línea roja brillante: minio de hierro sobre aceite de linaza natural. Los artesanos antiguos lo usaban como una potente imprimación antiséptica e impermeabilizante que protegía el marco de la condensación. El propio cristal se sujetaba con diminutos clavos forjados sin cabeza. Para no aplastar el frágil borde con la palanca de los alicates, las clavijas se extrajeron con pinzas, estrictamente en paralelo al plano del cristal, una vez ablandada la madera con alcohol.
 
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-6.jpg" alt="La puerta del capuchón con su cristal todavía puesto, entera, antes del desmontaje" />
+  <figcaption>La puerta del capuchón con su cristal todavía puesto, entera, antes del desmontaje</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-7.jpg" alt="Una clavija forjada que sujeta el cristal, en la rebaja del marco" />
+  <figcaption>Una clavija forjada que sujeta el cristal, en la rebaja del marco</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-8.jpg" alt="Unas pinzas extrayendo la clavija, en paralelo estricto al plano del cristal" />
+  <figcaption>Unas pinzas extrayendo la clavija, en paralelo estricto al plano del cristal</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-9.jpg" alt="La diminuta clavija forjada sin cabeza, ya extraída, en primer plano" />
+  <figcaption>La diminuta clavija forjada sin cabeza, ya extraída, en primer plano</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-10.jpg" alt="El frasco para los artefactos, donde se recogen las clavijas extraídas" />
+  <figcaption>El frasco para los artefactos, donde se recogen las clavijas extraídas</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-11.jpg" alt="La línea roja brillante del minio de hierro, revelada bajo la capa de masilla" />
+  <figcaption>La línea roja brillante del minio de hierro, revelada bajo la capa de masilla</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-12.jpg" alt="El marco de la puerta vacío, una vez retirado por completo el cristal" />
+  <figcaption>El marco de la puerta vacío, una vez retirado por completo el cristal</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-13.jpg" alt="El propio cristal soplado a mano, ya retirado — se aprecia su característica ondulación" />
+  <figcaption>El propio cristal soplado a mano, ya retirado — se aprecia su característica ondulación</figcaption>
+</figure>
+
 ### Etapa 2: Regeneración del pestillo. El método del sellado de lacre
 
 El cerrojo original de la puerta del capuchón se había perdido, y el pomo torneado en forma de seta estaba completamente atascado. Tras introducir una gota de aceite dentro del casquillo de latón, extrajimos con cuidado, a presión, el pasador de acero forjado y facetado del pomo, siguiendo la dirección de sus caras.

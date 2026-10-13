@@ -58,6 +58,46 @@ Using liquid machine oils or products like WD-40 anywhere near the wooden frame 
 
 Under the layer of putty, a bright red line was revealed — iron red lead over natural linseed oil. Old craftsmen used it as a powerful antiseptic, waterproofing primer to protect the frame from condensation. The glass itself was held in place by tiny headless forged pins. To avoid crushing the fragile edge with a pair of pliers, the pins were extracted with tweezers, strictly parallel to the plane of the glass, after the wood had been softened with alcohol.
 
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-6.jpg" alt="The hood door with its glass still in place, whole, before removal" />
+  <figcaption>The hood door with its glass still in place, whole, before removal</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-7.jpg" alt="A forged pin holding the glass in place, in the frame's rebate" />
+  <figcaption>A forged pin holding the glass in place, in the frame's rebate</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-8.jpg" alt="Tweezers extracting the pin, held strictly parallel to the plane of the glass" />
+  <figcaption>Tweezers extracting the pin, held strictly parallel to the plane of the glass</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-9.jpg" alt="The tiny headless forged pin, extracted, in close-up" />
+  <figcaption>The tiny headless forged pin, extracted, in close-up</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-10.jpg" alt="The jar for artifacts, collecting the extracted pins" />
+  <figcaption>The jar for artifacts, collecting the extracted pins</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-11.jpg" alt="The bright red line of iron red lead, revealed under the layer of putty" />
+  <figcaption>The bright red line of iron red lead, revealed under the layer of putty</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-12.jpg" alt="The empty door frame, after the glass has been fully removed" />
+  <figcaption>The empty door frame, after the glass has been fully removed</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-13.jpg" alt="The removed hand-blown glass itself — its characteristic waviness is visible" />
+  <figcaption>The removed hand-blown glass itself — its characteristic waviness is visible</figcaption>
+</figure>
+
 ### Stage 2: Regenerating the Latch — the Sealing-Wax Method
 
 The hood door's original lock was long gone, and the turned mushroom-shaped handle was jammed solid. After introducing a drop of oil into the brass bushing, we carefully pressed out the handle's faceted, forged steel pin, working along the direction of its facets.
