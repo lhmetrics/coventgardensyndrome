@@ -298,7 +298,35 @@ To keep the glue from bubbling, it's critical to follow the order in which the c
 
 > A materials-science law for this piece: using physical fillers (such as wood dust) in the syringe on the first layer is a mistake. Coarse, dry cellulose particles act like tiny sponges: they instantly drink up the free moisture and alcohol out of the PVA, triggering an immediate loss of flow, clumping, and the appearance of air pockets.
 
-*[Photo 4 — coming soon: the order and process of mixing the adhesive glaze. A still life on a porcelain saucer — a thick drop of white PVA is worked with a flat No. 5 brush together with the brown tint, with a white bottle of alcohol standing ready to be introduced into the mix.]*
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-44.jpg" alt="The Lakeone stain tins used in the work — No. 2 Roble Oscuro and Caoba" />
+  <figcaption>The Lakeone stain tins used in the work — No. 2 Roble Oscuro and Caoba</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-45.jpg" alt="The mixing begins: PVA and the Caoba tint being worked with a brush, next to the clock's movement" />
+  <figcaption>The mixing begins: PVA and the Caoba tint being worked with a brush, next to the clock's movement</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-46.jpg" alt="The PVA and the stain just starting to combine in the mixing cup" />
+  <figcaption>The PVA and the stain just starting to combine in the mixing cup</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-47.jpg" alt="The mixture mid-blend, showing its characteristic marbled pattern" />
+  <figcaption>The mixture mid-blend, showing its characteristic marbled pattern</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-48.jpg" alt="All three ingredients together — Ceys Cola Blanca glue, Lakeone stain, and alcohol — next to the finished mix" />
+  <figcaption>All three ingredients together — Ceys Cola Blanca glue, Lakeone stain, and alcohol — next to the finished mix</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-49.jpg" alt="The finished, fully blended, cocoa-colored emulsion" />
+  <figcaption>The finished, fully blended, cocoa-colored emulsion</figcaption>
+</figure>
 
 ### 🩺 The "Hood Surgery" Operating Protocol
 

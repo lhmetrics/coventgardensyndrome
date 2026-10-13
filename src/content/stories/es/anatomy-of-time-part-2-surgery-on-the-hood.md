@@ -298,7 +298,35 @@ Para que el pegamento no forme burbujas, es fundamental respetar estrictamente e
 
 > Ley de la ciencia de materiales de este artículo: usar cargas físicas (como polvo de madera) en la jeringa en la primera capa es un error. Las partículas gruesas de celulosa seca actúan como microesponjas: absorben al instante la humedad libre y el alcohol del PVA, provocando una pérdida inmediata de fluidez, grumos y la aparición de bolsas de aire.
 
-*[Foto 4 — próximamente: el orden y el proceso de mezcla del glaseado adhesivo. Un bodegón sobre un platito de porcelana: una gota espesa de PVA blanco se trabaja con un pincel plano n.º 5 junto con el tinte marrón, mientras un frasco blanco de alcohol espera listo para incorporarse a la mezcla.]*
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-44.jpg" alt="Las latas de tinte Lakeone usadas en el trabajo — n.º 2 Roble Oscuro y Caoba" />
+  <figcaption>Las latas de tinte Lakeone usadas en el trabajo — n.º 2 Roble Oscuro y Caoba</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-45.jpg" alt="Comienza la mezcla: el PVA y el tinte Caoba se trabajan con un pincel, junto al mecanismo del reloj" />
+  <figcaption>Comienza la mezcla: el PVA y el tinte Caoba se trabajan con un pincel, junto al mecanismo del reloj</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-46.jpg" alt="El PVA y el tinte empezando a combinarse en el vaso de mezcla" />
+  <figcaption>El PVA y el tinte empezando a combinarse en el vaso de mezcla</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-47.jpg" alt="La mezcla a medio batir, mostrando su característico veteado" />
+  <figcaption>La mezcla a medio batir, mostrando su característico veteado</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-48.jpg" alt="Los tres ingredientes juntos — la cola Ceys Cola Blanca, el tinte Lakeone y el alcohol — junto a la mezcla terminada" />
+  <figcaption>Los tres ingredientes juntos — la cola Ceys Cola Blanca, el tinte Lakeone y el alcohol — junto a la mezcla terminada</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-49.jpg" alt="La emulsión terminada, color cacao, ya completamente homogénea" />
+  <figcaption>La emulsión terminada, color cacao, ya completamente homogénea</figcaption>
+</figure>
 
 ### 🩺 El protocolo operatorio de la «cirugía de la capota»
 
