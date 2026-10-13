@@ -337,7 +337,10 @@ Para que el pegamento no forme burbujas, es fundamental respetar estrictamente e
 
 > Técnica de seguridad para la jeringa: al trabajar con la jeringa hay que purgar el aire constantemente y limpiar con regularidad la punta de la aguja con microfibra lisa, exactamente igual que antes de una inyección a una persona. Esta regla de hierro evita «escupitajos» bruscos de pegamento e impide que se introduzcan burbujas de aire bajo el pergamino.
 
-*[Foto 5 — próximamente: la operación de introducir el compuesto con la jeringa bajo la capa auténtica. Un momento de precisión de joyero en la conservación: la punta de la jeringa de 2 ml introduce la masa líquida homogénea bajo el borde cuidadosamente levantado del papel antiguo. Al fondo se ve el mecanismo de latón del reloj.]*
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-50.jpg" alt="Una mano levantando el borde del papel antiguo, la aguja de la jeringa con una gota del compuesto lista para inyectar" />
+  <figcaption>Una mano levantando el borde del papel antiguo, la aguja de la jeringa con una gota del compuesto lista para inyectar</figcaption>
+</figure>
 
 1. **Eliminación de la resistencia:** el exceso de pegamento se retira con cuidado con las yemas de los dedos y se seca estrictamente con microfibra lisa (un trapo corriente y áspero puede dejar pelusa o microarañazos en la celulosa vieja y húmeda). En los puntos de tensión excesiva o de grandes bolsas de aire se hacen incisiones longitudinales de precisión con la gubia curva Dexter Steel (ofrece una vista fenomenal del plano y no araña el nogal histórico del marco). En las incisiones se reintroduce una microdosis de pegamento.
 2. **Espacio de ventilación:** el pergamino original no se puede apoyar nunca directamente sobre el kraft húmedo de inmediato. Los botes de pintura Citadel (Nuln Oil y Biel-Tan Green) se colocan bajo el papel como soportes separadores atraumáticos. Las capas se secan por separado, permitiendo la ventilación.

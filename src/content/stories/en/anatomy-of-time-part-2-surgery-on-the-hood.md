@@ -337,7 +337,10 @@ To keep the glue from bubbling, it's critical to follow the order in which the c
 
 > Syringe safety technique: when working with the syringe, air must be bled off constantly, and the needle's tip wiped regularly with smooth microfiber — exactly as you would before giving someone an injection. This iron rule prevents sudden glue "spurts" and keeps air bubbles from being forced in under the parchment.
 
-*[Photo 5 — coming soon: injecting the compound with the syringe under the authentic layer. A jeweler's-precision moment of conservation — the tip of the 2 ml syringe feeds the homogeneous liquid mass under a carefully lifted edge of the antique paper. The clock's brass movement is visible in the background.]*
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-50.jpg" alt="A hand lifting the edge of the antique paper, the syringe needle with a drop of the compound ready to inject" />
+  <figcaption>A hand lifting the edge of the antique paper, the syringe needle with a drop of the compound ready to inject</figcaption>
+</figure>
 
 1. **Relieving resistance:** excess glue is gently squeezed out with fingertips and blotted strictly with smooth microfiber (ordinary coarse rags can leave lint or micro-scratches on the old, damp cellulose). In spots with excess tension or large air pockets, fine, lengthwise incisions are made with the curved Dexter Steel chisel (it gives a phenomenal view of the plane and doesn't scratch the historic walnut frame). A micro-dose of glue is reintroduced into the incisions.
 2. **A ventilation gap:** the original parchment must never be laid directly onto the wet kraft paper right away. Citadel paint pots (Nuln Oil and Biel-Tan Green) are placed under the paper as atraumatic spacer supports. The layers dry separately, allowing for ventilation.
