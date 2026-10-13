@@ -258,11 +258,6 @@ The true revelation turned out to be the hood's roof: lying over the shrunken bo
   <figcaption>The parchment laid over the full sheet of kraft paper, the forged hook still in place</figcaption>
 </figure>
 
-<figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-43.jpg" alt="An overall view of the finished hood, with its wooden frame" />
-  <figcaption>An overall view of the finished hood, with its wooden frame</figcaption>
-</figure>
-
 ### 🧪 Recipe for a Homogeneous Alcohol "Cocoa Mix"
 
 To keep the glue from bubbling, it's critical to follow the order in which the components are combined, strictly:
@@ -351,6 +346,9 @@ To keep the glue from bubbling, it's critical to follow the order in which the c
 
 Working with the alcohol requires patience and a step-by-step approach, since the alcohol evaporates rapidly, changing the adhesion as it goes. We don't touch the small wrinkles left by the damp cellulose by hand — the alcohol drives the evaporation process, and as it dries, the kraft membrane will tighten on its own, like the skin of a drum.
 
-*[Photo 8 — coming soon: the final result of the implanted layer and the roof's complete seal. A view of the finished top plane of the hood — the old, dark Paulissen panel sits flush over the new protective sublayer, with the century-old forged hook preserved in place. Every gap has been eliminated.]*
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-43.jpg" alt="An overall view of the finished hood, with its wooden frame" />
+  <figcaption>An overall view of the finished hood, with its wooden frame</figcaption>
+</figure>
 
 By finishing the kraft paper, while still damp with alcohol, with glazed patches of Lakeone water-based stains No. 2 and No. 14, we achieve a perfect visual blend between the layers. The difference in color is obvious, but it isn't a flaw — it's honest, transparent museum-grade restoration.

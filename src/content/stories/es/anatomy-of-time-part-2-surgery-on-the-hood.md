@@ -258,11 +258,6 @@ La verdadera revelación fue el techo de la capota: sobre las tablas resecadas d
   <figcaption>El pergamino colocado sobre toda la hoja de papel kraft, con el gancho forjado todavía en su sitio</figcaption>
 </figure>
 
-<figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-43.jpg" alt="Vista general de la capota terminada, con su marco de madera" />
-  <figcaption>Vista general de la capota terminada, con su marco de madera</figcaption>
-</figure>
-
 ### 🧪 Receta de la «mezcla de cacao» alcohólica homogénea
 
 Para que el pegamento no forme burbujas, es fundamental respetar estrictamente el orden de combinación de los componentes:
@@ -351,6 +346,9 @@ Para que el pegamento no forme burbujas, es fundamental respetar estrictamente e
 
 El proceso de interacción con el alcohol exige ir paso a paso, ya que el alcohol se evapora con rapidez, cambiando la adherencia sobre la marcha. No tocamos con las manos las pequeñas arrugas producidas por la humectación de la celulosa: el alcohol dirige el proceso de evaporación, y a medida que se seca, la membrana de kraft se tensará por sí sola, como la piel de un tambor.
 
-*[Foto 8 — próximamente: el resultado final de la implantación y el sellado completo del techo. Vista del plano superior terminado de la capota: la antigua pantalla oscura Paulissen queda asentada, perfectamente plana, sobre la nueva subcapa protectora, con el gancho forjado centenario conservado en su sitio. Todas las grietas han quedado eliminadas.]*
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-43.jpg" alt="Vista general de la capota terminada, con su marco de madera" />
+  <figcaption>Vista general de la capota terminada, con su marco de madera</figcaption>
+</figure>
 
 Al terminar el kraft, todavía húmedo de alcohol, con veladuras de los tintes acuosos Lakeone n.º 2 y n.º 14, logramos una fusión visual perfecta entre las capas. La diferencia de color es evidente, pero no es un defecto: es una restauración museística honesta y transparente.
