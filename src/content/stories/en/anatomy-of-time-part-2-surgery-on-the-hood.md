@@ -193,7 +193,100 @@ The true revelation turned out to be the hood's roof: lying over the shrunken bo
 
 > A restoration lifehack: how to flatten roll kraft paper. Heavy roll kraft paper has a strong mechanical "memory" and wants to curl back up. To release its internal factory tension, the paper is fully soaked in water, flattened out, and dried under a light sheet press. The cellulose fully relaxes, turning into a stable, flat canvas.
 
-*[Photo 3 — coming soon: an overall view of the hood's roof, with gaps running straight through from above. A panoramic view of the hood's top plane — the deep, through-running grooves between the old, shrunken frame boards, and fragments of the original gray parchment, are clearly visible.]*
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-25.jpg" alt="An overall view of the hood's roof with its multi-layered, darkened parchment — the starting condition" />
+  <figcaption>An overall view of the hood's roof with its multi-layered, darkened parchment — the starting condition</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-26.jpg" alt="A macro shot of a through-gap between the shrunken frame boards" />
+  <figcaption>A macro shot of a through-gap between the shrunken frame boards</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-27.jpg" alt="The roll kraft paper in its natural, curled state — before flattening" />
+  <figcaption>The roll kraft paper in its natural, curled state — before flattening</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-28.jpg" alt="The kraft paper after soaking and drying under a press — a stable, flat canvas" />
+  <figcaption>The kraft paper after soaking and drying under a press — a stable, flat canvas</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-29.jpg" alt="A diagram of the method: new kraft paper fed in underneath, the original parchment laid on top" />
+  <figcaption>A diagram of the method: new kraft paper fed in underneath, the original parchment laid on top</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-30.jpg" alt="Kraft paper being fed under the raised edges of the parchment, the forged hook visible at center" />
+  <figcaption>Kraft paper being fed under the raised edges of the parchment, the forged hook visible at center</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-31.jpg" alt="The kraft paper now fully fed in under the parchment around the whole perimeter" />
+  <figcaption>The kraft paper now fully fed in under the parchment around the whole perimeter</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-32.jpg" alt="The workbench with glue and tools during the operation" />
+  <figcaption>The workbench with glue and tools during the operation</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-33.jpg" alt="The curved Dexter Steel chisel and the 2 ml syringe — the operation's main tools" />
+  <figcaption>The curved Dexter Steel chisel and the 2 ml syringe — the operation's main tools</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-34.jpg" alt="The chisel and syringe beside the gap, ready for work" />
+  <figcaption>The chisel and syringe beside the gap, ready for work</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-35.jpg" alt="The syringe loaded with the glue mixture, needle inserted right into the gap" />
+  <figcaption>The syringe loaded with the glue mixture, needle inserted right into the gap</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-36.jpg" alt="Injecting the compound with the syringe under a raised edge of the parchment" />
+  <figcaption>Injecting the compound with the syringe under a raised edge of the parchment</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-37.jpg" alt="A Citadel Nuln Oil pot set up as a spacer support for ventilation" />
+  <figcaption>A Citadel Nuln Oil pot set up as a spacer support for ventilation</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-38.jpg" alt="Both Citadel pots, including Biel-Tan Green, acting as atraumatic spacers" />
+  <figcaption>Both Citadel pots, including Biel-Tan Green, acting as atraumatic spacers</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-39.jpg" alt="The parchment laid over the full sheet of kraft paper, the forged hook still in place" />
+  <figcaption>The parchment laid over the full sheet of kraft paper, the forged hook still in place</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-40.jpg" alt="A macro shot of the century-old forged hook itself" />
+  <figcaption>A macro shot of the century-old forged hook itself</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-41.jpg" alt="The glued kraft paper, showing the amber tint of the Lakeone Caoba stain" />
+  <figcaption>The glued kraft paper, showing the amber tint of the Lakeone Caoba stain</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-42.jpg" alt="The finished result: the hood's roof fully sealed, every gap eliminated" />
+  <figcaption>The finished result: the hood's roof fully sealed, every gap eliminated</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-43.jpg" alt="An overall view of the finished hood, with its wooden frame" />
+  <figcaption>An overall view of the finished hood, with its wooden frame</figcaption>
+</figure>
 
 ### 🧪 Recipe for a Homogeneous Alcohol "Cocoa Mix"
 

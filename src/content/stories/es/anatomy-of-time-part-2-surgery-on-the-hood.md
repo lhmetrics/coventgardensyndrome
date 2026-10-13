@@ -193,7 +193,100 @@ La verdadera revelación fue el techo de la capota: sobre las tablas resecadas d
 
 > Truco de restauración: cómo enderezar el papel kraft en rollo. El papel kraft grueso en rollo tiene una fuerte «memoria» mecánica y tiende a volver a enrollarse. Para liberar su tensión interna de fábrica, el papel se empapa por completo en agua, se estira y se seca bajo una prensa ligera de hojas. La celulosa se relaja por completo, convirtiéndose en un lienzo estable y plano.
 
-*[Foto 3 — próximamente: vista general del techo de la capota con las grietas pasantes desde arriba. Vista panorámica del plano superior del capuchón: se aprecian con claridad las ranuras longitudinales profundas y pasantes entre las viejas tablas resecadas del armazón, y fragmentos del pergamino gris original.]*
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-25.jpg" alt="Vista general del techo de la capota con su pergamino multicapa oscurecido — el estado inicial" />
+  <figcaption>Vista general del techo de la capota con su pergamino multicapa oscurecido — el estado inicial</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-26.jpg" alt="Macrofotografía de una grieta pasante entre las tablas resecadas del armazón" />
+  <figcaption>Macrofotografía de una grieta pasante entre las tablas resecadas del armazón</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-27.jpg" alt="El papel kraft en rollo, en su estado natural y enrollado — antes de enderezarlo" />
+  <figcaption>El papel kraft en rollo, en su estado natural y enrollado — antes de enderezarlo</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-28.jpg" alt="El papel kraft tras el remojo y el secado bajo una prensa — un lienzo estable y plano" />
+  <figcaption>El papel kraft tras el remojo y el secado bajo una prensa — un lienzo estable y plano</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-29.jpg" alt="Diagrama del método: el papel kraft nuevo se introduce debajo, el pergamino original se coloca encima" />
+  <figcaption>Diagrama del método: el papel kraft nuevo se introduce debajo, el pergamino original se coloca encima</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-30.jpg" alt="El papel kraft introduciéndose bajo los bordes levantados del pergamino, con el gancho forjado visible en el centro" />
+  <figcaption>El papel kraft introduciéndose bajo los bordes levantados del pergamino, con el gancho forjado visible en el centro</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-31.jpg" alt="El papel kraft ya introducido por completo bajo el pergamino, en todo el perímetro" />
+  <figcaption>El papel kraft ya introducido por completo bajo el pergamino, en todo el perímetro</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-32.jpg" alt="La mesa de trabajo con el pegamento y las herramientas durante la operación" />
+  <figcaption>La mesa de trabajo con el pegamento y las herramientas durante la operación</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-33.jpg" alt="La gubia curva Dexter Steel y la jeringa de 2 ml — las herramientas principales de la operación" />
+  <figcaption>La gubia curva Dexter Steel y la jeringa de 2 ml — las herramientas principales de la operación</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-34.jpg" alt="La gubia y la jeringa junto a la grieta, listas para trabajar" />
+  <figcaption>La gubia y la jeringa junto a la grieta, listas para trabajar</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-35.jpg" alt="La jeringa cargada con la mezcla de pegamento, con la aguja insertada justo en la grieta" />
+  <figcaption>La jeringa cargada con la mezcla de pegamento, con la aguja insertada justo en la grieta</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-36.jpg" alt="Inyectando el compuesto con la jeringa bajo un borde levantado del pergamino" />
+  <figcaption>Inyectando el compuesto con la jeringa bajo un borde levantado del pergamino</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-37.jpg" alt="Un bote de Citadel Nuln Oil colocado como soporte separador para la ventilación" />
+  <figcaption>Un bote de Citadel Nuln Oil colocado como soporte separador para la ventilación</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-38.jpg" alt="Ambos botes de Citadel, incluido el Biel-Tan Green, haciendo de separadores atraumáticos" />
+  <figcaption>Ambos botes de Citadel, incluido el Biel-Tan Green, haciendo de separadores atraumáticos</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-39.jpg" alt="El pergamino colocado sobre toda la hoja de papel kraft, con el gancho forjado todavía en su sitio" />
+  <figcaption>El pergamino colocado sobre toda la hoja de papel kraft, con el gancho forjado todavía en su sitio</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-40.jpg" alt="Macrofotografía del propio gancho forjado centenario" />
+  <figcaption>Macrofotografía del propio gancho forjado centenario</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-41.jpg" alt="El papel kraft ya pegado, mostrando el tono ámbar del tinte Lakeone Caoba" />
+  <figcaption>El papel kraft ya pegado, mostrando el tono ámbar del tinte Lakeone Caoba</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-42.jpg" alt="El resultado terminado: el techo de la capota completamente sellado, sin ninguna grieta" />
+  <figcaption>El resultado terminado: el techo de la capota completamente sellado, sin ninguna grieta</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-43.jpg" alt="Vista general de la capota terminada, con su marco de madera" />
+  <figcaption>Vista general de la capota terminada, con su marco de madera</figcaption>
+</figure>
 
 ### 🧪 Receta de la «mezcla de cacao» alcohólica homogénea
 

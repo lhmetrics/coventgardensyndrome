@@ -193,7 +193,100 @@ section: stamps-time
 
 > Реставрационный лайфхак: как выпрямить рулонный крафт. Плотный рулонный крафт обладает сильной механической «памятью» и стремится скрутиться обратно. Чтобы снять внутреннее заводское напряжение, бумагу полностью замачивают в воде, расправляют и сушат под лёгким листовым прессом. Целлюлоза полностью расслабляется, превращаясь в стабильный, плоский холст.
 
-*[Фото 3 — скоро здесь: общий план крыши шлема со сквозными щелями сверху. Панорамный вид верхней плоскости капюшона — отчётливо видны глубокие, сквозные продольные пазы между усохшими от времени старыми досками каркаса и фрагменты оригинального серого пергамента.]*
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-25.jpg" alt="Общий план крыши шлема с многослойным потемневшим пергаментом — исходное состояние" />
+  <figcaption>Общий план крыши шлема с многослойным потемневшим пергаментом — исходное состояние</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-26.jpg" alt="Макросъёмка сквозной щели между усохшими досками каркаса" />
+  <figcaption>Макросъёмка сквозной щели между усохшими досками каркаса</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-27.jpg" alt="Рулонный крафт в его естественном, скрученном состоянии — до выпрямления" />
+  <figcaption>Рулонный крафт в его естественном, скрученном состоянии — до выпрямления</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-28.jpg" alt="Крафт после замачивания и сушки под прессом — стабильный, плоский холст" />
+  <figcaption>Крафт после замачивания и сушки под прессом — стабильный, плоский холст</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-29.jpg" alt="Схема метода: новая крафт-бумага заведена под основу, исторический пергамент уложен сверху" />
+  <figcaption>Схема метода: новая крафт-бумага заведена под основу, исторический пергамент уложен сверху</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-30.jpg" alt="Крафт заводится под приподнятые края пергамента, кованый крюк виден в центре" />
+  <figcaption>Крафт заводится под приподнятые края пергамента, кованый крюк виден в центре</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-31.jpg" alt="Крафт полностью заведён под пергамент по всему периметру" />
+  <figcaption>Крафт полностью заведён под пергамент по всему периметру</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-32.jpg" alt="Рабочий стол с клеем и инструментами во время операции" />
+  <figcaption>Рабочий стол с клеем и инструментами во время операции</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-33.jpg" alt="Изогнутый резец Dexter Steel и шприц на 2 мл — основные инструменты операции" />
+  <figcaption>Изогнутый резец Dexter Steel и шприц на 2 мл — основные инструменты операции</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-34.jpg" alt="Резец и шприц рядом со щелью, готовые к работе" />
+  <figcaption>Резец и шприц рядом со щелью, готовые к работе</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-35.jpg" alt="Шприц с клеевой смесью, игла введена прямо в щель" />
+  <figcaption>Шприц с клеевой смесью, игла введена прямо в щель</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-36.jpg" alt="Введение состава шприцем под приподнятый край пергамента" />
+  <figcaption>Введение состава шприцем под приподнятый край пергамента</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-37.jpg" alt="Баночка Citadel Nuln Oil установлена как распорный упор для вентиляции" />
+  <figcaption>Баночка Citadel Nuln Oil установлена как распорный упор для вентиляции</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-38.jpg" alt="Обе баночки Citadel, включая Biel-Tan Green, в роли атравматичных распорок" />
+  <figcaption>Обе баночки Citadel, включая Biel-Tan Green, в роли атравматичных распорок</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-39.jpg" alt="Пергамент поверх всего листа крафта, кованый крюк на месте" />
+  <figcaption>Пергамент поверх всего листа крафта, кованый крюк на месте</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-40.jpg" alt="Макросъёмка самого векового кованого крюка" />
+  <figcaption>Макросъёмка самого векового кованого крюка</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-41.jpg" alt="Проклеенный крафт с видимым янтарным оттенком морилки Lakeone Caoba" />
+  <figcaption>Проклеенный крафт с видимым янтарным оттенком морилки Lakeone Caoba</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-42.jpg" alt="Готовый результат: крыша капюшона полностью загерметизирована, щели ликвидированы" />
+  <figcaption>Готовый результат: крыша капюшона полностью загерметизирована, щели ликвидированы</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-43.jpg" alt="Общий план готового капюшона целиком, с деревянной рамой" />
+  <figcaption>Общий план готового капюшона целиком, с деревянной рамой</figcaption>
+</figure>
 
 ### 🧪 Рецепт гомогенного спиртового «какао-замеса»
 
