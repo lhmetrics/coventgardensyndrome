@@ -124,11 +124,7 @@ As the base for a new locking tongue, we chose a rigid stainless-steel hanger pl
 
 To fix it in place, we used a two-part cold-weld epoxy (a grey-maroon putty). Mixing the compound strictly on a plastic blister pack, we packed it around the forged facets and shaped it into a neat collar.
 
-*[Photo 1 — coming soon: fitting the latch onto the handle's pin. A macro shot of the inside of the door — the machined steel plate is fitted onto the square facets of the forged pin, checking its radius of rotation.]*
-
 While the compound was still wet, a bit of pure artistic modeling came into play: the collar was generously and carefully dusted with velvety walnut powder, and an ordinary fine needle was used to press the author's personal mark straight into the metal — an upside-down bird (our avatar), meant to add to this clock's story for future generations of restorers.
-
-*[Photo 2 — coming soon: the installed latch with the maker's bird mark. A close-up of the finished latch assembly — the grimy maroon cold-weld collar is textured with brown walnut powder, with the silhouette of an upside-down bird clearly traced into the center with a needle. The plate fits perfectly into the frame's groove.]*
 
 In the final stage, the assembly was coated with Negro Betun Judaico bitumen from *Mongay* and carefully wiped with a soft rag. The bitumen settled permanently into the pores of the walnut powder and the grooves of the stamp — the bright steel instantly turned into brutal, forged 18th-century cast iron, fitting perfectly into the case's wooden groove.
 
@@ -341,8 +337,6 @@ To keep the glue from bubbling, it's critical to follow the order in which the c
 </figure>
 
 1. **The final cut:** the excess outer edges of the kraft paper are trimmed away with a Dexter blade, with the paper gently tensioned toward you, strictly along the contour of the oak frame. Cutting paper directly over the gaps themselves is absolutely forbidden!
-
-*[Photo 7 — coming soon: trimming the excess paper with the curved Dexter chisel. A close-up of the trimming — the curved Dexter scalpel blade cleanly separates the free edge of the kraft paper along the frame's perimeter, with fingers gently tensioning the paper toward themselves. The excess is removed, and any remaining glue is cleaned up with quality cotton swabs.]*
 
 Working with the alcohol requires patience and a step-by-step approach, since the alcohol evaporates rapidly, changing the adhesion as it goes. We don't touch the small wrinkles left by the damp cellulose by hand — the alcohol drives the evaporation process, and as it dries, the kraft membrane will tighten on its own, like the skin of a drum.
 

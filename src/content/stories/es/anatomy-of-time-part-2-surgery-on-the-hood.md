@@ -124,11 +124,7 @@ Como base para la nueva lengüeta de cierre, elegimos una placa colgante rígida
 
 Para fijarlo, usamos una soldadura en frío bicomponente (una masilla gris-granate). Mezclando el compuesto estrictamente sobre un blíster de plástico, lo adherimos alrededor de las caras forjadas y formamos un collar cuidado.
 
-*[Foto 1 — próximamente: el proceso de probar el pestillo sobre el pasador del pomo. Macrofotografía del interior de la puerta: la placa de acero mecanizada está colocada sobre las caras cuadradas del pasador forjado, comprobando su radio de giro.]*
-
 Mientras el compuesto aún estaba fresco, surgió un auténtico modelado artístico: el collar se espolvoreó abundante y cuidadosamente con polvo de nogal aterciopelado, y con una simple aguja fina se presionó directamente sobre el metal la marca personal del autor: un pájaro invertido (nuestro avatar), pensado para sumar un capítulo a la historia de este reloj para futuras generaciones de restauradores.
-
-*[Foto 2 — próximamente: el pestillo instalado con la marca de autor del pájaro. Primer plano del conjunto de cierre terminado: el collar granate sucio de la soldadura en frío está texturizado con polvo de nogal marrón, con la silueta de un pájaro invertido claramente dibujada con la aguja en el centro. La placa encaja perfectamente en la ranura del marco.]*
 
 En la etapa final, el conjunto se cubrió con betún Negro Betún Judaico de *Mongay* y se frotó con cuidado con un trapo suave. El betún se fijó para siempre en los poros del polvo de nogal y en los surcos del sello: el acero brillante se transformó al instante en un bruto hierro fundido forjado del siglo XVIII, encajando perfectamente en la ranura de madera de la carcasa.
 
@@ -341,8 +337,6 @@ Para que el pegamento no forme burbujas, es fundamental respetar estrictamente e
 </figure>
 
 1. **Corte final:** los bordes exteriores sobrantes del kraft se recortan con una cuchilla Dexter, tensando ligeramente el papel hacia uno mismo, siguiendo estrictamente el contorno del marco de roble. ¡Está terminantemente prohibido cortar el papel justo sobre las propias grietas!
-
-*[Foto 7 — próximamente: recorte del papel sobrante con la gubia curva Dexter. Primer plano del recorte: la hoja curva del escalpelo Dexter separa limpiamente el borde libre del kraft por el perímetro del marco, mientras los dedos tensan ligeramente el papel hacia sí. Se retira el sobrante y los restos de pegamento se limpian con bastoncillos de calidad.]*
 
 El proceso de interacción con el alcohol exige ir paso a paso, ya que el alcohol se evapora con rapidez, cambiando la adherencia sobre la marcha. No tocamos con las manos las pequeñas arrugas producidas por la humectación de la celulosa: el alcohol dirige el proceso de evaporación, y a medida que se seca, la membrana de kraft se tensará por sí sola, como la piel de un tambor.
 
