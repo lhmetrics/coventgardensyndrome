@@ -30,6 +30,26 @@ Al empezar a limpiar el capuchón de nogal negro, nos topamos con un problema in
 
 Al mismo tiempo, la vieja masilla del cristal se desmoronaba: con el más mínimo contacto se convertía en polvo. Para salvar el finísimo cristal soplado a mano, «ondulado», aplicamos el método de la compresa química: las rebajas se empaparon generosamente en aguarrás, se envolvieron herméticamente en film transparente durante media hora y después se calentaron localmente con un secador. El viejo aceite de linaza se ablandó, permitiéndonos limpiar por completo las ranuras con palillos.
 
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-2.jpg" alt="El capuchón con la puerta de cristal abierta, con el roble ya despejado del «motín sucio»" />
+  <figcaption>El capuchón con la puerta de cristal abierta, con el roble ya despejado del «motín sucio»</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-3.jpg" alt="Macrofotografía de la rebaja — la vieja masilla del cristal se desmorona al más mínimo contacto" />
+  <figcaption>Macrofotografía de la rebaja — la vieja masilla del cristal se desmorona al más mínimo contacto</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-4.jpg" alt="Primer plano de la unión entre el cristal y la madera, con restos de masilla y aceite de linaza" />
+  <figcaption>Primer plano de la unión entre el cristal y la madera, con restos de masilla y aceite de linaza</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-5.jpg" alt="Vista general de la puerta acristalada completa del capuchón" />
+  <figcaption>Vista general de la puerta acristalada completa del capuchón</figcaption>
+</figure>
+
 ### 🛑 Tabú absoluto sobre el WD-40 y los aceites penetrantes
 
 El uso de aceites de máquina líquidos o de productos tipo WD-40 en la zona del marco de madera está terminantemente prohibido. La antigua celulosa seca los absorberá al instante y en toda su profundidad. La adherencia de la madera quedará destruida para siempre: ningún pegamento, ningún adhesivo tipo kintsugi ni ninguna masilla de cristal nueva volverá jamás a agarrarse a esas rebajas grasientas.

@@ -30,6 +30,26 @@ Starting to clean the black walnut hood, we ran into an unexpected problem: the 
 
 At the same time, the old glazing putty was falling apart — it turned to dust at the slightest touch. To save the extremely thin, "wavy" hand-blown glass, we used a chemical-compress method: the rebates were soaked generously in white spirit, wrapped tightly in cling film for half an hour, then locally warmed with a hair dryer. The old linseed-oil putty softened, letting us fully clean out the grooves with toothpicks.
 
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-2.jpg" alt="The hood with its glass door open, showing the oak after the «dirty rebellion» grime was cleared" />
+  <figcaption>The hood with its glass door open, showing the oak after the «dirty rebellion» grime was cleared</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-3.jpg" alt="A macro shot of the rebate — the old glazing putty crumbling at the slightest touch" />
+  <figcaption>A macro shot of the rebate — the old glazing putty crumbling at the slightest touch</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-4.jpg" alt="A close-up of the glass-to-wood joint, with remnants of putty and linseed oil" />
+  <figcaption>A close-up of the glass-to-wood joint, with remnants of putty and linseed oil</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-5.jpg" alt="An overall view of the hood's full glazed door" />
+  <figcaption>An overall view of the hood's full glazed door</figcaption>
+</figure>
+
 ### 🛑 A Strict Taboo on WD-40 and Penetrating Oils
 
 Using liquid machine oils or products like WD-40 anywhere near the wooden frame is categorically forbidden. The ancient, dry cellulose will soak them up instantly and all the way through. The wood's adhesion will be destroyed forever — no glue, no kintsugi adhesive, no fresh glazing putty will ever grip those greasy rebates again.
