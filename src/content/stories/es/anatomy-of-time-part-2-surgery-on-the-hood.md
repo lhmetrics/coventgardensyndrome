@@ -254,33 +254,8 @@ La verdadera revelación fue el techo de la capota: sobre las tablas resecadas d
 </figure>
 
 <figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-37.jpg" alt="Un bote de Citadel Nuln Oil colocado como soporte separador para la ventilación" />
-  <figcaption>Un bote de Citadel Nuln Oil colocado como soporte separador para la ventilación</figcaption>
-</figure>
-
-<figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-38.jpg" alt="Ambos botes de Citadel, incluido el Biel-Tan Green, haciendo de separadores atraumáticos" />
-  <figcaption>Ambos botes de Citadel, incluido el Biel-Tan Green, haciendo de separadores atraumáticos</figcaption>
-</figure>
-
-<figure>
   <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-39.jpg" alt="El pergamino colocado sobre toda la hoja de papel kraft, con el gancho forjado todavía en su sitio" />
   <figcaption>El pergamino colocado sobre toda la hoja de papel kraft, con el gancho forjado todavía en su sitio</figcaption>
-</figure>
-
-<figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-40.jpg" alt="Macrofotografía del propio gancho forjado centenario" />
-  <figcaption>Macrofotografía del propio gancho forjado centenario</figcaption>
-</figure>
-
-<figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-41.jpg" alt="El papel kraft ya pegado, mostrando el tono ámbar del tinte Lakeone Caoba" />
-  <figcaption>El papel kraft ya pegado, mostrando el tono ámbar del tinte Lakeone Caoba</figcaption>
-</figure>
-
-<figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-42.jpg" alt="El resultado terminado: el techo de la capota completamente sellado, sin ninguna grieta" />
-  <figcaption>El resultado terminado: el techo de la capota completamente sellado, sin ninguna grieta</figcaption>
 </figure>
 
 <figure>
@@ -345,7 +320,30 @@ Para que el pegamento no forme burbujas, es fundamental respetar estrictamente e
 1. **Eliminación de la resistencia:** el exceso de pegamento se retira con cuidado con las yemas de los dedos y se seca estrictamente con microfibra lisa (un trapo corriente y áspero puede dejar pelusa o microarañazos en la celulosa vieja y húmeda). En los puntos de tensión excesiva o de grandes bolsas de aire se hacen incisiones longitudinales de precisión con la gubia curva Dexter Steel (ofrece una vista fenomenal del plano y no araña el nogal histórico del marco). En las incisiones se reintroduce una microdosis de pegamento.
 2. **Espacio de ventilación:** el pergamino original no se puede apoyar nunca directamente sobre el kraft húmedo de inmediato. Los botes de pintura Citadel (Nuln Oil y Biel-Tan Green) se colocan bajo el papel como soportes separadores atraumáticos. Las capas se secan por separado, permitiendo la ventilación.
 
-*[Foto 6 — próximamente: secado y ventilación de las capas usando botes como separadores. Vista lateral: un bote de Citadel Shade está colocado como apoyo bajo el pergamino levantado, creando un espacio de aire sobre la capa inferior de papel kraft recién pegada.]*
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-37.jpg" alt="Un bote de Citadel Nuln Oil colocado como soporte separador para la ventilación" />
+  <figcaption>Un bote de Citadel Nuln Oil colocado como soporte separador para la ventilación</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-38.jpg" alt="Ambos botes de Citadel, incluido el Biel-Tan Green, haciendo de separadores atraumáticos" />
+  <figcaption>Ambos botes de Citadel, incluido el Biel-Tan Green, haciendo de separadores atraumáticos</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-40.jpg" alt="Macrofotografía del propio gancho forjado centenario" />
+  <figcaption>Macrofotografía del propio gancho forjado centenario</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-41.jpg" alt="El papel kraft ya pegado, mostrando el tono ámbar del tinte Lakeone Caoba" />
+  <figcaption>El papel kraft ya pegado, mostrando el tono ámbar del tinte Lakeone Caoba</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-42.jpg" alt="El resultado terminado: el techo de la capota completamente sellado, sin ninguna grieta" />
+  <figcaption>El resultado terminado: el techo de la capota completamente sellado, sin ninguna grieta</figcaption>
+</figure>
 
 1. **Corte final:** los bordes exteriores sobrantes del kraft se recortan con una cuchilla Dexter, tensando ligeramente el papel hacia uno mismo, siguiendo estrictamente el contorno del marco de roble. ¡Está terminantemente prohibido cortar el papel justo sobre las propias grietas!
 

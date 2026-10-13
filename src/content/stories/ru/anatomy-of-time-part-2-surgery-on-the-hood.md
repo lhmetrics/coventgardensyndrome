@@ -254,33 +254,8 @@ section: stamps-time
 </figure>
 
 <figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-37.jpg" alt="Баночка Citadel Nuln Oil установлена как распорный упор для вентиляции" />
-  <figcaption>Баночка Citadel Nuln Oil установлена как распорный упор для вентиляции</figcaption>
-</figure>
-
-<figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-38.jpg" alt="Обе баночки Citadel, включая Biel-Tan Green, в роли атравматичных распорок" />
-  <figcaption>Обе баночки Citadel, включая Biel-Tan Green, в роли атравматичных распорок</figcaption>
-</figure>
-
-<figure>
   <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-39.jpg" alt="Пергамент поверх всего листа крафта, кованый крюк на месте" />
   <figcaption>Пергамент поверх всего листа крафта, кованый крюк на месте</figcaption>
-</figure>
-
-<figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-40.jpg" alt="Макросъёмка самого векового кованого крюка" />
-  <figcaption>Макросъёмка самого векового кованого крюка</figcaption>
-</figure>
-
-<figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-41.jpg" alt="Проклеенный крафт с видимым янтарным оттенком морилки Lakeone Caoba" />
-  <figcaption>Проклеенный крафт с видимым янтарным оттенком морилки Lakeone Caoba</figcaption>
-</figure>
-
-<figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-42.jpg" alt="Готовый результат: крыша капюшона полностью загерметизирована, щели ликвидированы" />
-  <figcaption>Готовый результат: крыша капюшона полностью загерметизирована, щели ликвидированы</figcaption>
 </figure>
 
 <figure>
@@ -345,7 +320,30 @@ section: stamps-time
 1. **Устранение сопротивления:** излишки клея бережно выжимаются подушечками пальцев и промакиваются строго гладкой микрофиброй (обычная грубая ветошь может оставить на старой влажной целлюлозе ворс или микроцарапины). В местах избыточного натяжения или крупных воздушных линз делаются ювелирные продольные надрезы изогнутым резцом Dexter Steel (он даёт феноменальный обзор плоскости и не царапает исторический орех рамы). В разрезы повторно вводится микродоза клея.
 2. **Вентиляционный зазор:** оригинальный пергамент категорически нельзя опускать на мокрый крафт сразу. Баночки от красок Citadel (Nuln Oil и Biel-Tan Green) устанавливаются под бумагу как атравматичные распорные упоры. Слои сохнут раздельно, обеспечивая вентиляцию.
 
-*[Фото 6 — скоро здесь: сушка и вентиляция слоёв с использованием баночек-распоров. Боковой ракурс — баночка Citadel Shade установлена в качестве упора под приподнятый пергамент, создавая воздушный зазор над свежеприклеенным нижним слоем крафт-бумаги.]*
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-37.jpg" alt="Баночка Citadel Nuln Oil установлена как распорный упор для вентиляции" />
+  <figcaption>Баночка Citadel Nuln Oil установлена как распорный упор для вентиляции</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-38.jpg" alt="Обе баночки Citadel, включая Biel-Tan Green, в роли атравматичных распорок" />
+  <figcaption>Обе баночки Citadel, включая Biel-Tan Green, в роли атравматичных распорок</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-40.jpg" alt="Макросъёмка самого векового кованого крюка" />
+  <figcaption>Макросъёмка самого векового кованого крюка</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-41.jpg" alt="Проклеенный крафт с видимым янтарным оттенком морилки Lakeone Caoba" />
+  <figcaption>Проклеенный крафт с видимым янтарным оттенком морилки Lakeone Caoba</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-42.jpg" alt="Готовый результат: крыша капюшона полностью загерметизирована, щели ликвидированы" />
+  <figcaption>Готовый результат: крыша капюшона полностью загерметизирована, щели ликвидированы</figcaption>
+</figure>
 
 1. **Финальный рез:** лишние внешние кромки крафта срезаются лезвием Dexter с лёгким натяжением бумаги «на себя» строго по контуру дубовой обвязки. Над самими щелями резать бумагу строжайше запрещено!
 

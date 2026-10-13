@@ -254,33 +254,8 @@ The true revelation turned out to be the hood's roof: lying over the shrunken bo
 </figure>
 
 <figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-37.jpg" alt="A Citadel Nuln Oil pot set up as a spacer support for ventilation" />
-  <figcaption>A Citadel Nuln Oil pot set up as a spacer support for ventilation</figcaption>
-</figure>
-
-<figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-38.jpg" alt="Both Citadel pots, including Biel-Tan Green, acting as atraumatic spacers" />
-  <figcaption>Both Citadel pots, including Biel-Tan Green, acting as atraumatic spacers</figcaption>
-</figure>
-
-<figure>
   <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-39.jpg" alt="The parchment laid over the full sheet of kraft paper, the forged hook still in place" />
   <figcaption>The parchment laid over the full sheet of kraft paper, the forged hook still in place</figcaption>
-</figure>
-
-<figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-40.jpg" alt="A macro shot of the century-old forged hook itself" />
-  <figcaption>A macro shot of the century-old forged hook itself</figcaption>
-</figure>
-
-<figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-41.jpg" alt="The glued kraft paper, showing the amber tint of the Lakeone Caoba stain" />
-  <figcaption>The glued kraft paper, showing the amber tint of the Lakeone Caoba stain</figcaption>
-</figure>
-
-<figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-42.jpg" alt="The finished result: the hood's roof fully sealed, every gap eliminated" />
-  <figcaption>The finished result: the hood's roof fully sealed, every gap eliminated</figcaption>
 </figure>
 
 <figure>
@@ -345,7 +320,30 @@ To keep the glue from bubbling, it's critical to follow the order in which the c
 1. **Relieving resistance:** excess glue is gently squeezed out with fingertips and blotted strictly with smooth microfiber (ordinary coarse rags can leave lint or micro-scratches on the old, damp cellulose). In spots with excess tension or large air pockets, fine, lengthwise incisions are made with the curved Dexter Steel chisel (it gives a phenomenal view of the plane and doesn't scratch the historic walnut frame). A micro-dose of glue is reintroduced into the incisions.
 2. **A ventilation gap:** the original parchment must never be laid directly onto the wet kraft paper right away. Citadel paint pots (Nuln Oil and Biel-Tan Green) are placed under the paper as atraumatic spacer supports. The layers dry separately, allowing for ventilation.
 
-*[Photo 6 — coming soon: drying and ventilating the layers using small spacer pots. A side view — a Citadel Shade pot is set as a support under the raised parchment, creating an air gap above the freshly glued kraft-paper underlayer.]*
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-37.jpg" alt="A Citadel Nuln Oil pot set up as a spacer support for ventilation" />
+  <figcaption>A Citadel Nuln Oil pot set up as a spacer support for ventilation</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-38.jpg" alt="Both Citadel pots, including Biel-Tan Green, acting as atraumatic spacers" />
+  <figcaption>Both Citadel pots, including Biel-Tan Green, acting as atraumatic spacers</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-40.jpg" alt="A macro shot of the century-old forged hook itself" />
+  <figcaption>A macro shot of the century-old forged hook itself</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-41.jpg" alt="The glued kraft paper, showing the amber tint of the Lakeone Caoba stain" />
+  <figcaption>The glued kraft paper, showing the amber tint of the Lakeone Caoba stain</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-42.jpg" alt="The finished result: the hood's roof fully sealed, every gap eliminated" />
+  <figcaption>The finished result: the hood's roof fully sealed, every gap eliminated</figcaption>
+</figure>
 
 1. **The final cut:** the excess outer edges of the kraft paper are trimmed away with a Dexter blade, with the paper gently tensioned toward you, strictly along the contour of the oak frame. Cutting paper directly over the gaps themselves is absolutely forbidden!
 
