@@ -132,6 +132,61 @@ Mientras el compuesto aún estaba fresco, surgió un auténtico modelado artíst
 
 En la etapa final, el conjunto se cubrió con betún Negro Betún Judaico de *Mongay* y se frotó con cuidado con un trapo suave. El betún se fijó para siempre en los poros del polvo de nogal y en los surcos del sello: el acero brillante se transformó al instante en un bruto hierro fundido forjado del siglo XVIII, encajando perfectamente en la ranura de madera de la carcasa.
 
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-14.jpg" alt="La puerta del capuchón con su pomo de latón en forma de seta y el cerrojo perdido — el estado inicial" />
+  <figcaption>La puerta del capuchón con su pomo de latón en forma de seta y el cerrojo perdido — el estado inicial</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-15.jpg" alt="Macrofotografía del hueco vacío que dejó el cerrojo perdido" />
+  <figcaption>Macrofotografía del hueco vacío que dejó el cerrojo perdido</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-16.jpg" alt="El pasador forjado y facetado junto a la placa de acero inoxidable en blanco, con una moneda como referencia de escala" />
+  <figcaption>El pasador forjado y facetado junto a la placa de acero inoxidable en blanco, con una moneda como referencia de escala</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-17.jpg" alt="Probando la placa de acero ya perforada sobre el pasador, directamente en el marco" />
+  <figcaption>Probando la placa de acero ya perforada sobre el pasador, directamente en el marco</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-18.jpg" alt="Primer plano del ajuste — el orificio cuadrado encaja exactamente con las caras del pasador" />
+  <figcaption>Primer plano del ajuste — el orificio cuadrado encaja exactamente con las caras del pasador</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-19.jpg" alt="El collar de soldadura en frío, todavía húmedo, espolvoreado con polvo de nogal, con la marca del pájaro ya presionada" />
+  <figcaption>El collar de soldadura en frío, todavía húmedo, espolvoreado con polvo de nogal, con la marca del pájaro ya presionada</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-20.jpg" alt="El pestillo terminado con su marca de pájaro, junto a una moneda como referencia de escala" />
+  <figcaption>El pestillo terminado con su marca de pájaro, junto a una moneda como referencia de escala</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-21.jpg" alt="El pestillo instalado en el marco, todavía antes del recubrimiento de betún" />
+  <figcaption>El pestillo instalado en el marco, todavía antes del recubrimiento de betún</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-22.jpg" alt="Una lata de betún Negro Betún Judaico de Mongay" />
+  <figcaption>Una lata de betún Negro Betún Judaico de Mongay</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-23.jpg" alt="El pestillo terminado tras el recubrimiento de betún — el acero se ha convertido en hierro fundido forjado" />
+  <figcaption>El pestillo terminado tras el recubrimiento de betún — el acero se ha convertido en hierro fundido forjado</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-24.jpg" alt="Una vista final del pestillo sobre el marco, junto a la lata de betún" />
+  <figcaption>Una vista final del pestillo sobre el marco, junto a la lata de betún</figcaption>
+</figure>
+
 ### Etapa 3: Conservación del caparazón de papel del techo
 
 La verdadera revelación fue el techo de la capota: sobre las tablas resecadas descansaba un pergamino antiguo multicapa, oscurecido por el tiempo, sujeto por un gancho forjado centenario incrustado en la madera. La madera que había debajo se había encogido, formando enormes grietas que la atravesaban de lado a lado. Retirar el papel estaba descartado: habría significado la pérdida total de la procedencia. Así que aplicamos un método de nivel museístico: la laminación interna con papel kraft (implantando una subcapa).

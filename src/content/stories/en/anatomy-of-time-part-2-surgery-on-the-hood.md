@@ -132,6 +132,61 @@ While the compound was still wet, a bit of pure artistic modeling came into play
 
 In the final stage, the assembly was coated with Negro Betun Judaico bitumen from *Mongay* and carefully wiped with a soft rag. The bitumen settled permanently into the pores of the walnut powder and the grooves of the stamp — the bright steel instantly turned into brutal, forged 18th-century cast iron, fitting perfectly into the case's wooden groove.
 
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-14.jpg" alt="The hood door with its brass mushroom handle and the lost lock — the starting condition" />
+  <figcaption>The hood door with its brass mushroom handle and the lost lock — the starting condition</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-15.jpg" alt="A macro shot of the empty mortise left by the lost lock" />
+  <figcaption>A macro shot of the empty mortise left by the lost lock</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-16.jpg" alt="The forged faceted pin and the blank stainless-steel hanger plate, next to a coin for scale" />
+  <figcaption>The forged faceted pin and the blank stainless-steel hanger plate, next to a coin for scale</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-17.jpg" alt="Test-fitting the bored-out steel plate onto the pin, right in the frame" />
+  <figcaption>Test-fitting the bored-out steel plate onto the pin, right in the frame</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-18.jpg" alt="A close-up of the fitting — the square hole matches the pin's facets exactly" />
+  <figcaption>A close-up of the fitting — the square hole matches the pin's facets exactly</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-19.jpg" alt="The wet cold-weld collar, dusted with walnut powder, with the bird mark pressed in" />
+  <figcaption>The wet cold-weld collar, dusted with walnut powder, with the bird mark pressed in</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-20.jpg" alt="The finished latch with its bird mark, next to a coin for scale" />
+  <figcaption>The finished latch with its bird mark, next to a coin for scale</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-21.jpg" alt="The latch installed in the frame, still before the bitumen coating" />
+  <figcaption>The latch installed in the frame, still before the bitumen coating</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-22.jpg" alt="A tin of Negro Betun Judaico bitumen from Mongay" />
+  <figcaption>A tin of Negro Betun Judaico bitumen from Mongay</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-23.jpg" alt="The finished latch after the bitumen coating — the steel has become forged cast iron" />
+  <figcaption>The finished latch after the bitumen coating — the steel has become forged cast iron</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-24.jpg" alt="A final view of the latch on the frame, next to the tin of bitumen" />
+  <figcaption>A final view of the latch on the frame, next to the tin of bitumen</figcaption>
+</figure>
+
 ### Stage 3: Conserving the Roof's Paper Shell
 
 The true revelation turned out to be the hood's roof: lying over the shrunken boards was a multi-layered, time-darkened antique parchment, held in place by a century-old forged hook grown into the wood. The wood beneath it had shrunk, forming huge gaps straight through. Removing the paper was out of the question — that would mean a complete loss of provenance. So we used a museum-grade method: internal kraft-paper lamination (implanting a sublayer).

@@ -132,6 +132,61 @@ section: stamps-time
 
 На финальной стадии узел был покрыт иудейским битумом Negro Betun Judaico от *Mongay* и аккуратно протёрт мягкой ветошью. Битум намертво засел в порах ореховой пыли и бороздках клейма — яркая сталь мгновенно превратилась в брутальный кованый чугун кузнечной работы XVIII века, идеально заходящий в деревянный паз корпуса.
 
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-14.jpg" alt="Дверца капюшона с латунной ручкой-грибком и утраченным замком — исходное состояние" />
+  <figcaption>Дверца капюшона с латунной ручкой-грибком и утраченным замком — исходное состояние</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-15.jpg" alt="Макросъёмка пустого гнезда утраченного замка" />
+  <figcaption>Макросъёмка пустого гнезда утраченного замка</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-16.jpg" alt="Кованый гранёный штырь и заготовка стального подвеса рядом с монетой для масштаба" />
+  <figcaption>Кованый гранёный штырь и заготовка стального подвеса рядом с монетой для масштаба</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-17.jpg" alt="Примерка расточенной стальной пластины на штырь прямо в раме" />
+  <figcaption>Примерка расточенной стальной пластины на штырь прямо в раме</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-18.jpg" alt="Крупный план примерки — квадратное отверстие точно совпадает с гранями штыря" />
+  <figcaption>Крупный план примерки — квадратное отверстие точно совпадает с гранями штыря</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-19.jpg" alt="Сырая муфта холодной сварки, присыпанная ореховой пылью, с оттиском клейма-птицы" />
+  <figcaption>Сырая муфта холодной сварки, присыпанная ореховой пылью, с оттиском клейма-птицы</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-20.jpg" alt="Готовая задвижка с клеймом-птицей рядом с монетой для масштаба" />
+  <figcaption>Готовая задвижка с клеймом-птицей рядом с монетой для масштаба</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-21.jpg" alt="Задвижка, установленная в раму, ещё до покрытия битумом" />
+  <figcaption>Задвижка, установленная в раму, ещё до покрытия битумом</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-22.jpg" alt="Банка иудейского битума Negro Betun Judaico от Mongay" />
+  <figcaption>Банка иудейского битума Negro Betun Judaico от Mongay</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-23.jpg" alt="Готовая задвижка после покрытия битумом — сталь превратилась в кованый чугун" />
+  <figcaption>Готовая задвижка после покрытия битумом — сталь превратилась в кованый чугун</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-24.jpg" alt="Финальный вид задвижки на раме рядом с банкой битума" />
+  <figcaption>Финальный вид задвижки на раме рядом с банкой битума</figcaption>
+</figure>
+
 ### Этап 3: Консервация бумажного панциря крыши
 
 Настоящим откровением стала крыша шлема: поверх усохших досок лежал многослойный, потемневший от времени антикварный пергамент, удерживаемый вросшим вековым кованым крюком. Дерево под ним усохло, образовав гигантские сквозные щели. Снимать бумагу было нельзя — это означало бы полную потерю провенанса. Мы применили музейный метод внутреннего крафт-дублирования (вживления подслоя).
