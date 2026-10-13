@@ -1,12 +1,12 @@
 ---
-title: "La Anatomía del Tiempo: Guía Breve para Conservar Relojes de Pie Antiguos"
+title: "Parte 1. La Anatomía del Tiempo: Guía Breve para Conservar Relojes de Pie Antiguos"
 date: 2026-09-21T20:00:00Z
 excerpt: "Una introducción teórica para coleccionistas. Un código profesional para rescatar relojes de 200–300 años: desde la limpieza en seco total y la fumigación contra la carcoma hasta la conservación de las inscripciones ocultas."
 cover: "/photos/anatomy-of-time-a-guide-to-conserving-antique-grandfather-clocks.jpg"
 section: stamps-time
 ---
 
-## La Anatomía del Tiempo: Guía Breve para Conservar Relojes de Pie Antiguos
+## Parte 1. La Anatomía del Tiempo: Guía Breve para Conservar Relojes de Pie Antiguos
 
 Si has tenido la suerte de adquirir, o rescatar de un mercadillo, un reloj de pie de péndulo de cien, doscientos o trescientos años, lo que tienes entre manos no es solo un mueble. Es un ecosistema autónomo del tiempo. Estos gigantes se construyeron con maderas centenarias de roble, nogal o caoba, y metal forjado, pensados para sobrevivir a través de los siglos. Pero largos años de abandono, humedad o un almacenamiento incorrecto dejan en ellos cicatrices profundas.
 

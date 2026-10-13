@@ -248,6 +248,20 @@ if (availableLocales.includes('en')) {
     margin-bottom: 0;
   }
 
+  .prose :global(pre) {
+    margin: 2em 0;
+    padding: 1.2em 1.4em;
+    overflow-x: auto;
+    background: var(--bg-raised);
+    border: 1px solid var(--rule);
+    font-size: 0.82rem;
+    line-height: 1.5;
+  }
+
+  .prose :global(code) {
+    font-family: ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
+  }
+
   .prose :global(table) {
     width: 100%;
     border-collapse: collapse;
