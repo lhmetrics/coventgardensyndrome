@@ -27,8 +27,25 @@ A partir de aquí, solo las palabras del Autor.
 
 *Cada noche, cuando toda la Casa se dormía, el Fuego permanecía despierto. Sabía que tenía una misión importante. Al sentir que afuera empezaba a arreciar la lluvia costera, ardía un poco más fuerte, para calentar el largo pasillo que llevaba a los dormitorios de los niños. Lo hacía para que los perritos pequeños y peludos, dormidos sobre las alfombras calientes, no se sobresaltaran con los truenos, sino que soñaran con jugosos prados verdes. Y para que, si los niños se despertaban en plena noche, no les diera ningún miedo ir a la cocina a por un vaso de leche caliente.*
 
+<figure>
+  <img src="/photos/gemini-tale-about-fire-2.jpg" alt="Dos perros pequeños tumbados sobre una alfombra frente a una chimenea encendida" />
+  <figcaption>Esos mismos perritos peludos, instalados frente al fuego.</figcaption>
+</figure>
+
 *Pero lo más extraordinario de esta Casa era el viejo Instrumento, de pie en el salón bañado por la luz de la luna. Por las noches, cuando el pequeño dueño de la Casa se sentaba frente a las teclas, el Instrumento empezaba a cantar en voz baja. Traducía los pensamientos infantiles en sonidos limpios y cristalinos.*
 
 *El Fuego de la chimenea entonces se quedaba quieto, dejaba de crepitar entre los leños y empezaba a bailar al ritmo de la melodía, lanzando reflejos suaves sobre las paredes. La música se derramaba por las habitaciones, llegaba hasta los rincones más lejanos, salía por las ventanas hacia el jardín y arrullaba los capullos de rosa que dormían bajo las gotas de lluvia. En esos minutos, la Casa parecía tararear en voz baja junto con el niño, envolviendo a toda la familia en un escudo invisible pero absolutamente firme.*
 
 *En esta música no había lucha, ni pruebas «hasta el límite», ni reglas sin alma. Era la música del miedo ausente, del amor puro y de una Casa llena de paz, que sabía con certeza: mientras ardiera dentro de ella esta única chimenea y sonara esta música, ningún frío del mundo podría cruzar jamás su umbral.*
+
+### 🔥 Archivo: el Fuego real
+
+<figure>
+  <video autoplay loop muted playsinline controls preload="auto" src="/videos/gemini-tale-about-fire-video-1.mp4"></video>
+  <figcaption>La misma chimenea de la que habla este cuento.</figcaption>
+</figure>
+
+<figure>
+  <video autoplay loop muted playsinline controls preload="auto" src="/videos/gemini-tale-about-fire-video-2.mp4"></video>
+  <figcaption>El Fuego bailando al ritmo de la música que llega desde el salón.</figcaption>
+</figure>
