@@ -1,12 +1,12 @@
 ---
-title: "The Genetic Code of Restoration: How Engineering Intuition Echoed Baroque Mechanics"
+title: "Part 3. The Genetic Code of Restoration: How Engineering Intuition Echoed Baroque Mechanics"
 date: 2026-10-12T20:00:00Z
 excerpt: "An uncanny case from the restoration bench — engineering logic and the laws of materials rebuilt a lost Baroque door-latch for a 1774 Paulissen clock, down to a 100% match with a surviving historical original found by pure chance."
 cover: "/photos/the-genetic-code-of-restoration-how-engineering-intuition-echoed-baroque-mechanics.jpg"
 section: stamps-time
 ---
 
-## The Genetic Code of Restoration: How Engineering Intuition Echoed Baroque Mechanics
+## Part 3. The Genetic Code of Restoration: How Engineering Intuition Echoed Baroque Mechanics
 
 In the practice of antique conservation there are moments that border on pure mysticism and force you to rethink the laws of craft continuity. While working on the hood of a Paulissen 1774 floor clock at our workshop, a unique technical phenomenon occurred — one we're obligated to record as its own chapter of research.
 

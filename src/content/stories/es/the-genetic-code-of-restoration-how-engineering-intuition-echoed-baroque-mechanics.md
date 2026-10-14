@@ -1,12 +1,12 @@
 ---
-title: "El Código Genético de la Restauración: Cómo la Intuición de Ingeniería Repitió la Mecánica Barroca"
+title: "Parte 3. El Código Genético de la Restauración: Cómo la Intuición de Ingeniería Repitió la Mecánica Barroca"
 date: 2026-10-12T20:00:00Z
 excerpt: "Un caso asombroso en el taller de restauración — la lógica de ingeniería y las leyes de los materiales reconstruyeron un pestillo barroco perdido de un reloj Paulissen de 1774, con una coincidencia del 100% con un original histórico hallado por pura casualidad."
 cover: "/photos/the-genetic-code-of-restoration-how-engineering-intuition-echoed-baroque-mechanics.jpg"
 section: stamps-time
 ---
 
-## El Código Genético de la Restauración: Cómo la Intuición de Ingeniería Repitió la Mecánica Barroca
+## Parte 3. El Código Genético de la Restauración: Cómo la Intuición de Ingeniería Repitió la Mecánica Barroca
 
 En la práctica de la conservación de antigüedades hay momentos que rozan el misticismo puro y nos obligan a replantearnos las leyes de la continuidad del oficio. Durante el trabajo en el capuchón de un reloj de pie Paulissen de 1774, en nuestro taller tuvo lugar un fenómeno técnico único que estamos obligados a registrar como un capítulo de investigación aparte.
 
