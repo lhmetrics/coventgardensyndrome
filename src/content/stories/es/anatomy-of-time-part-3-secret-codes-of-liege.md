@@ -40,7 +40,10 @@ Un análisis detallado, realizado junto con Gemini, reveló el sentido profesion
 
 Durante la limpieza total de las cavidades internas de la base, nuestro inspector de calidad de cuatro patas, de siempre, mantuvo una vigilancia atenta del proceso.
 
-*[Foto 2 — próximamente: el capuchón y el panel trasero de roble retirados, con un gato esfinge trepando a la base abierta del reloj para supervisar la limpieza en seco de las ranuras.]*
+<figure>
+  <img src="/photos/anatomy-of-time-part-3-secret-codes-of-liege-5.jpg" alt="El capuchón y el panel trasero de roble retirados, con una aspiradora limpiando el polvo de la base abierta del reloj" />
+  <figcaption>El capuchón y el panel trasero de roble retirados — una aspiradora retira décadas de polvo de la base abierta del reloj.</figcaption>
+</figure>
 
 ### Capítulo 2: El enigma de la etiqueta flamenca en la trampilla
 

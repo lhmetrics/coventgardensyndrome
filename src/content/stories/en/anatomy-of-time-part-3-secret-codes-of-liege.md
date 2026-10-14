@@ -40,7 +40,10 @@ A detailed analysis, done together with Gemini, revealed the professional meanin
 
 While we were thoroughly cleaning out the base's inner cavities, our ever-present four-legged quality inspector kept a vigilant eye on the process.
 
-*[Photo 2 — coming soon: the hood and back oak panel removed, with a sphynx cat climbing into the clock's open base to supervise the dry-cleaning of the slots.]*
+<figure>
+  <img src="/photos/anatomy-of-time-part-3-secret-codes-of-liege-5.jpg" alt="The hood and back oak panel removed, with a vacuum cleaner clearing dust out of the clock's open base" />
+  <figcaption>The hood and back oak panel removed — a vacuum cleaner clears out decades of dust from the clock's open base.</figcaption>
+</figure>
 
 ### Chapter 2: The mystery of the Flemish label on the shutter
 
