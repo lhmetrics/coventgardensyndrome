@@ -80,6 +80,14 @@ El tiempo no perdona ni al roble. En el tablero derecho, atravesando justo el al
   <figcaption>El mascarón central en primerísimo plano — cerca del borde del panel se aprecia otra grieta, más fina, por contracción.</figcaption>
 </figure>
 
-*[Foto 5 — próximamente: el panel ornamental de volutas inferior. Un primer plano del registro inferior de la talla. Las volutas simétricas y los rizos de hoja de acanto muestran surcos limpios, sin rastro de suciedad antigua.]*
+<figure>
+  <img src="/photos/flemish-renaissance-carved-panels-ammonia-restoration-8.jpg" alt="Los tres tableros vistos de frente, con el registro inferior de volutas visible en cada uno" />
+  <figcaption>Los tres tableros vistos de frente — se aprecia con claridad el registro ornamental inferior de volutas en cada panel.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/flemish-renaissance-carved-panels-ammonia-restoration-9.jpg" alt="Primer plano del panel ornamental de volutas inferior con volutas simétricas de acanto" />
+  <figcaption>El panel ornamental de volutas inferior en primer plano. Las volutas simétricas y los rizos de hoja de acanto muestran surcos limpios, sin rastro de suciedad antigua.</figcaption>
+</figure>
 
 La conservación de esta rotura será nuestro próximo gran proyecto. Renunciaremos por completo a las masillas rígidas, que con el tiempo acaban desprendiéndose, y aplicaremos un método de **enchapado elástico en profundidad** y estabilización de los bordes de la grieta con masillas a base de polvo del propio roble y resinas naturales, para preservar este gran monumento flamenco durante los próximos siglos.

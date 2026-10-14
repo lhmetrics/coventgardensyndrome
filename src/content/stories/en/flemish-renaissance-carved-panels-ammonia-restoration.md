@@ -80,6 +80,14 @@ Time spares not even oak. On the right panel, running right through the left win
   <figcaption>The central mascaron in extreme close-up — near the panel's edge, another, finer shrinkage crack is visible.</figcaption>
 </figure>
 
-*[Photo 5 — coming soon: the lower ornamental scroll panel. A close-up of the carving's lower register. Symmetrical volutes and acanthus scrolls show clean grooves with no trace of old grime.]*
+<figure>
+  <img src="/photos/flemish-renaissance-carved-panels-ammonia-restoration-8.jpg" alt="All three panels seen straight on, showing the lower scroll-ornament register on each one" />
+  <figcaption>All three panels seen straight on — the lower scroll ornament register on each panel is clearly visible.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/flemish-renaissance-carved-panels-ammonia-restoration-9.jpg" alt="Close-up of the lower ornamental scroll panel with symmetrical acanthus volutes" />
+  <figcaption>The lower ornamental scroll panel in close-up. Symmetrical volutes and acanthus scrolls show clean grooves with no trace of old grime.</figcaption>
+</figure>
 
 Conserving this crack will be our next large-scale project. We'll completely abandon rigid fillers, which eventually fall out over time, and instead apply a method of **elastic deep veneering** and edge stabilization using mastics made from the oak's own dust and natural resins, to preserve this great Flemish monument for centuries to come.
