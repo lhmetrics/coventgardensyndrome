@@ -123,6 +123,24 @@ Why did old-time masters paper over the roof of a clock in layers? The answer li
 1. **A dust damper:** a clock's movement — its brass "brain" — is extremely sensitive to falling micro-particles. There was always an attic or ceiling beams above the clock, shedding limewash powder, wood dust, and fireplace soot. The paper acted as a sealed umbrella-shield.
 2. **Shrinkage compensation:** the solid oak of the hood's roof underwent enormous temperature swings from the rising heat. The boards would inevitably dry out and shrink. Paper glued on in several layers stretched along with the wood, holding the structure together as one piece and keeping drafts from disturbing the pendulum's swing.
 
-*[Photo 5 — coming soon: the original roof paper under ultraviolet light — showing old organic residue, cellulose watermarks, and traces of the original bone glue.]*
+<figure>
+  <img src="/photos/anatomy-of-time-part-3-secret-codes-of-liege-17.jpg" alt="Examining the paper under UV light on the workbench, with a curious sphynx cat nearby" />
+  <figcaption>Examining the paper under UV light on the workbench — naturally, a curious sphynx cat can't resist joining in.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-3-secret-codes-of-liege-18.jpg" alt="The hood's roof entirely under ultraviolet light, showing organic residue and the boundaries of the cracks" />
+  <figcaption>The hood's roof entirely under ultraviolet light — organic residue and the boundaries of the cracks come into view.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-3-secret-codes-of-liege-19.jpg" alt="A close-up of the surface under UV light, showing the hidden structure of bone glue and fibers" />
+  <figcaption>A close-up of the same surface under UV light — the hidden structure of bone glue and fibers is visible.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-3-secret-codes-of-liege-20.jpg" alt="A corner of the roof under ultraviolet light near the carved joint, with a clear pattern of cracks" />
+  <figcaption>Another corner of the roof under ultraviolet light — the pattern of cracks stands out clearly near the carved joint.</figcaption>
+</figure>
 
 Studying this paper shell under an ultraviolet flashlight beam, we found a hidden structure of original animal (bone) glue and rag-fiber texture. That settled it for good: **the old layer must never be removed**. This very discovery became the foundation of our most delicate conservation operation yet — where, using a two-cc syringe and a curved Dexter blade, we meticulously worked a new, sturdy kraft-paper underlayer in directly beneath the original parchment, keeping the century-old forged hook exactly in its rightful historical place!

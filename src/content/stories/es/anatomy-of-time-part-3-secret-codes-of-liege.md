@@ -123,6 +123,24 @@ Antes de empezar la conservación, el elemento más complicado del techo del cap
 1. **Un amortiguador de polvo:** el mecanismo del reloj —su «cerebro» de latón— es extremadamente sensible a la caída de micropartículas. Siempre había, por encima del reloj, un desván o unas vigas de techo, de donde caían polvo de cal, serrín y hollín de chimenea. El papel actuaba como una pantalla-paraguas hermética.
 2. **Compensación de la contracción:** la madera maciza de roble del techo del capuchón sufría enormes cambios de temperatura por el calor ascendente. Las tablas inevitablemente se secaban y se contraían. El papel, pegado en varias capas, se estiraba junto con la madera, manteniendo la estructura unida y sin permitir que las corrientes de aire alteraran el movimiento del péndulo.
 
-*[Foto 5 — próximamente: el papel original del techo bajo luz ultravioleta — se aprecian manchas orgánicas antiguas, marcas de agua de la celulosa y restos de la cola de hueso original.]*
+<figure>
+  <img src="/photos/anatomy-of-time-part-3-secret-codes-of-liege-17.jpg" alt="Examinando el papel bajo luz ultravioleta en la mesa de trabajo, con un gato esfinge curioso cerca" />
+  <figcaption>Examinando el papel bajo luz ultravioleta en la mesa de trabajo — como era de esperar, un gato esfinge curioso no puede resistirse a unirse.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-3-secret-codes-of-liege-18.jpg" alt="El techo del capuchón por completo bajo luz ultravioleta, mostrando manchas orgánicas y los bordes de las grietas" />
+  <figcaption>El techo del capuchón por completo bajo luz ultravioleta — se aprecian manchas orgánicas y los bordes de las grietas.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-3-secret-codes-of-liege-19.jpg" alt="Un primer plano de la superficie bajo luz UV, con la estructura oculta de la cola de hueso y las fibras" />
+  <figcaption>Un primer plano de la misma superficie bajo luz UV — se ve la estructura oculta de la cola de hueso y las fibras.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-3-secret-codes-of-liege-20.jpg" alt="Una esquina del techo bajo luz ultravioleta junto a la unión tallada, con un patrón de grietas muy marcado" />
+  <figcaption>Otra esquina del techo bajo luz ultravioleta — el patrón de grietas se distingue con claridad junto a la unión tallada.</figcaption>
+</figure>
 
 Al estudiar esta coraza de papel bajo el haz de una linterna ultravioleta, descubrimos la estructura oculta de la cola animal (de hueso) original y la textura de las fibras de trapo. Esto nos convenció definitivamente: **la capa antigua no se puede retirar bajo ningún concepto**. Precisamente este hallazgo sentó las bases de nuestra operación de conservación más delicada, en la que, con una jeringa de dos centímetros cúbicos y una cuchilla curva Dexter, introdujimos con precisión de joyero una nueva subcapa de papel kraft resistente, justo debajo del pergamino original, conservando el gancho forjado centenario exactamente en su lugar histórico.
