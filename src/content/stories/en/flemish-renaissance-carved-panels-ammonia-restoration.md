@@ -49,7 +49,10 @@ The panels' architecture follows the classic canons of a three-part Baroque faca
 
 * **The central mascaron:** this panel is adorned with a deep relief of a man's face framed by lush acanthus leaves. The extremely fine rendering of the expression, forehead creases, and strands of hair speaks to the hand of an outstanding master carver.
 
-*[Photo 2 — coming soon: a close-up of the central mascaron. A bearded man's head in a round medallion, surrounded by symmetrical acanthus scrolls. The porous, clean texture of the old oak is visible.]*
+<figure>
+  <img src="/photos/flemish-renaissance-carved-panels-ammonia-restoration-3.jpg" alt="Close-up of the central mascaron with a bearded man's head in a medallion, surrounded by acanthus scrolls" />
+  <figcaption>A close-up of the central mascaron. A bearded man's head in a round medallion, surrounded by symmetrical acanthus scrolls. The porous, clean texture of the old oak is visible.</figcaption>
+</figure>
 
 * **Profiles of warriors and thinkers:** the side panels form a pair of cameo medallions. The left panel depicts a warrior in a Roman helmet with a visor; the right, a bearded sage in a deep, hood-like cowl. Above them, lavish cornucopias are carved, filled with pomegranates and pears — symbols of eternal life and the workshop's prosperity.
 

@@ -49,7 +49,10 @@ La arquitectura de los paneles sigue los cánones clásicos de una fachada barro
 
 * **El mascarón central:** este tablero está decorado con un altorrelieve profundo del rostro de un hombre, enmarcado por una exuberante hoja de acanto. El finísimo trabajo de la expresión, las arrugas de la frente y los mechones de pelo delata la mano de un maestro tallista excepcional.
 
-*[Foto 2 — próximamente: un primer plano del mascarón central. La cabeza barbada de un hombre en un medallón circular, rodeada de volutas simétricas de acanto. Se aprecia la textura porosa y limpia del roble antiguo.]*
+<figure>
+  <img src="/photos/flemish-renaissance-carved-panels-ammonia-restoration-3.jpg" alt="Primer plano del mascarón central con la cabeza barbada de un hombre en un medallón, rodeada de volutas de acanto" />
+  <figcaption>Un primer plano del mascarón central. La cabeza barbada de un hombre en un medallón circular, rodeada de volutas simétricas de acanto. Se aprecia la textura porosa y limpia del roble antiguo.</figcaption>
+</figure>
 
 * **Perfiles de guerreros y sabios:** los tableros laterales forman un par de medallones-camafeo. En el panel izquierdo aparece un guerrero con casco romano y visera; en el derecho, un sabio barbado con una capucha profunda, a modo de capirote hugonote. Sobre ellos se tallan generosos cuernos de la abundancia, llenos de granadas y peras —símbolos de la vida eterna y la prosperidad del taller.
 
