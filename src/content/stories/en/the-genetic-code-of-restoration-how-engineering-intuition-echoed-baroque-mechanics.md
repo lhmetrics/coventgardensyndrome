@@ -33,6 +33,46 @@ We laid the two objects side by side. The result of this blind engineering exerc
   <figcaption>On the left — our newly made latch, with the bird maker's mark at its center. On the right — the miraculously preserved historical original of the same door's latch. Two objects, designed independently of each other, 250 years apart.</figcaption>
 </figure>
 
+<figure>
+  <img src="/photos/the-genetic-code-of-restoration-how-engineering-intuition-echoed-baroque-mechanics-2.jpg" alt="A forged, faceted pin jammed in its frame, with an empty socket where the lost locking tongue used to be" />
+  <figcaption>The starting point: a forged, faceted pin jammed in its frame, with an empty socket where the locking tongue used to be.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/the-genetic-code-of-restoration-how-engineering-intuition-echoed-baroque-mechanics-3.jpg" alt="The extracted brass mushroom-handle with its forged, faceted pin, on a cloth background" />
+  <figcaption>The extracted brass mushroom-handle with its forged, faceted pin — the only surviving fragment of the original lost assembly.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/the-genetic-code-of-restoration-how-engineering-intuition-echoed-baroque-mechanics-4.jpg" alt="Modern hardware tried on for scale and geometry, next to a coin" />
+  <figcaption>Hunting for references: modern hardware tried on for scale and geometry, next to a coin.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/the-genetic-code-of-restoration-how-engineering-intuition-echoed-baroque-mechanics-5.jpg" alt="The freshly made cold-weld rivet with the bird maker's mark, not yet darkened with bitumen" />
+  <figcaption>The freshly made cold-weld rivet with the bird maker's mark imprinted, not yet darkened with bitumen — still dusted in walnut powder and shavings.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/the-genetic-code-of-restoration-how-engineering-intuition-echoed-baroque-mechanics-6.jpg" alt="The steel blank with its rounded-square bore and teardrop tab, test-fitted into the slot" />
+  <figcaption>The steel blank — rounded square bore, teardrop tab — being test-fitted into the slot before final assembly.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/the-genetic-code-of-restoration-how-engineering-intuition-echoed-baroque-mechanics-7.jpg" alt="Test-fitting an alternative brass fitting in the door's slot" />
+  <figcaption>Test-fitting an alternative brass fitting in the door's slot — one of the options considered during the design process.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/the-genetic-code-of-restoration-how-engineering-intuition-echoed-baroque-mechanics-8.jpg" alt="The historical original latch on the clock's adjacent inner panel" />
+  <figcaption>The historical original latch on the clock's adjacent inner panel, in its natural context.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/the-genetic-code-of-restoration-how-engineering-intuition-echoed-baroque-mechanics-9.jpg" alt="The finished, newly made latch, darkened with bitumen and mounted in place" />
+  <figcaption>The finished, newly made latch, darkened with bitumen and mounted in place.</figcaption>
+</figure>
+
 ### An anatomical audit of the match
 
 The parameters matched almost perfectly — at a 99.9% level:

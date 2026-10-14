@@ -33,6 +33,46 @@ Colocamos los dos objetos uno junto al otro. El resultado de aquel diseño de in
   <figcaption>A la izquierda — nuestro remache recién hecho, con la marca de autor en forma de pájaro en el centro. A la derecha — el original histórico del pestillo de esa misma puerta, conservado por un milagro. Dos objetos, diseñados de forma independiente, con 250 años de diferencia.</figcaption>
 </figure>
 
+<figure>
+  <img src="/photos/the-genetic-code-of-restoration-how-engineering-intuition-echoed-baroque-mechanics-2.jpg" alt="Un pasador forjado y facetado atascado en su marco, con un hueco vacío donde antes estaba la lengüeta de cierre" />
+  <figcaption>El punto de partida: un pasador forjado y facetado atascado en su marco, con un hueco vacío donde antes estaba la lengüeta de cierre.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/the-genetic-code-of-restoration-how-engineering-intuition-echoed-baroque-mechanics-3.jpg" alt="El tirador de latón en forma de seta, extraído, con su pasador forjado y facetado, sobre un fondo de tela" />
+  <figcaption>El tirador de latón en forma de seta, extraído, con su pasador forjado y facetado — el único fragmento superviviente del conjunto original perdido.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/the-genetic-code-of-restoration-how-engineering-intuition-echoed-baroque-mechanics-4.jpg" alt="Herrajes modernos probados para comparar escala y geometría, junto a una moneda" />
+  <figcaption>En busca de referencias: herrajes modernos probados para comparar escala y geometría, junto a una moneda.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/the-genetic-code-of-restoration-how-engineering-intuition-echoed-baroque-mechanics-5.jpg" alt="El remache de soldadura en frío recién hecho, con la marca del pájaro, todavía sin oscurecer con betún" />
+  <figcaption>El remache de soldadura en frío recién hecho, con la marca de autor del pájaro ya grabada, todavía sin oscurecer con betún — cubierto de polvo y virutas de nogal.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/the-genetic-code-of-restoration-how-engineering-intuition-echoed-baroque-mechanics-6.jpg" alt="La pieza en bruto de acero, con su cuadrado redondeado y su lengüeta en forma de gota, probándose en la ranura" />
+  <figcaption>La pieza en bruto de acero —con su cuadrado redondeado y su lengüeta en forma de gota— probándose en la ranura antes del montaje final.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/the-genetic-code-of-restoration-how-engineering-intuition-echoed-baroque-mechanics-7.jpg" alt="Probando un herraje de latón alternativo en la ranura de la puerta" />
+  <figcaption>Probando un herraje de latón alternativo en la ranura de la puerta — una de las opciones consideradas durante el proceso de diseño.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/the-genetic-code-of-restoration-how-engineering-intuition-echoed-baroque-mechanics-8.jpg" alt="El pestillo original histórico en el panel interior contiguo del reloj" />
+  <figcaption>El pestillo original histórico en el panel interior contiguo del reloj, en su contexto natural.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/the-genetic-code-of-restoration-how-engineering-intuition-echoed-baroque-mechanics-9.jpg" alt="El pestillo recién hecho, ya oscurecido con betún y montado en su lugar" />
+  <figcaption>El pestillo recién hecho, ya oscurecido con betún y montado en su lugar.</figcaption>
+</figure>
+
 ### Una auditoría anatómica de la coincidencia
 
 La coincidencia de los parámetros resultó casi absoluta, a un nivel del 99,9%:

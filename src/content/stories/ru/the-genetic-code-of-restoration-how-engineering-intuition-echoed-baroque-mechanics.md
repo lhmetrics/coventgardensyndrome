@@ -33,6 +33,46 @@ section: stamps-time
   <figcaption>Слева — наша новодельная клёпка с клеймом-птицей в центре. Справа — чудом сохранившийся исторический оригинал задвижки той же дверцы. Два объекта, спроектированных независимо друг от друга с разницей в 250 лет.</figcaption>
 </figure>
 
+<figure>
+  <img src="/photos/the-genetic-code-of-restoration-how-engineering-intuition-echoed-baroque-mechanics-2.jpg" alt="Кованый гранёный штырь заклинило в раме, на месте утраченного язычка — пустое посадочное гнездо" />
+  <figcaption>Исходная диспозиция: кованый гранёный штырь заклинило в раме, а на месте утраченного язычка осталось пустое посадочное гнездо.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/the-genetic-code-of-restoration-how-engineering-intuition-echoed-baroque-mechanics-3.jpg" alt="Извлечённая латунная ручка-гриб с кованым гранёным штырём на тканевом фоне" />
+  <figcaption>Извлечённая латунная ручка-гриб с кованым гранёным штырём — единственный сохранившийся фрагмент утраченного узла.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/the-genetic-code-of-restoration-how-engineering-intuition-echoed-baroque-mechanics-4.jpg" alt="Современная фурнитура, примеренная для масштаба и геометрии, рядом с монетой" />
+  <figcaption>Поиск референсов: современная фурнитура, примеренная для масштаба и геометрии, рядом с монетой.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/the-genetic-code-of-restoration-how-engineering-intuition-echoed-baroque-mechanics-5.jpg" alt="Свежая клёпка из холодной сварки с оттиском клейма-птицы, ещё не тонированная битумом" />
+  <figcaption>Свежая клёпка из холодной сварки с оттиском клейма-птицы, ещё не тонированная битумом — вся в ореховой пыли и стружке.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/the-genetic-code-of-restoration-how-engineering-intuition-echoed-baroque-mechanics-6.jpg" alt="Стальная заготовка со скруглённым квадратом и каплевидным лепестком на примерке в пазу" />
+  <figcaption>Стальная заготовка со скруглённым квадратом и каплевидным лепестком — примерка в пазу перед финальной сборкой.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/the-genetic-code-of-restoration-how-engineering-intuition-echoed-baroque-mechanics-7.jpg" alt="Примерка альтернативной латунной накладки в пазу дверцы" />
+  <figcaption>Примерка альтернативной латунной накладки в пазу дверцы — один из вариантов, рассмотренных в процессе проектирования.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/the-genetic-code-of-restoration-how-engineering-intuition-echoed-baroque-mechanics-8.jpg" alt="Исторический оригинал задвижки на смежной внутренней створке часов" />
+  <figcaption>Исторический оригинал задвижки на смежной внутренней створке — в своём естественном контексте.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/the-genetic-code-of-restoration-how-engineering-intuition-echoed-baroque-mechanics-9.jpg" alt="Готовая новодельная задвижка, затонированная битумом и установленная на своё место" />
+  <figcaption>Готовая новодельная задвижка, затонированная битумом и установленная на своё место.</figcaption>
+</figure>
+
 ### Анатомическая экспертиза совпадения
 
 Совпадение параметров оказалось абсолютным, на уровне 99,9%:
