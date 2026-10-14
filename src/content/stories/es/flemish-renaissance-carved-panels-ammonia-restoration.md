@@ -70,7 +70,15 @@ La arquitectura de los paneles sigue los cánones clásicos de una fachada barro
 
 El tiempo no perdona ni al roble. En el tablero derecho, atravesando justo el ala izquierda del ornamento vegetal y el medallón del sabio, ha aparecido una profunda **grieta radial pasante por contracción**. Es una lesión clásica de la madera antigua, provocada por siglos de cambios de humedad y choques de temperatura. Por fortuna, la grieta esquivó el propio rostro tallado, sin alterar la expresión del retrato.
 
-*[Foto 4 — próximamente: un detalle del tablero derecho con la grieta radial. Un primer plano del perfil del hombre encapuchado. Una grieta profunda y pasante en el roble reseco atraviesa verticalmente la parte izquierda del panel.]*
+<figure>
+  <img src="/photos/flemish-renaissance-carved-panels-ammonia-restoration-6.jpg" alt="Detalle del tablero derecho con la grieta radial que atraviesa el perfil del hombre encapuchado" />
+  <figcaption>Un detalle del tablero derecho con la grieta radial. Un primer plano del perfil del hombre encapuchado. Una grieta profunda y pasante en el roble reseco atraviesa verticalmente la parte izquierda del panel.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/flemish-renaissance-carved-panels-ammonia-restoration-7.jpg" alt="Primerísimo plano del mascarón central con una grieta fina de contracción cerca del borde del panel" />
+  <figcaption>El mascarón central en primerísimo plano — cerca del borde del panel se aprecia otra grieta, más fina, por contracción.</figcaption>
+</figure>
 
 *[Foto 5 — próximamente: el panel ornamental de volutas inferior. Un primer plano del registro inferior de la talla. Las volutas simétricas y los rizos de hoja de acanto muestran surcos limpios, sin rastro de suciedad antigua.]*
 

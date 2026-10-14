@@ -70,7 +70,15 @@ The panels' architecture follows the classic canons of a three-part Baroque faca
 
 Time spares not even oak. On the right panel, running right through the left wing of the floral ornament and the sage's medallion, a deep **through-radial shrinkage crack** has appeared. This is a classic injury of antique wood, caused by centuries of humidity swings and temperature shock. Fortunately, the crack missed the carved face itself, leaving the portrait's expression intact.
 
-*[Photo 4 — coming soon: a detail of the right panel with the radial crack. A close-up of the hooded man's profile. A deep, through crack in the dried-out oak runs vertically through the left part of the panel.]*
+<figure>
+  <img src="/photos/flemish-renaissance-carved-panels-ammonia-restoration-6.jpg" alt="Detail of the right panel with the radial crack running through the hooded man's profile" />
+  <figcaption>A detail of the right panel with the radial crack. A close-up of the hooded man's profile. A deep, through crack in the dried-out oak runs vertically through the left part of the panel.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/flemish-renaissance-carved-panels-ammonia-restoration-7.jpg" alt="Extreme close-up of the central mascaron with a fine shrinkage crack near the edge of the panel" />
+  <figcaption>The central mascaron in extreme close-up — near the panel's edge, another, finer shrinkage crack is visible.</figcaption>
+</figure>
 
 *[Photo 5 — coming soon: the lower ornamental scroll panel. A close-up of the carving's lower register. Symmetrical volutes and acanthus scrolls show clean grooves with no trace of old grime.]*
 
