@@ -68,7 +68,55 @@ Al pasar a estudiar el «casco» de madera desmontado del capuchón, nos topamos
 
 Antes de empezar la conservación, el elemento más complicado del techo del capuchón era una extraña masa laminada gris-parda, colocada sobre las tablas resecas. En las fotos de «antes» se aprecia perfectamente cómo este antiguo pergamino se había agrietado, se había abierto por las costuras y literalmente se deshacía en ceniza al simple roce de un dedo.
 
-*[Foto 4 — próximamente: el estado del techo del capuchón antes de empezar la restauración — papel gris agrietado, con roturas y huecos que atraviesan hasta el compartimento del mecanismo.]*
+<figure>
+  <img src="/photos/anatomy-of-time-part-3-secret-codes-of-liege-7.jpg" alt="El capuchón retirado por completo de la caja y colocado en el suelo, con la capa agrietada del techo visible desde arriba" />
+  <figcaption>El capuchón retirado por completo de la caja y colocado en el suelo — la capa agrietada del techo se ve con claridad desde arriba.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-3-secret-codes-of-liege-8.jpg" alt="Vista cenital del techo del capuchón, cubierto por completo de papel viejo y agrietado, con un gato esfinge cerca" />
+  <figcaption>Vista cenital del techo del capuchón: la superficie está cubierta por completo de papel viejo y agrietado. Como de costumbre, un gato esfinge se ha colado en la foto.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-3-secret-codes-of-liege-9.jpg" alt="El techo del capuchón junto a su moldura octogonal tallada" />
+  <figcaption>Otro ángulo del techo — se aprecia cómo la capa llega hasta la moldura octogonal tallada.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-3-secret-codes-of-liege-10.jpg" alt="Una sección del techo con un gancho forjado cerca del borde, rodeado de papel muy agrietado" />
+  <figcaption>La misma sección del techo — cerca del borde se ve un gancho forjado, rodeado de papel especialmente agrietado.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-3-secret-codes-of-liege-11.jpg" alt="Una esquina del techo en la unión octogonal tallada, donde la capa antigua se levanta y se enrosca" />
+  <figcaption>Una esquina del techo en la unión octogonal tallada — aquí la capa se levanta y se enrosca.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-3-secret-codes-of-liege-12.jpg" alt="Un primer plano del gancho forjado, rodeado de papel agrietado en grandes fragmentos" />
+  <figcaption>El gancho forjado en primer plano — la capa a su alrededor se ha agrietado en grandes fragmentos.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-3-secret-codes-of-liege-13.jpg" alt="Una rotura cerca del borde del techo, que deja ver la madera desnuda" />
+  <figcaption>Una rotura cerca del borde — a través de la grieta se asoma la madera desnuda.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-3-secret-codes-of-liege-14.jpg" alt="Otra rotura que atraviesa la capa antigua, que se deshace en fragmentos" />
+  <figcaption>Otra rotura que la atraviesa de lado a lado — la capa antigua prácticamente se deshace ante nuestros ojos.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-3-secret-codes-of-liege-15.jpg" alt="Un primer plano de la textura de la capa antigua, con manchas, grietas y una línea trazada apenas visible" />
+  <figcaption>Un primer plano de la textura de la capa antigua — se aprecian manchas, grietas y una línea trazada apenas visible.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-3-secret-codes-of-liege-16.jpg" alt="Otra esquina del techo con un pequeño herraje forjado incrustado en la capa agrietada" />
+  <figcaption>Otra esquina del techo — cerca del borde se ve un pequeño herraje forjado, incrustado en la capa agrietada.</figcaption>
+</figure>
 
 ¿Por qué los antiguos maestros forraban el techo del reloj con capas de papel? La respuesta está en la práctica barroca, dura y pragmática:
 

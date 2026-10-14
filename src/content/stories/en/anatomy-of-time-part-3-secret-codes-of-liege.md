@@ -68,7 +68,55 @@ Moving on to studying the dismantled wooden "helmet" of the hood, we ran into an
 
 Before conservation began, the most challenging element of the hood's roof was a strange, grey-brown layered mass laid over the dried-out boards. In the "before" photos, you can clearly see how this ancient parchment had cracked, split along its seams, and was practically crumbling to ash at the slightest touch.
 
-*[Photo 4 — coming soon: the state of the hood's roof before restoration began — cracked grey paper, torn through with gaps clear down to the movement's compartment.]*
+<figure>
+  <img src="/photos/anatomy-of-time-part-3-secret-codes-of-liege-7.jpg" alt="The hood fully removed from the case and set on the floor, with the cracked roof layer visible from above" />
+  <figcaption>The hood fully removed from the case and set on the floor — the roof's cracked layer is clearly visible from above.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-3-secret-codes-of-liege-8.jpg" alt="A top-down view of the hood's roof, entirely covered in old, cracked paper, with a sphynx cat nearby" />
+  <figcaption>A top-down view of the hood's roof: the surface is entirely covered in old, cracked paper. As usual, a sphynx cat has wandered into the shot.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-3-secret-codes-of-liege-9.jpg" alt="The hood's roof near its carved octagonal trim" />
+  <figcaption>Another angle on the roof — you can see how the layer meets the carved octagonal trim.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-3-secret-codes-of-liege-10.jpg" alt="A section of the roof with a forged hook near the edge, surrounded by heavily cracked paper" />
+  <figcaption>The same section of the roof — a forged hook is visible near the edge, where the paper has cracked especially badly.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-3-secret-codes-of-liege-11.jpg" alt="A corner of the roof at the carved octagonal joint, where the old layer is lifting and curling" />
+  <figcaption>A corner of the roof at the carved octagonal joint — the layer is lifting and curling here.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-3-secret-codes-of-liege-12.jpg" alt="A close-up of the forged hook, surrounded by paper that has cracked into large fragments" />
+  <figcaption>The forged hook in close-up — the layer around it has cracked into large fragments.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-3-secret-codes-of-liege-13.jpg" alt="A tear near the edge of the roof, exposing bare wood beneath" />
+  <figcaption>A tear near the edge — bare wood shows through the crack.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-3-secret-codes-of-liege-14.jpg" alt="Another tear straight through the old layer, which is crumbling into fragments" />
+  <figcaption>Another tear straight through — the old layer is practically crumbling before your eyes.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-3-secret-codes-of-liege-15.jpg" alt="A close-up of the old layer's texture, showing stains, cracks, and a faint ruled line" />
+  <figcaption>A close-up of the old layer's texture — stains, cracks, and a faint ruled line are visible.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-3-secret-codes-of-liege-16.jpg" alt="Another corner of the roof with a small forged fitting embedded in the cracked layer" />
+  <figcaption>Another corner of the roof — a small forged fitting is visible near the edge, embedded in the cracked layer.</figcaption>
+</figure>
 
 Why did old-time masters paper over the roof of a clock in layers? The answer lies in harsh Baroque-era practicality:
 
