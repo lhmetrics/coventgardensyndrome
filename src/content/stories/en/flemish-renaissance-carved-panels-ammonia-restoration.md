@@ -56,7 +56,15 @@ The panels' architecture follows the classic canons of a three-part Baroque faca
 
 * **Profiles of warriors and thinkers:** the side panels form a pair of cameo medallions. The left panel depicts a warrior in a Roman helmet with a visor; the right, a bearded sage in a deep, hood-like cowl. Above them, lavish cornucopias are carved, filled with pomegranates and pears — symbols of eternal life and the workshop's prosperity.
 
-*[Photo 3 — coming soon: the warrior's profile in a helmet (left panel). A man's side profile in an antique helmet, set within an oval relief medallion. Above it, a fruit garland tied with a bow is visible.]*
+<figure>
+  <img src="/photos/flemish-renaissance-carved-panels-ammonia-restoration-4.jpg" alt="The warrior's profile in a helmet on the left panel, set within an oval medallion with a fruit garland above it" />
+  <figcaption>The warrior's profile in a helmet (left panel). A man's side profile in an antique helmet, set within an oval relief medallion. Above it, a fruit garland tied with a bow is visible.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/flemish-renaissance-carved-panels-ammonia-restoration-5.jpg" alt="An extreme close-up of the helmeted warrior's face, showing the fine detail of his beard and features" />
+  <figcaption>The same warrior in extreme close-up — the jeweler-fine detail of the beard, facial folds, and metal helmet is visible.</figcaption>
+</figure>
 
 ### Chapter 4. An engineering challenge: a radial crack through time
 

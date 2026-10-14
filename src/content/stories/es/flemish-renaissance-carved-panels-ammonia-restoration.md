@@ -56,7 +56,15 @@ La arquitectura de los paneles sigue los cánones clásicos de una fachada barro
 
 * **Perfiles de guerreros y sabios:** los tableros laterales forman un par de medallones-camafeo. En el panel izquierdo aparece un guerrero con casco romano y visera; en el derecho, un sabio barbado con una capucha profunda, a modo de capirote hugonote. Sobre ellos se tallan generosos cuernos de la abundancia, llenos de granadas y peras —símbolos de la vida eterna y la prosperidad del taller.
 
-*[Foto 3 — próximamente: el perfil del guerrero con casco (tablero izquierdo). El perfil lateral de un hombre con un casco antiguo, inscrito en un medallón ovalado en relieve. Arriba se ve una guirnalda de frutas atada con un lazo.]*
+<figure>
+  <img src="/photos/flemish-renaissance-carved-panels-ammonia-restoration-4.jpg" alt="Perfil del guerrero con casco en el tablero izquierdo, inscrito en un medallón ovalado con una guirnalda de frutas encima" />
+  <figcaption>El perfil del guerrero con casco (tablero izquierdo). El perfil lateral de un hombre con un casco antiguo, inscrito en un medallón ovalado en relieve. Arriba se ve una guirnalda de frutas atada con un lazo.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/flemish-renaissance-carved-panels-ammonia-restoration-5.jpg" alt="Primerísimo plano del rostro del guerrero con casco, mostrando el detalle fino de la barba y los rasgos" />
+  <figcaption>El mismo guerrero en primerísimo plano — se aprecia el detalle de orfebre de la barba, los pliegues del rostro y el casco metálico.</figcaption>
+</figure>
 
 ### Capítulo 4. Un reto de ingeniería: una grieta radial a través del tiempo
 
