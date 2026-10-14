@@ -49,7 +49,10 @@ Durante la limpieza total de las cavidades internas de la base, nuestro inspecto
 
 El siguiente gran hallazgo fue una etiqueta impresa, parcialmente conservada, con un marco decorativo azul y negro, encontrada en la cara interior de la trampilla lateral desmontable del capuchón.
 
-*[Foto 3 — próximamente: una etiqueta azul antigua sobre la trampilla desmontada del capuchón, con la palabra manuscrita «Horloge...».]*
+<figure>
+  <img src="/photos/anatomy-of-time-part-3-secret-codes-of-liege-6.jpg" alt="Una etiqueta azul antigua sobre la tabla de la trampilla, escrita a mano con Horloge petit côté" />
+  <figcaption>La etiqueta azul antigua sobre la trampilla desmontada del capuchón — la inscripción manuscrita se lee «Horloge petit côté».</figcaption>
+</figure>
 
 Con un fuerte aumento macro, la inscripción en tinta ferrogálica se lee como **«Horloge... Liège... coté»** («Reloj... Lieja... lado»). El análisis de la tipografía del marco y de la textura del papel verjurado reveló que se trata de una etiqueta original de aduana o de transporte de finales del siglo XVIII, o quizá un albarán de un taller de logística.
 

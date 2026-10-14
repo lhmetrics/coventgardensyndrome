@@ -49,7 +49,10 @@ While we were thoroughly cleaning out the base's inner cavities, our ever-presen
 
 The next major artifact was a partially surviving printed label with an ornate blue-and-black border, found on the inside of the hood's removable side shutter.
 
-*[Photo 3 — coming soon: an antique blue label on the removed hood shutter, with the handwritten word "Horloge..." on it.]*
+<figure>
+  <img src="/photos/anatomy-of-time-part-3-secret-codes-of-liege-6.jpg" alt="An antique blue label on the shutter board, handwritten with Horloge petit côté" />
+  <figcaption>The antique blue label on the removed hood shutter — the handwritten inscription reads "Horloge petit côté."</figcaption>
+</figure>
 
 Under strong macro magnification, the iron-gall ink inscription reads **"Horloge... Liège... coté"** ("Clock... Liège... side"). Analysis of the border's typeface and the laid-paper texture showed this to be an original customs or shipping tag from the late 18th century, or possibly an invoice from a logistics workshop.
 
