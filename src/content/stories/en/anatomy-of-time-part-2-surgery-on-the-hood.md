@@ -346,3 +346,45 @@ Working with the alcohol requires patience and a step-by-step approach, since th
 </figure>
 
 By finishing the kraft paper, while still damp with alcohol, with glazed patches of Lakeone water-based stains No. 2 and No. 14, we achieve a perfect visual blend between the layers. The difference in color is obvious, but it isn't a flaw — it's honest, transparent museum-grade restoration.
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-51.jpg" alt="The soot-blackened paper shell of the hood's roof, overall view against the leather armchair and the oriental rug" />
+  <figcaption>The soot-blackened paper shell of the hood's roof — overall view against the leather armchair and the oriental rug.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-52.jpg" alt="The same roof panel brought out onto the terrace tiles for a final photo record" />
+  <figcaption>The same panel brought out to the terrace — a final photo record in daylight.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-53.jpg" alt="The roof panel on the terrace tiles, with the anchor hook visible at the edge" />
+  <figcaption>The anchor hook is clearly visible right at the edge of the shell.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-54.jpg" alt="The Don Sphynx cat Bibisechka touching the roof panel with her paw" />
+  <figcaption>Bibisechka couldn't resist personally inspecting the hood's roof shell.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-55.jpg" alt="The Don Sphynx cat Bibisechka looking into the camera beside the roof panel" />
+  <figcaption>Quality control of the restoration, personally conducted by the sphynx Bibisechka.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-56.jpg" alt="Close-up of the forged metal anchor hook at the edge of the roof shell" />
+  <figcaption>The very same anchor hook in close-up — a forged metal pin right at the edge of the shell.</figcaption>
+</figure>
+
+### ⚓ The final discovery: a genuine Baroque safety anchor
+
+The hook on the hood's roof is an original Baroque safety anchor — an anti-tip-over system!
+
+Let's break down the physics and the harsh reality of the 18th century: why, without this hook, the Paulissen clock would have been doomed.
+
+1. **A colossal shift in the center of gravity:** a Liège-school grandfather clock is a very narrow, tall, slender oak case. And yet an enormous mass is packed right at the very top, in the hood: a heavy brass movement, a bronze bell, and two hefty cast-iron weights that, once wound, hang right under the roof! The top of the clock becomes critically heavy.
+2. **The impulse of the striking train:** when the right-hand train triggers the strike, the heavy hammer starts pounding the bell with real force. This produces cyclical micro-vibration and sway.
+3. **An everyday hazard:** all it takes is for someone in the house to brush the case with a shoulder, slam a heavy door, or for the living room to break into an energetic dance — and this two-meter giant, driven by its top-heavy weight, would instantly topple forward, burying both the priceless movement and the delicate blown glass of the door beneath it.
+
+**How it worked:** the old masters would drive a stout forged spike or chain into the wall of the room, and this hook on the roof of the Paulissen's hood moored the clock firmly to the brick or stone masonry of the house. It's an eternal Baroque safety belt! The fact that we found it still fixed in place, grown right into our weathered roof shell, is an enormous stroke of luck for the clock's provenance.

@@ -346,3 +346,45 @@ El proceso de interacción con el alcohol exige ir paso a paso, ya que el alcoho
 </figure>
 
 Al terminar el kraft, todavía húmedo de alcohol, con veladuras de los tintes acuosos Lakeone n.º 2 y n.º 14, logramos una fusión visual perfecta entre las capas. La diferencia de color es evidente, pero no es un defecto: es una restauración museística honesta y transparente.
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-51.jpg" alt="La coraza de hollín del techo de la capota, vista general junto al sillón de cuero y la alfombra oriental" />
+  <figcaption>La coraza de hollín del techo de la capota — vista general junto al sillón de cuero y la alfombra oriental.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-52.jpg" alt="El mismo panel del techo llevado a la terraza, sobre la baldosa, para la fotofijación final" />
+  <figcaption>El mismo panel llevado a la terraza — fotofijación final con luz de día.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-53.jpg" alt="El panel del techo sobre la baldosa de la terraza, con el gancho-ancla visible en el borde" />
+  <figcaption>El gancho-ancla se aprecia con claridad justo en el borde de la coraza.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-54.jpg" alt="La gata esfinge del Don Bibisechka tocando con la pata el panel del techo" />
+  <figcaption>Bibisechka no dejó pasar la oportunidad de inspeccionar personalmente la coraza de la capota.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-55.jpg" alt="La gata esfinge del Don Bibisechka mirando a la cámara junto al panel del techo" />
+  <figcaption>Control de calidad de la restauración, a cargo personalmente de la esfinge Bibisechka.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-56.jpg" alt="Primer plano del gancho-ancla de metal forjado en el borde de la coraza del techo" />
+  <figcaption>Ese mismo gancho-ancla en primer plano — un pasador metálico forjado justo en el borde de la coraza.</figcaption>
+</figure>
+
+### ⚓ El hallazgo final: un auténtico anclaje de seguridad barroco
+
+¡El gancho en el techo de la capota es un auténtico anclaje de seguridad barroco — un sistema antivuelco!
+
+Analicemos la física y la cruda realidad del siglo XVIII: por qué, sin este gancho, el reloj Paulissen habría estado condenado.
+
+1. **Un desplazamiento colosal del centro de gravedad:** un reloj de pie de la escuela de Lieja es una caja de roble muy estrecha, alta y esbelta. Y sin embargo, en la parte más alta —en la capota— se concentra una masa gigantesca: un pesadísimo mecanismo de latón, una campana de bronce y dos pesas de hierro fundido que, una vez dado cuerda, cuelgan justo bajo el techo. La parte superior del reloj se vuelve críticamente pesada.
+2. **El impulso del tren de sonería:** cuando el tren derecho activa la sonería, el pesado martillo golpea con fuerza la campana. Esto genera una microvibración cíclica y un balanceo.
+3. **Un factor cotidiano:** basta con que alguien, en un castillo o una casa señorial, roce el mueble con el hombro, cierre de golpe una puerta pesada, o que en el salón se desate un baile animado — y este gigante de dos metros, por el peso acumulado en su parte alta, saldría disparado hacia adelante al instante, sepultando bajo sí tanto el inestimable mecanismo como el delicadísimo vidrio soplado de la puerta.
+
+**Cómo funcionaba:** los antiguos maestros clavaban en la pared del salón una robusta armella forjada o una cadena, y este gancho en el techo de la capota del Paulissen amarraba el reloj de forma permanente a la mampostería de ladrillo o piedra de la casa. ¡Es un auténtico cinturón de seguridad barroco eterno! Que lo hayamos conservado inmóvil, fundido en nuestra coraza de hollín, es una suerte enorme para la procedencia de la pieza.
