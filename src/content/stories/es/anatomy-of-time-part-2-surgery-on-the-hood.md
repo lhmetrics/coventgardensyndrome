@@ -388,3 +388,8 @@ Analicemos la física y la cruda realidad del siglo XVIII: por qué, sin este ga
 3. **Un factor cotidiano:** basta con que alguien, en un castillo o una casa señorial, roce el mueble con el hombro, cierre de golpe una puerta pesada, o que en el salón se desate un baile animado — y este gigante de dos metros, por el peso acumulado en su parte alta, saldría disparado hacia adelante al instante, sepultando bajo sí tanto el inestimable mecanismo como el delicadísimo vidrio soplado de la puerta.
 
 **Cómo funcionaba:** los antiguos maestros clavaban en la pared del salón una robusta armella forjada o una cadena, y este gancho en el techo de la capota del Paulissen amarraba el reloj de forma permanente a la mampostería de ladrillo o piedra de la casa. ¡Es un auténtico cinturón de seguridad barroco eterno! Que lo hayamos conservado inmóvil, fundido en nuestra coraza de hollín, es una suerte enorme para la procedencia de la pieza.
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-57.jpg" alt="Collage de antes y después de la conservación de la coraza de hollín del techo de la capota" />
+  <figcaption>Antes / después: la coraza del techo de la capota, antes y después de la conservación.</figcaption>
+</figure>

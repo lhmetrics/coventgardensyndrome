@@ -388,3 +388,8 @@ Let's break down the physics and the harsh reality of the 18th century: why, wit
 3. **An everyday hazard:** all it takes is for someone in the house to brush the case with a shoulder, slam a heavy door, or for the living room to break into an energetic dance — and this two-meter giant, driven by its top-heavy weight, would instantly topple forward, burying both the priceless movement and the delicate blown glass of the door beneath it.
 
 **How it worked:** the old masters would drive a stout forged spike or chain into the wall of the room, and this hook on the roof of the Paulissen's hood moored the clock firmly to the brick or stone masonry of the house. It's an eternal Baroque safety belt! The fact that we found it still fixed in place, grown right into our weathered roof shell, is an enormous stroke of luck for the clock's provenance.
+
+<figure>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-57.jpg" alt="Before-and-after collage of the hood roof's soot-blackened paper shell conservation" />
+  <figcaption>Before / after: the hood's roof shell, before and after conservation.</figcaption>
+</figure>
