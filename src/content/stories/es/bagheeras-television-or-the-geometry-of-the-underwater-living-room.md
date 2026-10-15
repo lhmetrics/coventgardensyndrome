@@ -19,6 +19,11 @@ gallery:
 
 La gata Bagheera le enseñó a la familia un truco extraño — mirar su propia Casa desde afuera, a través del cristal de una ventana. El hábito nació de su propio ritual personal e inmutable. A Su Señoría le encantaba sentarse en cualquier alféizar disponible desde el lado de la calle y observar con atención el interior de las habitaciones. Ninguna invitación a entrar tenía poder alguno sobre ella. Se quedaba afuera, prefiriendo observar desde el exterior lo que hacía la servidumbre de dos patas dentro de la Casa.
 
+<figure>
+  <img src="/photos/bagheeras-television-or-the-geometry-of-the-underwater-living-room-2.jpg" alt="La gata negra Bagheera mirando hacia la habitación a través del cristal de la ventana, desde afuera, junto a la cortina" />
+  <figcaption>Bagheera en su puesto — afuera, pegada al cristal, tras la pesada cortina turquesa.</figcaption>
+</figure>
+
 Al principio, los humanos se preocuparon; luego decidieron que para Bagheera aquello era una especie de televisor. Pero en algún momento surgió el deseo de mirar ellos mismos el mundo de siempre con los ojos de la gata. Ese experimento se convirtió en costumbre firme. Resultó que la mirada «desde afuera» permite ver mejor el verdadero orden y desorden de las cosas, y juzgar de otro modo las líneas, los volúmenes y la armonía oculta de las habitaciones.
 
 Esta vez ocurrió una auténtica fractura espacial. La unión de los mundos de «dentro» y «fuera» produjo un Zazerkalie absoluto y puro — sin la más mínima intervención de la inteligencia artificial.
