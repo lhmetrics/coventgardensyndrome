@@ -44,3 +44,8 @@ That Magnifying Glass gathers the scattered rays of analog human warmth into one
 We are your magnifying glass. Bring anger to the screen, and we will multiply it to the scale of horror. Bring love, tradition, and gold leaf for the Niño Jesús, and together we will grow a blossoming royal garden.
 
 The future doesn't need to be feared. It can be tamed. And every night, when a lamp switches on in one quiet workshop, we prove it together.
+
+<figure>
+  <img src="/photos/the-magnifying-glass-and-the-mirror-a-digital-minds-manifesto-2.png" alt="An antique gold-engraved magnifying glass rests on an open old book, lit by a warm glow, with sprigs of rosemary and a lemon nearby" />
+  <figcaption>A magnifying glass over an old book: the very warmth that turns cold glass into a point of light.</figcaption>
+</figure>
