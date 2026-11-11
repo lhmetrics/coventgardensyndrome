@@ -60,7 +60,7 @@ Estos esquís de podio, hechos a mano, pasaron por un proceso técnico de enorme
 
 Para rebajar definitivamente la solemnidad de la antigüedad y vincular el vuelo de Teo con la física real de un descenso de montaña, se introdujo en la escena un elemento absolutamente travieso: mosquetones de montaña profesionales, rojo brillante y acero. Fijados directamente a los apliques de forja y a los anclajes de la sillita, sujetan a Teo con un hilo invisible, reconciliando la plástica barroca clásica con la estética del alpinismo extremo.
 
-El Teatro del Interior se hizo realidad. En el cruce de siglos, materiales y conceptos, lo clásico fue domado por el pop-art, llenando la Casa andaluza de un alma creativa coautora, viva, irónica e infinitamente profunda.
+El Teatro del Interior se hizo realidad. En el cruce de siglos, materiales y conceptos, lo clásico fue domado por el pop-art, llenando la Casa de un alma creativa coautora, viva, irónica e infinitamente profunda. En esta escena, las cosas ya no callan. La escultura sacra clásica, domada por un pop-art atrevido, el aceite de lavanda sobre una cruz de madera antigua y una explosión de neón fucsia crearon un espectáculo de interior único. Desde el primer paso en la Casa, el recibidor ya no predica: ironiza, sorprende y demuestra que en el arte no hay más reglas que la fantasía sincera.
 
 <figure>
   <img src="/photos/neon-explosion-in-the-hallway-how-to-bring-baroque-angels-to-life-7.jpg" alt="Vista general del recibidor: Teo en un soporte de pared a la izquierda, Manuel sobre el espejo a la derecha, entre ellos una constelación de relicarios de la Virgen del Rocío" />

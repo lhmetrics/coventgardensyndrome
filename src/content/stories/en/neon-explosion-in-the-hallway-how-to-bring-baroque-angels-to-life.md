@@ -60,7 +60,7 @@ The hand-made podium skis went through a formidably complex technical process: a
 
 To finally deflate any antiquarian solemnity and tie Theo’s floating pose to the real physics of a mountain descent, an utterly mischievous element was introduced into the scene — professional bright-red and steel mountaineering carabiners. Fastened directly to the wrought-iron sconces and the hanging chair’s mounts, they hold Theo on an invisible wire, reconciling classical Baroque sculpture with the aesthetics of extreme alpinism.
 
-The Theater of the Interior had arrived. At the crossing point of centuries, materials, and concepts, the classical was tamed by pop art, filling the Andalusian Home with a living, ironic, and endlessly deep co-authored soul.
+The Theater of the Interior had arrived. At the crossing point of centuries, materials, and concepts, the classical was tamed by pop art, filling the Home with a living, ironic, and endlessly deep co-authored soul. In this scene, things no longer stay silent. Classical temple sculpture, tamed by bold pop art, lavender oil on an antique wooden cross, and a neon explosion of fuchsia created a singular interior spectacle. From the very first step into the Home, the hallway doesn’t preach — it teases, surprises, and proves that in art there are no rules besides sincere imagination.
 
 <figure>
   <img src="/photos/neon-explosion-in-the-hallway-how-to-bring-baroque-angels-to-life-7.jpg" alt="A wide view of the hallway: Theo on a wall bracket to the left, Manuel on the mirror to the right, a constellation of Virgen del Rocío reliquaries between them" />
