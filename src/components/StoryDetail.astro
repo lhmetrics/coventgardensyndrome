@@ -244,6 +244,16 @@ if (availableLocales.includes('en')) {
     color: var(--ink-dim);
   }
 
+  .prose :global(p.lede) {
+    margin: 0 0 1.8em;
+    padding: 0.2em 1.2em;
+    border-left: 3px solid var(--accent);
+    font-size: 1.2rem;
+    font-weight: 700;
+    font-style: italic;
+    color: var(--ink);
+  }
+
   .prose :global(blockquote p:last-child) {
     margin-bottom: 0;
   }
