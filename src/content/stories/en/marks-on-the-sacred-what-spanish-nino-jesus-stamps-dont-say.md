@@ -3,6 +3,7 @@ title: "Marks on the Sacred: What the Stamps on Spanish Niño Jesús Figures Don
 date: 2026-11-11T19:00:00Z
 excerpt: "A stamp on the bottom of an antique niño Jesús as a passport to another era: the story of two rival Spanish schools of sacred sculpture — Catalan Olot with its featherlight pasta de madera, and Murcia’s terracotta tradition after Salzillo — and how these old household saints are reinvented today as bold pop-art décor for the Theater of the Interior."
 cover: "/photos/marks-on-the-sacred-what-spanish-nino-jesus-stamps-dont-say.jpg"
+coverPosition: "center 18%"
 section: stamps-time
 ---
 

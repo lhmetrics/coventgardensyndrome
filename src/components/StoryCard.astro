@@ -11,10 +11,11 @@ interface Props {
   date: Date;
   excerpt?: string;
   cover?: string;
+  coverPosition?: string;
   section?: SectionId;
 }
 
-const { lang, slug, title, date, excerpt, cover, section } = Astro.props;
+const { lang, slug, title, date, excerpt, cover, coverPosition, section } = Astro.props;
 
 const formattedDate = date.toLocaleDateString(localeTags[lang], {
   day: 'numeric',
@@ -27,7 +28,16 @@ const href = getStoryPath(lang, slug);
 <div class="card">
   <a class="cover-link" href={href} tabindex="-1">
     <div class="cover" class:list={{ placeholder: !cover }}>
-      {cover && <img src={cover} alt="" loading="lazy" />}
+      {
+        cover && (
+          <img
+            src={cover}
+            alt=""
+            loading="lazy"
+            style={coverPosition ? `object-position: ${coverPosition}` : undefined}
+          />
+        )
+      }
     </div>
   </a>
   <div class="body">

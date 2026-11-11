@@ -3,6 +3,7 @@ title: "Знаки на сакральном: О чём молчат клейм�
 date: 2026-11-11T19:00:00Z
 excerpt: "Клеймо на попке antique niño Jesús как паспорт эпохи: история двух испанских школ сакральной пластики — каталонского Олота с его лёгкой pasta de madera и мурсийской терракотовой традиции Сальсильо — и то, как эти старинные святыни сегодня становятся дерзким поп-арт декором Театра Интерьера."
 cover: "/photos/marks-on-the-sacred-what-spanish-nino-jesus-stamps-dont-say.jpg"
+coverPosition: "center 18%"
 section: stamps-time
 ---
 

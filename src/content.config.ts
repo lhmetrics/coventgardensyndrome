@@ -23,6 +23,12 @@ const stories = defineCollection({
     // Path to a cover photo under /public, e.g. "/photos/example.jpg".
     // Leave unset to fall back to a plain placeholder tile.
     cover: z.string().optional(),
+    // CSS object-position for the cover photo when it's cropped to the
+    // homepage/section card's fixed 4:3 thumbnail (src/components/
+    // StoryCard.astro) — e.g. "center 15%" to keep a subject's head from
+    // being cut off by the default center crop. Has no effect on the full,
+    // uncropped cover shown at the top of the story page itself.
+    coverPosition: z.string().optional(),
     // Which of the site's recurring sections (src/i18n/sections.ts) this
     // story belongs to. Optional and gradual by design — sections fill in
     // over time, and older/miscellaneous stories may stay unsectioned.

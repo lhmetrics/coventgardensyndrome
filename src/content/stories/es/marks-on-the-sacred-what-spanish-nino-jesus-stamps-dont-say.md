@@ -3,6 +3,7 @@ title: "Marcas en lo sagrado: Lo que callan los sellos de los Niños Jesús espa
 date: 2026-11-11T19:00:00Z
 excerpt: "Un sello en el trasero de un antiguo niño Jesús como pasaporte de una época: la historia de dos escuelas españolas rivales de escultura sagrada — el Olot catalán con su ligerísima pasta de madera, y la tradición terracota murciana heredada de Salzillo — y cómo estos viejos santos domésticos se reinventan hoy como un decoro pop-art atrevido para el Teatro del Interior."
 cover: "/photos/marks-on-the-sacred-what-spanish-nino-jesus-stamps-dont-say.jpg"
+coverPosition: "center 18%"
 section: stamps-time
 ---
 
