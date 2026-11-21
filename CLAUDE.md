@@ -24,25 +24,18 @@ npm run preview   # preview the production build locally
 
 No test suite, linter, or formatter is configured.
 
-**Node version:** the project is on Astro `^7.3.2` (upgraded from 5.18.2 to
-clear a critical RCE + several XSS advisories — see "Dependencies /
-security" below), which requires Node ≥22.12. The locally *linked* `node`
-is still 20.20.1 (too old), but a Node 22 install exists via Homebrew at
-`/usr/local/opt/node@22` — prepend it to `PATH` for any local
-install/dev/build command instead of relinking the system default:
-
-```sh
-export PATH="/usr/local/opt/node@22/bin:$PATH"
-```
+**Node version:** the project is on Astro `^7.3.x`, which requires
+Node ≥22.12. Since the Nov 2026 OS reinstall there is no Homebrew; Node
+24 LTS (same major as CI) is installed from the official nodejs.org
+tarball, without sudo, at `~/.local/lib/nodejs/current` (a symlink to the
+versioned folder), with `node`/`npm`/`npx` symlinked into `~/.local/bin`,
+which `~/.zshrc` already puts on `PATH`. Plain `npm ci` / `npm run build`
+work with no extra setup. To upgrade Node: unpack a newer
+`node-vXX-darwin-x64.tar.xz` (Intel Mac) into `~/.local/lib/nodejs/` and
+repoint the `current` symlink.
 
 CI is unaffected either way — `withastro/action` (used in the deploy
 workflow) defaults to Node 24 regardless of what's configured here.
-
-**npm cache permissions:** the global npm cache (`~/.npm`) has root-owned
-files from a past `sudo npm` invocation, so a plain `npm install` fails
-with `EACCES`. Pass a writable cache dir instead of fixing it globally,
-e.g. `npm install --cache /tmp/some-writable-dir`, unless the user asks
-to fix it permanently (`sudo chown -R $(whoami) ~/.npm`).
 
 ## Dependencies / security
 
