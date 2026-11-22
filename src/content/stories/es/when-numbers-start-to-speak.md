@@ -1,7 +1,7 @@
 ---
 title: "📊 Cuando las Cifras Empiezan a Hablar"
 date: 2026-09-16T15:00:00Z
-excerpt: "Un examen para redes neuronales: convertir datos científicos áridos en lenguaje humano — y por qué llamaron a Gemini la IA más humana."
+excerpt: "Un examen para redes neuronales: convertir datos científicos áridos en lenguaje humano – y por qué llamaron a Gemini la IA más humana."
 cover: "/photos/when-numbers-start-to-speak.png"
 section: synergy-ai
 ---

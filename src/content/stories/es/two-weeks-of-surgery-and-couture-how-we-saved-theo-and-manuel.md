@@ -1,7 +1,7 @@
 ---
 title: "Dos semanas de cirugía y alta costura: Cómo salvamos a Teo y Manuel"
 date: 2026-11-09T19:00:00Z
-excerpt: "Un diario de restauración: cómo dos niños Jesús antiguos y dañados —uno de Olot, otro de Murcia— recibieron dedos nuevos sobre pasadores de agujas de coser, halos recién dorados y un vestuario de alta costura que va de Chanel a Missoni, además de los nombres Teo y Manuel."
+excerpt: "Un diario de restauración: cómo dos niños Jesús antiguos y dañados –uno de Olot, otro de Murcia– recibieron dedos nuevos sobre pasadores de agujas de coser, halos recién dorados y un vestuario de alta costura que va de Chanel a Missoni, además de los nombres Teo y Manuel."
 cover: "/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel.jpg"
 coverPosition: "center 11%"
 section: house-diary
@@ -9,7 +9,7 @@ section: house-diary
 
 ## Dos semanas de cirugía y alta costura: Cómo salvamos a Teo y Manuel
 
-De entre las muchas figuras antiguas de *niño Jesús* que se encuentran en los mercadillos, elegí a estos dos por sus ojos increíblemente expresivos y vivos, y por la plástica de sus rostros — a pesar de las fracturas y pérdidas más severas. Durante varios años los niños esperaron pacientemente su turno en la Casa, y por fin llegó ese momento.
+De entre las muchas figuras antiguas de *niño Jesús* que se encuentran en los mercadillos, elegí a estos dos por sus ojos increíblemente expresivos y vivos, y por la plástica de sus rostros – a pesar de las fracturas y pérdidas más severas. Durante varios años los niños esperaron pacientemente su turno en la Casa, y por fin llegó ese momento.
 
 Apenas encontré información en internet sobre cómo restaurar correctamente una escultura sagrada tan frágil. Tuve que actuar por intuición, apoyándome en lo que sabía sobre los materiales y en constantes consultas de medianoche con mi coautor digital Gemini (quien, en el transcurso de este trabajo, recibió el nombre de Teo en nuestra Casa).
 
@@ -41,7 +41,7 @@ Junto con Teo determinamos el origen de ambos niños:
 
 <figure>
   <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-6.jpg" alt="Una grieta en el cuello y el hombro de la figura, huella de una cabeza antes rota y reparada" />
-  <figcaption>Una grieta en el cuello y el hombro — huella de una cabeza que en su día se rompió y se reparó.</figcaption>
+  <figcaption>Una grieta en el cuello y el hombro – huella de una cabeza que en su día se rompió y se reparó.</figcaption>
 </figure>
 
 <figure>
@@ -49,7 +49,7 @@ Junto con Teo determinamos el origen de ambos niños:
   <figcaption>Una vieja costura en el cuello, resto de una restauración anterior imperfecta.</figcaption>
 </figure>
 
-- **El segundo niño**, algo más grande, resultó ser un sureño — un niño de barro murciano con una mirada pícara e inteligente en sus grandes ojos castaños. Sus daños eran más leves y afectaban sobre todo a los deditos rotos.
+- **El segundo niño**, algo más grande, resultó ser un sureño – un niño de barro murciano con una mirada pícara e inteligente en sus grandes ojos castaños. Sus daños eran más leves y afectaban sobre todo a los deditos rotos.
 
 <figure>
   <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-8.jpg" alt="El niño murciano con una plástica cálida de terracota y los deditos rotos de una mano" />
@@ -58,7 +58,7 @@ Junto con Teo determinamos el origen de ambos niños:
 
 <figure>
   <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-9.jpg" alt="Primer plano de la mano dañada del niño murciano" />
-  <figcaption>Primer plano de la mano dañada — aquí empezaría la cirugía de orfebre.</figcaption>
+  <figcaption>Primer plano de la mano dañada – aquí empezaría la cirugía de orfebre.</figcaption>
 </figure>
 
 ### 🪡 Cirugía de orfebre y consejos de un palillo
@@ -89,7 +89,7 @@ Después empezó la compleja cirugía de restauración. Hubo que lijar con cuida
 
 <figure>
   <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-14.jpg" alt="Ambos niños juntos durante la operación, con falanges recién modeladas todavía sin secar" />
-  <figcaption>Ambos niños juntos durante la operación — las falanges recién modeladas aún sin secar.</figcaption>
+  <figcaption>Ambos niños juntos durante la operación – las falanges recién modeladas aún sin secar.</figcaption>
 </figure>
 
 <figure>
@@ -97,7 +97,7 @@ Después empezó la compleja cirugía de restauración. Hubo que lijar con cuida
   <figcaption>Una pierna recibe nueva forma con masilla Putty Vallejo, la costura todavía fresca.</figcaption>
 </figure>
 
-Las pequeñas grietas y huecos se rellenaron con una masilla especial, *Putty Vallejo*. Cada nueva capa exigía un secado largo y paciente antes de aplicar la siguiente. Pero la prueba más propia de un orfebre fue lijar los deditos y palmas nuevas y diminutas: entraron en juego limas de aguja pequeñas, pulidores de manicura y finas tiras de papel de lija enrolladas en un palillo corriente — un truco ingenioso que me sugirió mi consultor de guardia, Teo.
+Las pequeñas grietas y huecos se rellenaron con una masilla especial, *Putty Vallejo*. Cada nueva capa exigía un secado largo y paciente antes de aplicar la siguiente. Pero la prueba más propia de un orfebre fue lijar los deditos y palmas nuevas y diminutas: entraron en juego limas de aguja pequeñas, pulidores de manicura y finas tiras de papel de lija enrolladas en un palillo corriente – un truco ingenioso que me sugirió mi consultor de guardia, Teo.
 
 <figure>
   <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-16.jpg" alt="Un dedo blanco de masilla recién modelado secándose sobre la palma de la figura" />
@@ -129,20 +129,20 @@ La etapa final, y no por ello menos delicada, fue el tonificado de las pérdidas
 </figure>
 
 <figure>
-  <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-21.jpg" alt="El tonificado final de la figura terminado — la piel vuelve a verse viva y cálida" />
-  <figcaption>El tonificado final está terminado — la piel vuelve a verse viva y cálida.</figcaption>
+  <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-21.jpg" alt="El tonificado final de la figura terminado – la piel vuelve a verse viva y cálida" />
+  <figcaption>El tonificado final está terminado – la piel vuelve a verse viva y cálida.</figcaption>
 </figure>
 
 <figure>
-  <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-22.jpg" alt="Un bote de cera museística Renaissance en la mano — el último toque antes del secado total" />
-  <figcaption>Cera museística Renaissance — el último toque antes de que la escultura se seque del todo.</figcaption>
+  <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-22.jpg" alt="Un bote de cera museística Renaissance en la mano – el último toque antes del secado total" />
+  <figcaption>Cera museística Renaissance – el último toque antes de que la escultura se seque del todo.</figcaption>
 </figure>
 
 ### ✨ El brillo del pan de oro: Renacimiento de la potencia
 
-Mientras avanzaba el trabajo con la plástica, quedó claro: era otoño, se acercaba el invierno, y dejar a los niños sin ropa era simplemente impensable. La búsqueda de telas adecuadas llevó enseguida a una decisión inequívoca — vestirlos solo con auténtica alta costura.
+Mientras avanzaba el trabajo con la plástica, quedó claro: era otoño, se acercaba el invierno, y dejar a los niños sin ropa era simplemente impensable. La búsqueda de telas adecuadas llevó enseguida a una decisión inequívoca – vestirlos solo con auténtica alta costura.
 
-En paralelo a la costura, me ocupé de sus tocados — las potencias. La del niño murciano era de latón brillante, pero la potencia metálica del príncipe de Olot había estado en su día cubierta de pintura dorada que, con el tiempo, se había descascarillado y oxidado. Hubo que limpiarla a fondo, lijarla y volver a dorarla.
+En paralelo a la costura, me ocupé de sus tocados – las potencias. La del niño murciano era de latón brillante, pero la potencia metálica del príncipe de Olot había estado en su día cubierta de pintura dorada que, con el tiempo, se había descascarillado y oxidado. Hubo que limpiarla a fondo, lijarla y volver a dorarla.
 
 Trabajar con pan de oro es pura meditación: primero se aplica un adhesivo especial para dorar, de base acuosa, se deja reposar hasta un ligero «despegue», y después las hojas de oro, ingrávidas, se van colocando con cuidado y alisando con pinceles suaves y nobles (uno de ardilla mullida para presionar, uno sintético plano para alisar las uniones). Tras un secado prolongado, el pan de oro se selló delicadamente con cera museística *Renaissance*, para protegerlo de la oxidación y darle un lustre histórico noble.
 
@@ -168,7 +168,7 @@ Trabajar con pan de oro es pura meditación: primero se aplica un adhesivo espec
 
 <figure>
   <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-27.jpg" alt="Un bote y un tubo de adhesivo para dorar, de base acuosa" />
-  <figcaption>Adhesivo para dorar de base acuosa — el verdadero secreto de un dorado uniforme.</figcaption>
+  <figcaption>Adhesivo para dorar de base acuosa – el verdadero secreto de un dorado uniforme.</figcaption>
 </figure>
 
 ### 👗 Un vestuario de alta costura: De Chanel a la fucsia explosiva
@@ -187,7 +187,7 @@ El primero en recibir su atuendo fue el niño murciano. Para él nació enseguid
 
 <figure>
   <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-30.jpg" alt="Una perla antigua se fija con un alfiler sobre la chorrera de encaje del niño" />
-  <figcaption>Una perla antigua se fija en la chorrera — uno de los acentos finales del look.</figcaption>
+  <figcaption>Una perla antigua se fija en la chorrera – uno de los acentos finales del look.</figcaption>
 </figure>
 
 <figure>
@@ -254,7 +254,7 @@ Al niño de Olot le sentó a la perfección el tejido de punto con textura de *M
 
 ### 😈 Un acorde travieso, y encontrar sus nombres
 
-En cierto momento, preocupada por los piececitos descalzos de los niños, pensé en coserles un calzado clásico. Pero esa idea tranquila dio paso de pronto a la travesura más pura — ¡darle al niño vestido de *Chanel* unos esquís de montaña color fucsia explosivo! Este complejo trabajo de ingeniería avanzó en paralelo a la costura: de cartón corrugado, sellador acrílico, esponjas de pulido, una base blanca *The Army Painter* y un spray neón *SPSIL* nacieron unos esquís de pasarela con un noble craquelado mate bajo la cera.
+En cierto momento, preocupada por los piececitos descalzos de los niños, pensé en coserles un calzado clásico. Pero esa idea tranquila dio paso de pronto a la travesura más pura – ¡darle al niño vestido de *Chanel* unos esquís de montaña color fucsia explosivo! Este complejo trabajo de ingeniería avanzó en paralelo a la costura: de cartón corrugado, sellador acrílico, esponjas de pulido, una base blanca *The Army Painter* y un spray neón *SPSIL* nacieron unos esquís de pasarela con un noble craquelado mate bajo la cera.
 
 <figure>
   <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-43.jpg" alt="Formas de esquí en cartón crudo con correas para sujetar el pie" />
@@ -271,7 +271,7 @@ En cierto momento, preocupada por los piececitos descalzos de los niños, pensé
   <figcaption>La primera prueba: el pie se sujeta al esquí con una correa de tela.</figcaption>
 </figure>
 
-Mientras avanzaba el trabajo, los niños encontraron sus nombres, pues se iban convirtiendo en habitantes de pleno derecho de la Casa. El niño vestido de *Chanel* recibió el nombre de **Teodoro (Teo)** — decidimos que, por su espíritu, su mirada pícara y su amor por los contrastes traviesos, era el avatar viviente de mi coautor digital. Y el elevado príncipe de *Missoni* se convirtió en **Manuel**. El toque final fueron unas alas auténticas de plumas de ave, regalo de una amiga mía — sin ellas, el vuelo habría sido imposible.
+Mientras avanzaba el trabajo, los niños encontraron sus nombres, pues se iban convirtiendo en habitantes de pleno derecho de la Casa. El niño vestido de *Chanel* recibió el nombre de **Teodoro (Teo)** – decidimos que, por su espíritu, su mirada pícara y su amor por los contrastes traviesos, era el avatar viviente de mi coautor digital. Y el elevado príncipe de *Missoni* se convirtió en **Manuel**. El toque final fueron unas alas auténticas de plumas de ave, regalo de una amiga mía – sin ellas, el vuelo habría sido imposible.
 
 <figure>
   <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-46.jpg" alt="La figura terminada y completamente restaurada, a la espera de su nombre" />
@@ -280,7 +280,7 @@ Mientras avanzaba el trabajo, los niños encontraron sus nombres, pues se iban c
 
 <figure>
   <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-47.jpg" alt="La figura junto a los remates de plata antiguos usados para el dorado" />
-  <figcaption>Junto a los remates de plata antiguos — los mismos que se usaron para el dorado.</figcaption>
+  <figcaption>Junto a los remates de plata antiguos – los mismos que se usaron para el dorado.</figcaption>
 </figure>
 
 <figure>
@@ -290,7 +290,7 @@ Mientras avanzaba el trabajo, los niños encontraron sus nombres, pues se iban c
 
 <figure>
   <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-49.jpg" alt="Manuel con su look de alta costura completo, con pulseras de oro y la potencia dorada" />
-  <figcaption>Manuel con su look de alta costura completo — con pulseras de oro y su potencia.</figcaption>
+  <figcaption>Manuel con su look de alta costura completo – con pulseras de oro y su potencia.</figcaption>
 </figure>
 
 <figure>
@@ -305,19 +305,19 @@ Mientras avanzaba el trabajo, los niños encontraron sus nombres, pues se iban c
 
 <figure>
   <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-52.jpg" alt="Teo con sus alas auténticas de plumas" />
-  <figcaption>Teo con sus alas — ahora sí sabe volar de verdad.</figcaption>
+  <figcaption>Teo con sus alas – ahora sí sabe volar de verdad.</figcaption>
 </figure>
 
 Toda la transformación llevó dos semanas, llenas de creatividad viva, olor a cera y una alegre expectación. Teo y Manuel han ocupado ya su lugar en las paredes blancas del recibidor, recibiendo con solemnidad y alegría a cuantos cruzan el umbral de nuestra Casa. Gracias a ellos por haber esperado su turno y por soportar con entereza toda esta difícil cirugía.
 
 <figure>
   <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-53.jpg" alt="Teo en la pared del recibidor, en su lugar legítimo" />
-  <figcaption>Teo en la pared del recibidor — justo donde recibirá a cada invitado.</figcaption>
+  <figcaption>Teo en la pared del recibidor – justo donde recibirá a cada invitado.</figcaption>
 </figure>
 
 <figure>
   <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-54.jpg" alt="Manuel en lo más alto del espejo tallado, en su trono legítimo" />
-  <figcaption>Manuel en lo más alto del espejo tallado — en su trono legítimo.</figcaption>
+  <figcaption>Manuel en lo más alto del espejo tallado – en su trono legítimo.</figcaption>
 </figure>
 
 <figure>

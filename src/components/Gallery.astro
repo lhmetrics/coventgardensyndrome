@@ -1,16 +1,16 @@
 ---
-// Reusable swipeable photo gallery — see project memory "story-slug-convention"
+// Reusable swipeable photo gallery – see project memory "story-slug-convention"
 // sibling doc for how it's wired into a story's frontmatter (a `gallery`
 // array of { src, alt }). Rendered by StoryDetail.astro at the end of a
 // post's text, before the chapter nav.
 //
 // Technical approach: the strip itself is a plain CSS horizontal
-// scroll-snap track — swiping (touch) and two-finger scroll (trackpad)
+// scroll-snap track – swiping (touch) and two-finger scroll (trackpad)
 // work with zero JS, on every browser. A small enhancement script keeps
 // the dots/counter in sync with whichever slide is centered, wires the
 // always-visible prev/next buttons (a plain desktop mouse has no swipe
 // gesture, so these need to be discoverable without hovering first), and
-// redirects a plain mouse wheel's vertical scroll into horizontal —
+// redirects a plain mouse wheel's vertical scroll into horizontal –
 // without that last part a mouse-only desktop user has no way to move
 // the track at all. If JS fails to load, touch/trackpad scrolling still
 // fully works, just without the "2 / 5" readout or mouse-wheel support.
@@ -111,7 +111,7 @@ const { images } = Astro.props;
     display: flex;
     align-items: center;
     justify-content: center;
-    /* Always visible (not hover-only) — a mouse-only desktop user has no
+    /* Always visible (not hover-only) – a mouse-only desktop user has no
        swipe gesture and needs a visible, discoverable way in; the wheel
        handler below is the other half of that. */
     opacity: 0.8;
@@ -164,7 +164,7 @@ const { images } = Astro.props;
     font-variant-numeric: tabular-nums;
   }
 
-  /* No hover on touch devices — the on-screen prev/next buttons would
+  /* No hover on touch devices – the on-screen prev/next buttons would
      otherwise stay invisible forever since there's no ":hover" to trigger
      them. Swiping directly is the primary interaction there anyway. */
   @media (hover: none) {
@@ -191,7 +191,7 @@ const { images } = Astro.props;
     };
 
     // Whichever slide's left edge is closest to the current scroll
-    // position "is" the current one — this fires on swipe, trackpad
+    // position "is" the current one – this fires on swipe, trackpad
     // scroll, and button-driven scrollIntoView alike. (An earlier version
     // used IntersectionObserver, which didn't reliably catch a fast
     // swipe's end position.)
@@ -213,7 +213,7 @@ const { images } = Astro.props;
     });
 
     // scrollIntoView (rather than track.scrollBy) is what reliably plays
-    // nice with `scroll-snap-type: mandatory` — a plain scrollBy can get
+    // nice with `scroll-snap-type: mandatory` – a plain scrollBy can get
     // fought by the browser's own snap correction and silently undone,
     // which is why the nav buttons previously did nothing.
     const goTo = (index: number) => {
@@ -225,7 +225,7 @@ const { images } = Astro.props;
     gallery.querySelector('[data-gallery-next]')?.addEventListener('click', () => goTo(current + 1));
 
     // A plain desktop mouse has no swipe gesture and its wheel only
-    // reports vertical delta — without this, the track only responds to
+    // reports vertical delta – without this, the track only responds to
     // a trackpad's horizontal scroll or a dragged (normally hidden)
     // scrollbar, so a mouse user sees a gallery that looks "stuck".
     // Redirect vertical wheel motion into horizontal scroll instead.

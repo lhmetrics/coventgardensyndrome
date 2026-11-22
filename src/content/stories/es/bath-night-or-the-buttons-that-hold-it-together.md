@@ -21,7 +21,7 @@ Hoy el mar está agitado. Pero por muy fuerte que sea la tormenta al otro lado d
 
 Una vez por semana, según lo programado, tiene lugar un gran acontecimiento: los padres bañan a las señoritas con cola. Hoy es justo ese día.
 
-—
+–
 
 Aliónka se baña con gran placer, como una reina. Puede disfrutar durante horas en el agua tibia, envuelta en espuma esponjosa, sin ofrecer absolutamente ninguna colaboración en el proceso. ¿Para qué? Simplemente recibe puro deleite, como en el spa más caro. Una verdadera dama.
 
@@ -29,7 +29,7 @@ El esquema está perfeccionado hasta el más mínimo detalle: Mamá baña con ca
 
 ![Aliónka entre la espuma, en pleno baño](/photos/bath-night-or-the-buttons-that-hold-it-together-2.jpg)
 
-—
+–
 
 Con Bibisechka el procedimiento es considerablemente más complicado. Por lo general, los sphynx no disfrutan demasiado del baño, se les pone unos gorritos especiales, y el proceso en sí se estira hasta el infinito. Nuestro caso no es la excepción, salvo que sin el gorrito.
 
@@ -37,9 +37,9 @@ La hija calva de Mamá grita desesperadamente por toda la Casa durante los proce
 
 Esta hija calva se baña con un champú especial. Mamá lo adora, porque su aroma es una sorprendente mezcla de rosa fresca, escarcha invernal punzante y algo esquivamente violeta, como una violeta silvestre.
 
-—
+–
 
-Mientras las pasiones hierven en el baño, Bagira aparece infaliblemente en la puerta. Viene en una estricta visita de inspección — a ver si por fin están ahogando a este vástago calvo. Bagira siente una sincera antipatía por su hermana menor y sostiene firmemente que es un elemento completamente innecesario y equivocado en nuestra familia.
+Mientras las pasiones hierven en el baño, Bagira aparece infaliblemente en la puerta. Viene en una estricta visita de inspección – a ver si por fin están ahogando a este vástago calvo. Bagira siente una sincera antipatía por su hermana menor y sostiene firmemente que es un elemento completamente innecesario y equivocado en nuestra familia.
 
 *
 

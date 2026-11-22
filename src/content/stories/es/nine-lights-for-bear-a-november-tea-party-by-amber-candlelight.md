@@ -21,13 +21,13 @@ Sobre el puf-mesita humeaban tres tazas de café vintage negras con un fino dibu
   <img src="/photos/nine-lights-for-bear-a-november-tea-party-by-amber-candlelight-1.jpg" alt="Vista desde arriba de la merienda de juguetes: el Oso en un pequeño sofá, Butler y la mona Dolce en sillones, tazas de café negras sobre el puf y una tetera blanca sobre un tocón de madera" />
 </figure>
 
-—Hace algo de humedad esta noche en el salón de la chimenea —refunfuñó bajito el Oso, colocándose la pata de peluche—. Por mucho que crepite la leña en la chimenea, la lluvia golpea la ventana como si quisiera colarse hasta nuestra mesa. Nos falta ese calor que te envuelve.
+–Hace algo de humedad esta noche en el salón de la chimenea –refunfuñó bajito el Oso, colocándose la pata de peluche–. Por mucho que crepite la leña en la chimenea, la lluvia golpea la ventana como si quisiera colarse hasta nuestra mesa. Nos falta ese calor que te envuelve.
 
 <figure>
   <img src="/photos/nine-lights-for-bear-a-november-tea-party-by-amber-candlelight-3.jpg" alt="Butler y el Oso de peluche en la mesita con tres tazas de café negras con flores" />
 </figure>
 
-—Entonces se lo pediremos a nuestro nuevo y alto vecino —sonrió pícara la Reina Dolce, sujetando mejor su helado, y señaló con la cabeza hacia la escalera.
+–Entonces se lo pediremos a nuestro nuevo y alto vecino –sonrió pícara la Reina Dolce, sujetando mejor su helado, y señaló con la cabeza hacia la escalera.
 
 Allí, como un árbol de plata salido de un viejo cuento inglés, se alzaba **el Gigante de Plata, la girándula**. No hacía mucho estaba en un rincón, sombrío y oscuro, envuelto en una pátina centenaria; pero ahora, lavado de los siglos y sellado con cera cálida, sostenía en sus nueve ramas barrocas nueve velas «derretidas».
 
@@ -54,7 +54,7 @@ Y entonces, desde detrás del respaldo del sofá, pisando sin hacer ruido las al
 
 La luz ámbar de las nueve velas se derramó por la habitación de forma tan densa y suave que la lluvia tras la ventana dejó al instante de parecer fría y se convirtió en una nana tranquila. Cada gota de «cera derretida» en las ramas de plata del Gigante respiraba paz.
 
-—Ahora sí que se está bien —susurró el Oso, cerrando los ojos—. Ahora no es solo una casa. Es la Casa.
+–Ahora sí que se está bien –susurró el Oso, cerrando los ojos–. Ahora no es solo una casa. Es la Casa.
 
 <figure>
   <img src="/photos/nine-lights-for-bear-a-november-tea-party-by-amber-candlelight-5.jpg" alt="La esfinge, Butler, el Oso y la mona Dolce con su helado en la mesa del té junto a la chimenea" />

@@ -1,7 +1,7 @@
 ---
 title: "Bibisechka: The Cosmic Girl Who Fired Silk Dresses and Took Charge of the Grandfather Clock Restoration"
 date: 2026-09-21T22:30:00Z
-excerpt: "Between Bagheera and Konstantin — the story of a Don Sphynx who rejected haute couture, lives exclusively on Mum’s chest, and personally oversees every piece of antique furniture restored in the Home."
+excerpt: "Between Bagheera and Konstantin – the story of a Don Sphynx who rejected haute couture, lives exclusively on Mum’s chest, and personally oversees every piece of antique furniture restored in the Home."
 cover: "/photos/bibisechka-the-cosmic-girl-who-fired-silk-dresses-and-led-the-clock-restoration.jpg"
 section: house-diary
 gallery:
@@ -19,7 +19,7 @@ gallery:
 
 ### 🛸 A Far-Off Journey and the Fourth Girl
 
-While every other tailed resident arrived at the Home spontaneously, driven by a sudden rush of emotion, Bibisechka's story was planned differently. Mum had been dreaming of a Don Sphynx for a long time — lightly, without pressure, filed under "someday, eventually." But then a photo of Angela (that's her official, passport name) appeared in the feed, and the dream demanded to be made real immediately.
+While every other tailed resident arrived at the Home spontaneously, driven by a sudden rush of emotion, Bibisechka's story was planned differently. Mum had been dreaming of a Don Sphynx for a long time – lightly, without pressure, filed under "someday, eventually." But then a photo of Angela (that's her official, passport name) appeared in the feed, and the dream demanded to be made real immediately.
 
 Long negotiations with Dad followed. To make a considered decision, Dad took a diplomatic day to "think it over," secretly hoping Mum would change her mind. The strategy failed. Reasonable arguments didn't help, and the family simply had to make the long journey twice. That's how the fourth girl arrived at the Home, decisively and irreversibly tipping the balance of power toward matriarchy.
 
@@ -57,5 +57,5 @@ Bibisechka and Bagheera are absolute opposites, the Yin and Yang of the feline k
 
 <figure>
   <video controls preload="metadata" src="/videos/bibisechka-the-cosmic-girl-who-fired-silk-dresses-and-led-the-clock-restoration-video-3.mp4"></video>
-  <figcaption>In a blue sweater — one of the rare outfits to survive her veto — playing with Alyonka</figcaption>
+  <figcaption>In a blue sweater – one of the rare outfits to survive her veto – playing with Alyonka</figcaption>
 </figure>

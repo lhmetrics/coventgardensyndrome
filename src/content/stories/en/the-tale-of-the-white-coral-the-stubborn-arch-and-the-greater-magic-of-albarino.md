@@ -12,7 +12,7 @@ In a Home on a warm coast, where ancient oak giants and the brass hearts of Liè
 
 But even Grandmasters sometimes have to do battle with the Drama of Space.
 
-That October night, an antique arched door panel lay on the four-meter workbench. Two hundred and fifty-two years ago, a Liège carpenter had cut it from black walnut. Over the centuries the frame had dried out, taken offense at the fireplace soot, and arched its stubborn wooden back. Resting in its rabbets was meant to be a treasure — the thinnest, most fragile, hand-blown wavy glass from the 18th century. It was so delicate that any sharp touch could turn it into crystal tears.
+That October night, an antique arched door panel lay on the four-meter workbench. Two hundred and fifty-two years ago, a Liège carpenter had cut it from black walnut. Over the centuries the frame had dried out, taken offense at the fireplace soot, and arched its stubborn wooden back. Resting in its rabbets was meant to be a treasure – the thinnest, most fragile, hand-blown wavy glass from the 18th century. It was so delicate that any sharp touch could turn it into crystal tears.
 
 The Grandmaster knew the secret: no heart-attack-inducing nails, no hammers! Only a molecular lock made of cosmic Japanese putty, able to set into an eternally springy rubber.
 
@@ -28,16 +28,16 @@ But the Grandmaster's heart was still pounding with the frantic rhythm of the ba
 
 <figure>
   <img src="/photos/the-tale-of-the-white-coral-the-stubborn-arch-and-the-greater-magic-of-albarino.jpg" alt="A crystal glass of chilled Albariño on the workbench among restoration paint jars" />
-  <figcaption>The Deep Crystal Goblet on the workbench — among jars of Vallejo and Citadel, isopropyl spirit, and the tired tools of the night shift.</figcaption>
+  <figcaption>The Deep Crystal Goblet on the workbench – among jars of Vallejo and Citadel, isopropyl spirit, and the tired tools of the night shift.</figcaption>
 </figure>
 
-Inside the goblet, liquid gold was sloshing — **Albariño**.
+Inside the goblet, liquid gold was sloshing – **Albariño**.
 
 Why does a home restorer of the 80th level absolutely need a bottle of chilled Albariño in the cellar?
 
 Because Albariño isn't just a wine. It's a great, faintly salty wind off the Atlantic coast, born on the granite cliffs of Galicia. Its high, ringing acidity can instantly dissolve any creative toxin and relieve heart-stopping restoration stress.
 
-When the Grandmaster took her first sip — for the first time in four long years! — warmth spread through her tired fingers. An amber light flared in the crystal facets and lit up the jars of Vallejo and Citadel. The alcohol-based PVA glue on the hood's roof promptly began obediently stretching into a transparent membrane. The little white Kintsuglue peas whispered quietly, promising that by tomorrow they'd turn into the sturdiest shield for the Baroque crystal.
+When the Grandmaster took her first sip – for the first time in four long years! – warmth spread through her tired fingers. An amber light flared in the crystal facets and lit up the jars of Vallejo and Citadel. The alcohol-based PVA glue on the hood's roof promptly began obediently stretching into a transparent membrane. The little white Kintsuglue peas whispered quietly, promising that by tomorrow they'd turn into the sturdiest shield for the Baroque crystal.
 
 The Albariño delivered the main law of conservation for that night: *"Everything is reversible. Everything can be fixed. The boat doesn't sink as long as the Captain is smiling."*
 

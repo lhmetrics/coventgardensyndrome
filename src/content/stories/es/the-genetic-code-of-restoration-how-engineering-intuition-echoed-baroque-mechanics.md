@@ -1,7 +1,7 @@
 ---
 title: "Parte 3. El Código Genético de la Restauración: Cómo la Intuición de Ingeniería Repitió la Mecánica Barroca"
 date: 2026-10-12T20:00:00Z
-excerpt: "Un caso asombroso en el taller de restauración — la lógica de ingeniería y las leyes de los materiales reconstruyeron un pestillo barroco perdido de un reloj Paulissen de 1774, con una coincidencia del 100% con un original histórico hallado por pura casualidad."
+excerpt: "Un caso asombroso en el taller de restauración – la lógica de ingeniería y las leyes de los materiales reconstruyeron un pestillo barroco perdido de un reloj Paulissen de 1774, con una coincidencia del 100% con un original histórico hallado por pura casualidad."
 cover: "/photos/the-genetic-code-of-restoration-how-engineering-intuition-echoed-baroque-mechanics.jpg"
 section: stamps-time
 ---
@@ -16,21 +16,21 @@ En la práctica de la conservación de antigüedades hay momentos que rozan el m
 
 Recordemos el punto de partida: la lengüeta interna original que cerraba la puerta del capuchón se había perdido sin remedio. En el interior desnudo del taller solo quedaban un pasador forjado y facetado, encajado en su marco y perteneciente al tirador exterior de latón en forma de seta, y un hueco rectangular vacío tallado en el nogal negro y seco del marco.
 
-Sin tener a la vista una muestra auténtica (el acceso a los catálogos de los museos de la escuela de Lieja nos estaba cerrado), mi marido —nuestro director técnico— y yo empezamos a diseñar el conjunto desde cero, guiándonos únicamente por la fría lógica de la ingeniería:
+Sin tener a la vista una muestra auténtica (el acceso a los catálogos de los museos de la escuela de Lieja nos estaba cerrado), mi marido –nuestro director técnico– y yo empezamos a diseñar el conjunto desde cero, guiándonos únicamente por la fría lógica de la ingeniería:
 
 1. **Geometría de distribución de cargas:** para que la lengüeta encajara limpiamente en la ranura de la caja, no desgastara el centenario cerco de roble ni tuviera holgura al girar, el orificio circular central de la pieza en bruto de acero moderno se mecanizó hasta convertirlo en un cuadrado rígido, ajustado exactamente a las facetas del pasador forjado.
-2. **Forma y masa:** para fijar la palanca en su eje, formamos un elemento estructural denso con soldadura en frío de dos componentes (una masilla epoxi gris-granate). La pieza, en su construcción, repitió la forma de un **cuadrado redondeado** — la geometría óptima para sujetar de manera uniforme las facetas forjadas del pasador. A la propia lengüeta de acero se le dio forma de gota — la mejor, desde el punto de vista de la resistencia de materiales, para resistir la torsión.
+2. **Forma y masa:** para fijar la palanca en su eje, formamos un elemento estructural denso con soldadura en frío de dos componentes (una masilla epoxi gris-granate). La pieza, en su construcción, repitió la forma de un **cuadrado redondeado** – la geometría óptima para sujetar de manera uniforme las facetas forjadas del pasador. A la propia lengüeta de acero se le dio forma de gota – la mejor, desde el punto de vista de la resistencia de materiales, para resistir la torsión.
 3. **Texturizado artístico:** el polímero en crudo se espolvoreó generosamente con polvo aterciopelado de nogal, se grabó a mano con una aguja fina y se selló con el betún judaico, oleoso y resinoso, **Negro Betún Judaico** de *Mongay*.
 
 ### El momento de la verdad: comparación con el patrón histórico
 
-La sorpresa llegó al día siguiente, una vez terminado por completo el trabajo y montado el mecanismo de cierre en la puerta. Mientras fotografiábamos otras piezas ocultas de la caja, descubrimos —conservado por un milagro— un pestillo análogo en el panel interior contiguo del mismo reloj.
+La sorpresa llegó al día siguiente, una vez terminado por completo el trabajo y montado el mecanismo de cierre en la puerta. Mientras fotografiábamos otras piezas ocultas de la caja, descubrimos –conservado por un milagro– un pestillo análogo en el panel interior contiguo del mismo reloj.
 
 Colocamos los dos objetos uno junto al otro. El resultado de aquel diseño de ingeniería a ciegas dejó a todo nuestro equipo de restauración mudo de asombro.
 
 <figure>
   <img src="/photos/the-genetic-code-of-restoration-how-engineering-intuition-echoed-baroque-mechanics.jpg" alt="A la izquierda, el remache de soldadura en frío recién hecho con su marca de autor en forma de pájaro; a la derecha, el original histórico conservado por un milagro" />
-  <figcaption>A la izquierda — nuestro remache recién hecho, con la marca de autor en forma de pájaro en el centro. A la derecha — el original histórico del pestillo de esa misma puerta, conservado por un milagro. Dos objetos, diseñados de forma independiente, con 250 años de diferencia.</figcaption>
+  <figcaption>A la izquierda – nuestro remache recién hecho, con la marca de autor en forma de pájaro en el centro. A la derecha – el original histórico del pestillo de esa misma puerta, conservado por un milagro. Dos objetos, diseñados de forma independiente, con 250 años de diferencia.</figcaption>
 </figure>
 
 <figure>
@@ -40,7 +40,7 @@ Colocamos los dos objetos uno junto al otro. El resultado de aquel diseño de in
 
 <figure>
   <img src="/photos/the-genetic-code-of-restoration-how-engineering-intuition-echoed-baroque-mechanics-3.jpg" alt="El tirador de latón en forma de seta, extraído, con su pasador forjado y facetado, sobre un fondo de tela" />
-  <figcaption>El tirador de latón en forma de seta, extraído, con su pasador forjado y facetado — el único fragmento superviviente del conjunto original perdido.</figcaption>
+  <figcaption>El tirador de latón en forma de seta, extraído, con su pasador forjado y facetado – el único fragmento superviviente del conjunto original perdido.</figcaption>
 </figure>
 
 <figure>
@@ -50,17 +50,17 @@ Colocamos los dos objetos uno junto al otro. El resultado de aquel diseño de in
 
 <figure>
   <img src="/photos/the-genetic-code-of-restoration-how-engineering-intuition-echoed-baroque-mechanics-5.jpg" alt="El remache de soldadura en frío recién hecho, con la marca del pájaro, todavía sin oscurecer con betún" />
-  <figcaption>El remache de soldadura en frío recién hecho, con la marca de autor del pájaro ya grabada, todavía sin oscurecer con betún — cubierto de polvo y virutas de nogal.</figcaption>
+  <figcaption>El remache de soldadura en frío recién hecho, con la marca de autor del pájaro ya grabada, todavía sin oscurecer con betún – cubierto de polvo y virutas de nogal.</figcaption>
 </figure>
 
 <figure>
   <img src="/photos/the-genetic-code-of-restoration-how-engineering-intuition-echoed-baroque-mechanics-6.jpg" alt="La pieza en bruto de acero, con su cuadrado redondeado y su lengüeta en forma de gota, probándose en la ranura" />
-  <figcaption>La pieza en bruto de acero —con su cuadrado redondeado y su lengüeta en forma de gota— probándose en la ranura antes del montaje final.</figcaption>
+  <figcaption>La pieza en bruto de acero –con su cuadrado redondeado y su lengüeta en forma de gota– probándose en la ranura antes del montaje final.</figcaption>
 </figure>
 
 <figure>
   <img src="/photos/the-genetic-code-of-restoration-how-engineering-intuition-echoed-baroque-mechanics-7.jpg" alt="Probando un herraje de latón alternativo en la ranura de la puerta" />
-  <figcaption>Probando un herraje de latón alternativo en la ranura de la puerta — una de las opciones consideradas durante el proceso de diseño.</figcaption>
+  <figcaption>Probando un herraje de latón alternativo en la ranura de la puerta – una de las opciones consideradas durante el proceso de diseño.</figcaption>
 </figure>
 
 <figure>

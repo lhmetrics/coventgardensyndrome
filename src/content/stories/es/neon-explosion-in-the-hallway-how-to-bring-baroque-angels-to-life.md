@@ -1,7 +1,7 @@
 ---
 title: "🎭 Una explosión de neón en el recibidor: Cómo dar vida a ángeles barrocos"
 date: 2026-11-10T20:00:00Z
-excerpt: "Cómo dos niños restaurados de Olot — Manuel en couture de Missoni y Teo en tweed de Chanel — se convirtieron en los ángeles barrocos de un recibidor: un espejo inglés tallado del siglo XIX, una constelación de relicarios de la Virgen del Rocío, esquís de neón y mosquetones de alpinismo, todo escenificado para el Teatro del Interior."
+excerpt: "Cómo dos niños restaurados de Olot – Manuel en couture de Missoni y Teo en tweed de Chanel – se convirtieron en los ángeles barrocos de un recibidor: un espejo inglés tallado del siglo XIX, una constelación de relicarios de la Virgen del Rocío, esquís de neón y mosquetones de alpinismo, todo escenificado para el Teatro del Interior."
 cover: "/photos/neon-explosion-in-the-hallway-how-to-bring-baroque-angels-to-life.jpg"
 coverPosition: "center 4%"
 section: interior-theater
@@ -27,7 +27,7 @@ Sobre las tablas ya preparadas subieron los dos protagonistas, bautizados en el 
 
 <figure>
   <img src="/photos/neon-explosion-in-the-hallway-how-to-bring-baroque-angels-to-life-5.jpg" alt="Una figura de niño con poncho de Missoni encaramada en la cima de un espejo oscuro tallado, con alas de plumas visibles" />
-  <figcaption>Manuel en lo más alto del espejo inglés tallado — en couture de Missoni y con alas de plumas de ángel.</figcaption>
+  <figcaption>Manuel en lo más alto del espejo inglés tallado – en couture de Missoni y con alas de plumas de ángel.</figcaption>
 </figure>
 
 <figure>
@@ -44,7 +44,7 @@ Sobre las tablas ya preparadas subieron los dos protagonistas, bautizados en el 
 
 <figure>
   <img src="/photos/neon-explosion-in-the-hallway-how-to-bring-baroque-angels-to-life-3.jpg" alt="Una figura en la pared del recibidor junto a un aplique de pared, con un esquí en miniatura rosa brillante visible debajo" />
-  <figcaption>Teo en la pared del recibidor — junto al candelabro, con un esquí de neón bajo sus pies.</figcaption>
+  <figcaption>Teo en la pared del recibidor – junto al candelabro, con un esquí de neón bajo sus pies.</figcaption>
 </figure>
 
 <figure>

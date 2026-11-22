@@ -8,7 +8,7 @@ section: stamps-time
 
 ## Parte 4. La Geometría del Engaño y los Ejes Ocultos: Descifrando la Inclinación de la Cornisa y las Bisagras de Espiga del Paulissen 1774
 
-Cuando los trabajos de conservación a gran escala —la estabilización de la coraza de papel del techo y el asentamiento puntual del frágil vidrio soplado sobre sus almohadillas amortiguadoras— pasaron a un régimen de estabilización natural día a día, el astillero de restauración de Covent Garden Syndrome se topó con nuevas anomalías estructurales. Un examen minucioso del armazón de madera desnudo de la capota reveló dos hechos de ingeniería ocultos que nos obligaron a desplegar de nuevo el cuartel general de ciencia de materiales justo junto a la mesa de cuatro metros.
+Cuando los trabajos de conservación a gran escala –la estabilización de la coraza de papel del techo y el asentamiento puntual del frágil vidrio soplado sobre sus almohadillas amortiguadoras– pasaron a un régimen de estabilización natural día a día, el astillero de restauración de Covent Garden Syndrome se topó con nuevas anomalías estructurales. Un examen minucioso del armazón de madera desnudo de la capota reveló dos hechos de ingeniería ocultos que nos obligaron a desplegar de nuevo el cuartel general de ciencia de materiales justo junto a la mesa de cuatro metros.
 
 A continuación, un análisis detallado de los enigmas ópticos y de cerrajería de este yelmo de 250 años, que demuestra una vez más la naturaleza absolutamente artesanal y profundamente premeditada de este monumental aristócrata de Lieja.
 
@@ -32,7 +32,7 @@ Un análisis detallado de las leyes de la arquitectura barroca, realizado junto 
 
 ### Capítulo 2. Ejes ocultos: la anatomía de la bisagra de espiga desmontable
 
-El segundo gran descubrimiento fue el estudio detallado de las bisagras de latón forjado de la puerta de la capota, coronadas con elegantes remates balaustrados barrocos. A primera vista, sugerían un complejo sistema de bloqueo de ejes en varias direcciones, pensado para evitar que el frágil vidrio soplado se desprendiera por accidente. Pero la exploración práctica del mecanismo reveló un sistema de bisagras desmontables tipo *Lift-Off* —de bandera—, genial precisamente por su sencillez y ergonomía.
+El segundo gran descubrimiento fue el estudio detallado de las bisagras de latón forjado de la puerta de la capota, coronadas con elegantes remates balaustrados barrocos. A primera vista, sugerían un complejo sistema de bloqueo de ejes en varias direcciones, pensado para evitar que el frágil vidrio soplado se desprendiera por accidente. Pero la exploración práctica del mecanismo reveló un sistema de bisagras desmontables tipo *Lift-Off* –de bandera–, genial precisamente por su sencillez y ergonomía.
 
 <figure>
   <img src="/photos/geometry-of-deception-tilted-cornice-and-pin-hinges-of-paulissen-1774-2.jpg" alt="Primer plano de una bisagra de latón forjado con remate torneado, montada sobre un poste de nogal negro" />

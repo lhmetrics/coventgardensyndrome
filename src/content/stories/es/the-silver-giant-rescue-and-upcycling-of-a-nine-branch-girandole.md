@@ -1,7 +1,7 @@
 ---
 title: "El gigante de plata: Historia del rescate y el upcycling de una girándula de nueve brazos"
 date: 2026-11-15T19:00:00Z
-excerpt: "Un regalo de una dama inglesa de 85 años: una girándula de pie de 165 cm con unos raros nueve brazos — un siglo de pátina, una «escafandra» salvadora de aceite viejo, la trampa química del algodón para limpiar plata y fundas de vela hechas con un tubo de fontanería."
+excerpt: "Un regalo de una dama inglesa de 85 años: una girándula de pie de 165 cm con unos raros nueve brazos – un siglo de pátina, una «escafandra» salvadora de aceite viejo, la trampa química del algodón para limpiar plata y fundas de vela hechas con un tubo de fontanería."
 cover: "/photos/the-silver-giant-rescue-and-upcycling-of-a-nine-branch-girandole.jpg"
 coverPosition: "center 15%"
 section: stamps-time

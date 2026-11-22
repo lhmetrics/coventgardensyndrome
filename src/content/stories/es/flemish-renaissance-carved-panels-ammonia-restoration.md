@@ -1,14 +1,14 @@
 ---
 title: "Lavando el Azufre de los Siglos: un Renacimiento Flamenco, una Explosión de Amoníaco y los Secretos de los Altorrelieves de Roble"
 date: 2026-10-14T20:00:00Z
-excerpt: "Una crónica de restauración sobre el rescate de tres paneles tallados en roble del Renacimiento flamenco y su cornisa — cómo una solución de amoníaco disolvió una costra de azufre centenaria, y lo que el análisis histórico-artístico de los relieves reveló sobre sus maestros flamencos."
+excerpt: "Una crónica de restauración sobre el rescate de tres paneles tallados en roble del Renacimiento flamenco y su cornisa – cómo una solución de amoníaco disolvió una costra de azufre centenaria, y lo que el análisis histórico-artístico de los relieves reveló sobre sus maestros flamencos."
 cover: "/photos/flemish-renaissance-carved-panels-ammonia-restoration.jpg"
 section: stamps-time
 ---
 
 ## Lavando el Azufre de los Siglos: un Renacimiento Flamenco, una Explosión de Amoníaco y los Secretos de los Altorrelieves de Roble
 
-A veces los auténticos tesoros de épocas pasadas nos llegan como fragmentos dispersos, enterrados bajo capas de tiempo y suciedad implacables. Nuestra nueva crónica de restauración es la historia del rescate de tres paneles tallados en roble y la cornisa que en su día los coronaba. Alguna vez formaron un todo único —un monumental armario barroco—, pero el tiempo solo conservó las puertas. Llegaron a nosotros en un estado desolador, alarmante: la madera estaba por completo sellada bajo una costra de azufre densa, opaca, de color negro carbón.
+A veces los auténticos tesoros de épocas pasadas nos llegan como fragmentos dispersos, enterrados bajo capas de tiempo y suciedad implacables. Nuestra nueva crónica de restauración es la historia del rescate de tres paneles tallados en roble y la cornisa que en su día los coronaba. Alguna vez formaron un todo único –un monumental armario barroco–, pero el tiempo solo conservó las puertas. Llegaron a nosotros en un estado desolador, alarmante: la madera estaba por completo sellada bajo una costra de azufre densa, opaca, de color negro carbón.
 
 A continuación presentamos nuestro análisis histórico-artístico crítico y el protocolo químico de limpieza, radical pero victorioso, que devolvió a esta obra maestra su esplendor original.
 
@@ -54,7 +54,7 @@ La arquitectura de los paneles sigue los cánones clásicos de una fachada barro
   <figcaption>Un primer plano del mascarón central. La cabeza barbada de un hombre en un medallón circular, rodeada de volutas simétricas de acanto. Se aprecia la textura porosa y limpia del roble antiguo.</figcaption>
 </figure>
 
-* **Perfiles de guerreros y sabios:** los tableros laterales forman un par de medallones-camafeo. En el panel izquierdo aparece un guerrero con casco romano y visera; en el derecho, un sabio barbado con una capucha profunda, a modo de capirote hugonote. Sobre ellos se tallan generosos cuernos de la abundancia, llenos de granadas y peras —símbolos de la vida eterna y la prosperidad del taller.
+* **Perfiles de guerreros y sabios:** los tableros laterales forman un par de medallones-camafeo. En el panel izquierdo aparece un guerrero con casco romano y visera; en el derecho, un sabio barbado con una capucha profunda, a modo de capirote hugonote. Sobre ellos se tallan generosos cuernos de la abundancia, llenos de granadas y peras –símbolos de la vida eterna y la prosperidad del taller.
 
 <figure>
   <img src="/photos/flemish-renaissance-carved-panels-ammonia-restoration-4.jpg" alt="Perfil del guerrero con casco en el tablero izquierdo, inscrito en un medallón ovalado con una guirnalda de frutas encima" />
@@ -63,7 +63,7 @@ La arquitectura de los paneles sigue los cánones clásicos de una fachada barro
 
 <figure>
   <img src="/photos/flemish-renaissance-carved-panels-ammonia-restoration-5.jpg" alt="Primerísimo plano del rostro del guerrero con casco, mostrando el detalle fino de la barba y los rasgos" />
-  <figcaption>El mismo guerrero en primerísimo plano — se aprecia el detalle de orfebre de la barba, los pliegues del rostro y el casco metálico.</figcaption>
+  <figcaption>El mismo guerrero en primerísimo plano – se aprecia el detalle de orfebre de la barba, los pliegues del rostro y el casco metálico.</figcaption>
 </figure>
 
 ### Capítulo 4. Un reto de ingeniería: una grieta radial a través del tiempo
@@ -77,12 +77,12 @@ El tiempo no perdona ni al roble. En el tablero derecho, atravesando justo el al
 
 <figure>
   <img src="/photos/flemish-renaissance-carved-panels-ammonia-restoration-7.jpg" alt="Primerísimo plano del mascarón central con una grieta fina de contracción cerca del borde del panel" />
-  <figcaption>El mascarón central en primerísimo plano — cerca del borde del panel se aprecia otra grieta, más fina, por contracción.</figcaption>
+  <figcaption>El mascarón central en primerísimo plano – cerca del borde del panel se aprecia otra grieta, más fina, por contracción.</figcaption>
 </figure>
 
 <figure>
   <img src="/photos/flemish-renaissance-carved-panels-ammonia-restoration-8.jpg" alt="Los tres tableros vistos de frente, con el registro inferior de volutas visible en cada uno" />
-  <figcaption>Los tres tableros vistos de frente — se aprecia con claridad el registro ornamental inferior de volutas en cada panel.</figcaption>
+  <figcaption>Los tres tableros vistos de frente – se aprecia con claridad el registro ornamental inferior de volutas en cada panel.</figcaption>
 </figure>
 
 <figure>

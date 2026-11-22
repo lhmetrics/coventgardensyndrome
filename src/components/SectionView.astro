@@ -20,14 +20,14 @@ const t = ui[lang];
 const section = sections[sectionId][lang];
 
 // Sections exist in every locale (fixed taxonomy), so hreflang alternates
-// can always deep-link — no availability check needed like on story pages.
+// can always deep-link – no availability check needed like on story pages.
 const alternates = {
   ...Object.fromEntries(locales.map((l) => [l, getSectionPath(l, sectionId)])),
   'x-default': getSectionPath('en', sectionId),
 };
 
 // Default matches the homepage policy (oldest first). A CSS-only :target
-// toggle (no JS) lets the reader flip to newest-first — both orders are
+// toggle (no JS) lets the reader flip to newest-first – both orders are
 // pre-rendered and only one is shown at a time, see the .grid-* rules below.
 const storiesOldestFirst = (
   await getCollection(
@@ -52,7 +52,7 @@ function renderCard(story: (typeof storiesOldestFirst)[number]) {
 ---
 
 <Layout
-  title={`${section.title} — Covent Garden Syndrome`}
+  title={`${section.title} – Covent Garden Syndrome`}
   description={section.description}
   lang={lang}
   alternates={alternates}

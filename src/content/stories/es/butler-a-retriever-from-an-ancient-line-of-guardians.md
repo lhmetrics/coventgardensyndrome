@@ -40,7 +40,7 @@ Cuando llega la noche cerrada, la zona lavanda se convierte en un club privado. 
   <figcaption>Un Hamlet de peluche en la estantería: Butler medita sobre lo eterno ante un viejo tomo y una calavera de bronce coronada, rodeado de manzanas verdes y de un dorado mundo al otro lado del espejo.</figcaption>
 </figure>
 
-A veces, cuando la noche pide un ánimo especial y la luna se asoma por la ventana alta, los caballeros sacan unas copitas diminutas y frágiles de cristal de Murano de un azul intenso y sirven en ellas una gota de licor aromático de botellas de colección que guardan historias de países lejanos. Dan un sorbito minúsculo, puramente simbólico —más aspirando el aroma de los recuerdos que bebiendo—, picotean los dulces que mamá les trae de todo el mundo y meditan sobre lo eterno contemplando viejos infolios.
+A veces, cuando la noche pide un ánimo especial y la luna se asoma por la ventana alta, los caballeros sacan unas copitas diminutas y frágiles de cristal de Murano de un azul intenso y sirven en ellas una gota de licor aromático de botellas de colección que guardan historias de países lejanos. Dan un sorbito minúsculo, puramente simbólico –más aspirando el aroma de los recuerdos que bebiendo–, picotean los dulces que mamá les trae de todo el mundo y meditan sobre lo eterno contemplando viejos infolios.
 
 Tanto el Oso como Butler conocen el gran secreto de este lugar: saben cuánto los quiere mamá, a ellos, sus hijos de peluche. Porque, por muy mayores que se hagan las personas y por muy lejos que vuelen los aviones, todo ser humano necesita hasta su último día tres cosas: una infancia feliz, una orilla firme y segura, y una paz absoluta e inquebrantable.
 

@@ -8,11 +8,11 @@ section: stamps-time
 
 ## Part 2. Surgery on the Hood: From a «Dirty Rebellion» to the Maker’s Mark
 
-Once the main trunk case of the 1774 Liège clock had been fully cleaned and conserved, our restoration dock moved on to the most complex and intriguing part — the removable wooden hood (or "bonnet") that protects the clock's movement. This is where the classic, textbook methods ran straight into harsh practice, forcing us to open a joint research office with the AI **Gemini**.
+Once the main trunk case of the 1774 Liège clock had been fully cleaned and conserved, our restoration dock moved on to the most complex and intriguing part – the removable wooden hood (or "bonnet") that protects the clock's movement. This is where the classic, textbook methods ran straight into harsh practice, forcing us to open a joint research office with the AI **Gemini**.
 
-Below is the step-by-step operating protocol for conserving the upper assembly — the process that turned the non-standard anomalies of 250-year-old wood into a triumph of engineering thought.
+Below is the step-by-step operating protocol for conserving the upper assembly – the process that turned the non-standard anomalies of 250-year-old wood into a triumph of engineering thought.
 
-> A reminder to readers: we still make no claim to academic expertise — we're simply sharing clean, hands-on experience, step-by-step techniques, and a few secrets of materials science.
+> A reminder to readers: we still make no claim to academic expertise – we're simply sharing clean, hands-on experience, step-by-step techniques, and a few secrets of materials science.
 
 ### 🛠️ Materials and Tools on the Workbench
 
@@ -26,9 +26,9 @@ For manipulations on this scale, our entire four-meter table was converted into 
 
 Starting to clean the black walnut hood, we ran into an unexpected problem: the natural beeswax that had gone on so perfectly over the main case suddenly began to bubble up and push out a sticky black crust.
 
-> Gemini's engineering explanation — why was the grime bubbling up? The hood is the highest point of the clock. For 250 years, warm air, hearth soot, candle residue, and the movement's own oil vapors rose there unimpeded. This acidic crust had sealed the wood's pores solid. The fresh wax (thanks to its turpentine base) acted as a powerful softener: it broke apart the molecular bonds of a century of grime and began pushing it up out of the depths of the cellulose to the surface.
+> Gemini's engineering explanation – why was the grime bubbling up? The hood is the highest point of the clock. For 250 years, warm air, hearth soot, candle residue, and the movement's own oil vapors rose there unimpeded. This acidic crust had sealed the wood's pores solid. The fresh wax (thanks to its turpentine base) acted as a powerful softener: it broke apart the molecular bonds of a century of grime and began pushing it up out of the depths of the cellulose to the surface.
 
-At the same time, the old glazing putty was falling apart — it turned to dust at the slightest touch. To save the extremely thin, "wavy" hand-blown glass, we used a chemical-compress method: the rebates were soaked generously in white spirit, wrapped tightly in cling film for half an hour, then locally warmed with a hair dryer. The old linseed-oil putty softened, letting us fully clean out the grooves with toothpicks.
+At the same time, the old glazing putty was falling apart – it turned to dust at the slightest touch. To save the extremely thin, "wavy" hand-blown glass, we used a chemical-compress method: the rebates were soaked generously in white spirit, wrapped tightly in cling film for half an hour, then locally warmed with a hair dryer. The old linseed-oil putty softened, letting us fully clean out the grooves with toothpicks.
 
 <figure>
   <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-2.jpg" alt="The hood with its glass door open, showing the oak after the «dirty rebellion» grime was cleared" />
@@ -36,8 +36,8 @@ At the same time, the old glazing putty was falling apart — it turned to dust 
 </figure>
 
 <figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-3.jpg" alt="A macro shot of the rebate — the old glazing putty crumbling at the slightest touch" />
-  <figcaption>A macro shot of the rebate — the old glazing putty crumbling at the slightest touch</figcaption>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-3.jpg" alt="A macro shot of the rebate – the old glazing putty crumbling at the slightest touch" />
+  <figcaption>A macro shot of the rebate – the old glazing putty crumbling at the slightest touch</figcaption>
 </figure>
 
 <figure>
@@ -52,11 +52,11 @@ At the same time, the old glazing putty was falling apart — it turned to dust 
 
 ### 🛑 A Strict Taboo on WD-40 and Penetrating Oils
 
-Using liquid machine oils or products like WD-40 anywhere near the wooden frame is categorically forbidden. The ancient, dry cellulose will soak them up instantly and all the way through. The wood's adhesion will be destroyed forever — no glue, no kintsugi adhesive, no fresh glazing putty will ever grip those greasy rebates again.
+Using liquid machine oils or products like WD-40 anywhere near the wooden frame is categorically forbidden. The ancient, dry cellulose will soak them up instantly and all the way through. The wood's adhesion will be destroyed forever – no glue, no kintsugi adhesive, no fresh glazing putty will ever grip those greasy rebates again.
 
 ### 🩸 Discovering the Red Lead, and the Jeweler's Pins
 
-Under the layer of putty, a bright red line was revealed — iron red lead over natural linseed oil. Old craftsmen used it as a powerful antiseptic, waterproofing primer to protect the frame from condensation. The glass itself was held in place by tiny headless forged pins. To avoid crushing the fragile edge with a pair of pliers, the pins were extracted with tweezers, strictly parallel to the plane of the glass, after the wood had been softened with alcohol.
+Under the layer of putty, a bright red line was revealed – iron red lead over natural linseed oil. Old craftsmen used it as a powerful antiseptic, waterproofing primer to protect the frame from condensation. The glass itself was held in place by tiny headless forged pins. To avoid crushing the fragile edge with a pair of pliers, the pins were extracted with tweezers, strictly parallel to the plane of the glass, after the wood had been softened with alcohol.
 
 <figure>
   <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-6.jpg" alt="The hood door with its glass still in place, whole, before removal" />
@@ -94,11 +94,11 @@ Under the layer of putty, a bright red line was revealed — iron red lead over 
 </figure>
 
 <figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-13.jpg" alt="The removed hand-blown glass itself — its characteristic waviness is visible" />
-  <figcaption>The removed hand-blown glass itself — its characteristic waviness is visible</figcaption>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-13.jpg" alt="The removed hand-blown glass itself – its characteristic waviness is visible" />
+  <figcaption>The removed hand-blown glass itself – its characteristic waviness is visible</figcaption>
 </figure>
 
-### Stage 2: Regenerating the Latch — the Sealing-Wax Method
+### Stage 2: Regenerating the Latch – the Sealing-Wax Method
 
 The hood door's original lock was long gone, and the turned mushroom-shaped handle was jammed solid. After introducing a drop of oil into the brass bushing, we carefully pressed out the handle's faceted, forged steel pin, working along the direction of its facets.
 
@@ -124,13 +124,13 @@ As the base for a new locking tongue, we chose a rigid stainless-steel hanger pl
 
 To fix it in place, we used a two-part cold-weld epoxy (a grey-maroon putty). Mixing the compound strictly on a plastic blister pack, we packed it around the forged facets and shaped it into a neat collar.
 
-While the compound was still wet, a bit of pure artistic modeling came into play: the collar was generously and carefully dusted with velvety walnut powder, and an ordinary fine needle was used to press the author's personal mark straight into the metal — an upside-down bird (our avatar), meant to add to this clock's story for future generations of restorers.
+While the compound was still wet, a bit of pure artistic modeling came into play: the collar was generously and carefully dusted with velvety walnut powder, and an ordinary fine needle was used to press the author's personal mark straight into the metal – an upside-down bird (our avatar), meant to add to this clock's story for future generations of restorers.
 
-In the final stage, the assembly was coated with Negro Betun Judaico bitumen from *Mongay* and carefully wiped with a soft rag. The bitumen settled permanently into the pores of the walnut powder and the grooves of the stamp — the bright steel instantly turned into brutal, forged 18th-century cast iron, fitting perfectly into the case's wooden groove.
+In the final stage, the assembly was coated with Negro Betun Judaico bitumen from *Mongay* and carefully wiped with a soft rag. The bitumen settled permanently into the pores of the walnut powder and the grooves of the stamp – the bright steel instantly turned into brutal, forged 18th-century cast iron, fitting perfectly into the case's wooden groove.
 
 <figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-14.jpg" alt="The hood door with its brass mushroom handle and the lost lock — the starting condition" />
-  <figcaption>The hood door with its brass mushroom handle and the lost lock — the starting condition</figcaption>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-14.jpg" alt="The hood door with its brass mushroom handle and the lost lock – the starting condition" />
+  <figcaption>The hood door with its brass mushroom handle and the lost lock – the starting condition</figcaption>
 </figure>
 
 <figure>
@@ -149,8 +149,8 @@ In the final stage, the assembly was coated with Negro Betun Judaico bitumen fro
 </figure>
 
 <figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-18.jpg" alt="A close-up of the fitting — the square hole matches the pin's facets exactly" />
-  <figcaption>A close-up of the fitting — the square hole matches the pin's facets exactly</figcaption>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-18.jpg" alt="A close-up of the fitting – the square hole matches the pin's facets exactly" />
+  <figcaption>A close-up of the fitting – the square hole matches the pin's facets exactly</figcaption>
 </figure>
 
 <figure>
@@ -174,8 +174,8 @@ In the final stage, the assembly was coated with Negro Betun Judaico bitumen fro
 </figure>
 
 <figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-23.jpg" alt="The finished latch after the bitumen coating — the steel has become forged cast iron" />
-  <figcaption>The finished latch after the bitumen coating — the steel has become forged cast iron</figcaption>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-23.jpg" alt="The finished latch after the bitumen coating – the steel has become forged cast iron" />
+  <figcaption>The finished latch after the bitumen coating – the steel has become forged cast iron</figcaption>
 </figure>
 
 <figure>
@@ -185,13 +185,13 @@ In the final stage, the assembly was coated with Negro Betun Judaico bitumen fro
 
 ### Stage 3: Conserving the Roof's Paper Shell
 
-The true revelation turned out to be the hood's roof: lying over the shrunken boards was a multi-layered, time-darkened antique parchment, held in place by a century-old forged hook grown into the wood. The wood beneath it had shrunk, forming huge gaps straight through. Removing the paper was out of the question — that would mean a complete loss of provenance. So we used a museum-grade method: internal kraft-paper lamination (implanting a sublayer).
+The true revelation turned out to be the hood's roof: lying over the shrunken boards was a multi-layered, time-darkened antique parchment, held in place by a century-old forged hook grown into the wood. The wood beneath it had shrunk, forming huge gaps straight through. Removing the paper was out of the question – that would mean a complete loss of provenance. So we used a museum-grade method: internal kraft-paper lamination (implanting a sublayer).
 
 > A restoration lifehack: how to flatten roll kraft paper. Heavy roll kraft paper has a strong mechanical "memory" and wants to curl back up. To release its internal factory tension, the paper is fully soaked in water, flattened out, and dried under a light sheet press. The cellulose fully relaxes, turning into a stable, flat canvas.
 
 <figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-25.jpg" alt="An overall view of the hood's roof with its multi-layered, darkened parchment — the starting condition" />
-  <figcaption>An overall view of the hood's roof with its multi-layered, darkened parchment — the starting condition</figcaption>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-25.jpg" alt="An overall view of the hood's roof with its multi-layered, darkened parchment – the starting condition" />
+  <figcaption>An overall view of the hood's roof with its multi-layered, darkened parchment – the starting condition</figcaption>
 </figure>
 
 <figure>
@@ -200,13 +200,13 @@ The true revelation turned out to be the hood's roof: lying over the shrunken bo
 </figure>
 
 <figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-27.jpg" alt="The roll kraft paper in its natural, curled state — before flattening" />
-  <figcaption>The roll kraft paper in its natural, curled state — before flattening</figcaption>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-27.jpg" alt="The roll kraft paper in its natural, curled state – before flattening" />
+  <figcaption>The roll kraft paper in its natural, curled state – before flattening</figcaption>
 </figure>
 
 <figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-28.jpg" alt="The kraft paper after soaking and drying under a press — a stable, flat canvas" />
-  <figcaption>The kraft paper after soaking and drying under a press — a stable, flat canvas</figcaption>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-28.jpg" alt="The kraft paper after soaking and drying under a press – a stable, flat canvas" />
+  <figcaption>The kraft paper after soaking and drying under a press – a stable, flat canvas</figcaption>
 </figure>
 
 <figure>
@@ -230,8 +230,8 @@ The true revelation turned out to be the hood's roof: lying over the shrunken bo
 </figure>
 
 <figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-33.jpg" alt="The curved Dexter Steel chisel and the 2 ml syringe — the operation's main tools" />
-  <figcaption>The curved Dexter Steel chisel and the 2 ml syringe — the operation's main tools</figcaption>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-33.jpg" alt="The curved Dexter Steel chisel and the 2 ml syringe – the operation's main tools" />
+  <figcaption>The curved Dexter Steel chisel and the 2 ml syringe – the operation's main tools</figcaption>
 </figure>
 
 <figure>
@@ -260,13 +260,13 @@ To keep the glue from bubbling, it's critical to follow the order in which the c
 
 1. A thick, special PVA glue is placed into a dedicated container.
 2. Into it, a molecular water-based Lakeone Caoba (mahogany) tint is introduced. The mass is carefully worked with a flat No. 5 brush until it reaches the consistency of a uniform, cocoa-colored cream.
-3. Only into the finished emulsion is volatile isopropyl alcohol introduced (as a viscosity regulator). The alcohol acts as a penetrating carrier — it dissolves old grime and ingrained glue and prepares the paper without raising the wood grain.
+3. Only into the finished emulsion is volatile isopropyl alcohol introduced (as a viscosity regulator). The alcohol acts as a penetrating carrier – it dissolves old grime and ingrained glue and prepares the paper without raising the wood grain.
 
 > A materials-science law for this piece: using physical fillers (such as wood dust) in the syringe on the first layer is a mistake. Coarse, dry cellulose particles act like tiny sponges: they instantly drink up the free moisture and alcohol out of the PVA, triggering an immediate loss of flow, clumping, and the appearance of air pockets.
 
 <figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-44.jpg" alt="The Lakeone stain tins used in the work — No. 2 Roble Oscuro and Caoba" />
-  <figcaption>The Lakeone stain tins used in the work — No. 2 Roble Oscuro and Caoba</figcaption>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-44.jpg" alt="The Lakeone stain tins used in the work – No. 2 Roble Oscuro and Caoba" />
+  <figcaption>The Lakeone stain tins used in the work – No. 2 Roble Oscuro and Caoba</figcaption>
 </figure>
 
 <figure>
@@ -285,8 +285,8 @@ To keep the glue from bubbling, it's critical to follow the order in which the c
 </figure>
 
 <figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-48.jpg" alt="All three ingredients together — Ceys Cola Blanca glue, Lakeone stain, and alcohol — next to the finished mix" />
-  <figcaption>All three ingredients together — Ceys Cola Blanca glue, Lakeone stain, and alcohol — next to the finished mix</figcaption>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-48.jpg" alt="All three ingredients together – Ceys Cola Blanca glue, Lakeone stain, and alcohol – next to the finished mix" />
+  <figcaption>All three ingredients together – Ceys Cola Blanca glue, Lakeone stain, and alcohol – next to the finished mix</figcaption>
 </figure>
 
 <figure>
@@ -301,7 +301,7 @@ To keep the glue from bubbling, it's critical to follow the order in which the c
 1. **Introducing the backing:** the flattened kraft paper is carefully fed in underneath the raised, torn edges of the original paper, fully covering the through-gaps in the shrunken wood from the inside.
 2. **The medical protocol for applying the glue:** a compact 2 ml syringe is used to deliver the compound. Its needle gives jeweler-level maneuverability in narrow gaps. Since dry wood absorbs the compound very intensely on first contact, the glue is applied strictly in two layers.
 
-> Syringe safety technique: when working with the syringe, air must be bled off constantly, and the needle's tip wiped regularly with smooth microfiber — exactly as you would before giving someone an injection. This iron rule prevents sudden glue "spurts" and keeps air bubbles from being forced in under the parchment.
+> Syringe safety technique: when working with the syringe, air must be bled off constantly, and the needle's tip wiped regularly with smooth microfiber – exactly as you would before giving someone an injection. This iron rule prevents sudden glue "spurts" and keeps air bubbles from being forced in under the parchment.
 
 <figure>
   <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-50.jpg" alt="A hand lifting the edge of the antique paper, the syringe needle with a drop of the compound ready to inject" />
@@ -338,23 +338,23 @@ To keep the glue from bubbling, it's critical to follow the order in which the c
 
 1. **The final cut:** the excess outer edges of the kraft paper are trimmed away with a Dexter blade, with the paper gently tensioned toward you, strictly along the contour of the oak frame. Cutting paper directly over the gaps themselves is absolutely forbidden!
 
-Working with the alcohol requires patience and a step-by-step approach, since the alcohol evaporates rapidly, changing the adhesion as it goes. We don't touch the small wrinkles left by the damp cellulose by hand — the alcohol drives the evaporation process, and as it dries, the kraft membrane will tighten on its own, like the skin of a drum.
+Working with the alcohol requires patience and a step-by-step approach, since the alcohol evaporates rapidly, changing the adhesion as it goes. We don't touch the small wrinkles left by the damp cellulose by hand – the alcohol drives the evaporation process, and as it dries, the kraft membrane will tighten on its own, like the skin of a drum.
 
 <figure>
   <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-43.jpg" alt="An overall view of the finished hood, with its wooden frame" />
   <figcaption>An overall view of the finished hood, with its wooden frame</figcaption>
 </figure>
 
-By finishing the kraft paper, while still damp with alcohol, with glazed patches of Lakeone water-based stains No. 2 and No. 14, we achieve a perfect visual blend between the layers. The difference in color is obvious, but it isn't a flaw — it's honest, transparent museum-grade restoration.
+By finishing the kraft paper, while still damp with alcohol, with glazed patches of Lakeone water-based stains No. 2 and No. 14, we achieve a perfect visual blend between the layers. The difference in color is obvious, but it isn't a flaw – it's honest, transparent museum-grade restoration.
 
 <figure>
   <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-51.jpg" alt="The soot-blackened paper shell of the hood's roof, overall view against the leather armchair and the oriental rug" />
-  <figcaption>The soot-blackened paper shell of the hood's roof — overall view against the leather armchair and the oriental rug.</figcaption>
+  <figcaption>The soot-blackened paper shell of the hood's roof – overall view against the leather armchair and the oriental rug.</figcaption>
 </figure>
 
 <figure>
   <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-52.jpg" alt="The same roof panel brought out onto the terrace tiles for a final photo record" />
-  <figcaption>The same panel brought out to the terrace — a final photo record in daylight.</figcaption>
+  <figcaption>The same panel brought out to the terrace – a final photo record in daylight.</figcaption>
 </figure>
 
 <figure>
@@ -374,18 +374,18 @@ By finishing the kraft paper, while still damp with alcohol, with glazed patches
 
 <figure>
   <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-56.jpg" alt="Close-up of the forged metal anchor hook at the edge of the roof shell" />
-  <figcaption>The very same anchor hook in close-up — a forged metal pin right at the edge of the shell.</figcaption>
+  <figcaption>The very same anchor hook in close-up – a forged metal pin right at the edge of the shell.</figcaption>
 </figure>
 
 ### ⚓ The final discovery: a genuine Baroque safety anchor
 
-The hook on the hood's roof is an original Baroque safety anchor — an anti-tip-over system!
+The hook on the hood's roof is an original Baroque safety anchor – an anti-tip-over system!
 
 Let's break down the physics and the harsh reality of the 18th century: why, without this hook, the Paulissen clock would have been doomed.
 
 1. **A colossal shift in the center of gravity:** a Liège-school grandfather clock is a very narrow, tall, slender oak case. And yet an enormous mass is packed right at the very top, in the hood: a heavy brass movement, a bronze bell, and two hefty cast-iron weights that, once wound, hang right under the roof! The top of the clock becomes critically heavy.
 2. **The impulse of the striking train:** when the right-hand train triggers the strike, the heavy hammer starts pounding the bell with real force. This produces cyclical micro-vibration and sway.
-3. **An everyday hazard:** all it takes is for someone in the house to brush the case with a shoulder, slam a heavy door, or for the living room to break into an energetic dance — and this two-meter giant, driven by its top-heavy weight, would instantly topple forward, burying both the priceless movement and the delicate blown glass of the door beneath it.
+3. **An everyday hazard:** all it takes is for someone in the house to brush the case with a shoulder, slam a heavy door, or for the living room to break into an energetic dance – and this two-meter giant, driven by its top-heavy weight, would instantly topple forward, burying both the priceless movement and the delicate blown glass of the door beneath it.
 
 **How it worked:** the old masters would drive a stout forged spike or chain into the wall of the room, and this hook on the roof of the Paulissen's hood moored the clock firmly to the brick or stone masonry of the house. It's an eternal Baroque safety belt! The fact that we found it still fixed in place, grown right into our weathered roof shell, is an enormous stroke of luck for the clock's provenance.
 

@@ -8,9 +8,9 @@ section: interior-theater
 
 ## Theater of Light and Shadow (In Place of a Foreword)
 
-Every Home is a living, breathing organism, inseparably bound to us. It doesn't just shelter us from the weather — it gives us strength, inspiration, and enormous creative potential, whatever it is we do.
+Every Home is a living, breathing organism, inseparably bound to us. It doesn't just shelter us from the weather – it gives us strength, inspiration, and enormous creative potential, whatever it is we do.
 
-Over the course of a day, the sun comes into the Home. Here, it plays the role of the chief, invisible stage director. Passing through the windows, its rays create their own unrepeatable, minute-by-minute play of light and shadow: they place accents, pull hidden meanings out of the darkness, or, just as often, gently conceal entire scenes. The sun seems to appoint a single object as the star of the interior's stage — for just a few moments, until the ray shifts.
+Over the course of a day, the sun comes into the Home. Here, it plays the role of the chief, invisible stage director. Passing through the windows, its rays create their own unrepeatable, minute-by-minute play of light and shadow: they place accents, pull hidden meanings out of the darkness, or, just as often, gently conceal entire scenes. The sun seems to appoint a single object as the star of the interior's stage – for just a few moments, until the ray shifts.
 
 Mirrors and glossy surfaces are drawn into this subtle drama too, doubling the space and creating illusions and unexpected reflections. Objects enter into a silent dialogue with one another, swapping roles and moods.
 

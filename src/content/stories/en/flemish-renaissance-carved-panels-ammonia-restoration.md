@@ -1,18 +1,18 @@
 ---
 title: "Washing Away Centuries of Soot: A Flemish Renaissance, an Ammonia Explosion, and the Secrets of Oak Relief Carvings"
 date: 2026-10-14T20:00:00Z
-excerpt: "A restoration chronicle about saving three carved oak Flemish Renaissance panels and their cornice — how an ammonia solution dissolved a century-old sulfur crust, and what the carvings’ art-historical analysis revealed about their Flemish makers."
+excerpt: "A restoration chronicle about saving three carved oak Flemish Renaissance panels and their cornice – how an ammonia solution dissolved a century-old sulfur crust, and what the carvings’ art-historical analysis revealed about their Flemish makers."
 cover: "/photos/flemish-renaissance-carved-panels-ammonia-restoration.jpg"
 section: stamps-time
 ---
 
 ## Washing Away Centuries of Soot: A Flemish Renaissance, an Ammonia Explosion, and the Secrets of Oak Relief Carvings
 
-Sometimes genuine treasures from bygone eras reach us as scattered fragments, buried under layers of merciless time and grime. Our new restoration chronicle is the story of rescuing three carved oak panels and the cornice that once crowned them. They were once a single whole — a monumental Baroque cabinet — but time only spared the doors. They came to us in a dismal, alarming state: the wood was completely sealed under a dense, opaque, coal-black sulfur crust.
+Sometimes genuine treasures from bygone eras reach us as scattered fragments, buried under layers of merciless time and grime. Our new restoration chronicle is the story of rescuing three carved oak panels and the cornice that once crowned them. They were once a single whole – a monumental Baroque cabinet – but time only spared the doors. They came to us in a dismal, alarming state: the wood was completely sealed under a dense, opaque, coal-black sulfur crust.
 
 Below is our critical art-historical analysis and the radical but victorious chemical cleaning protocol that returned the masterpiece to its original splendor.
 
-> A reminder for readers: we still don't claim academic expertise — we're simply sharing hands-on, tangible experience, step-by-step techniques, and material-science secrets.
+> A reminder for readers: we still don't claim academic expertise – we're simply sharing hands-on, tangible experience, step-by-step techniques, and material-science secrets.
 
 ### Chapter 1. Battling the sulfur shell: a chemical breakthrough
 
@@ -54,7 +54,7 @@ The panels' architecture follows the classic canons of a three-part Baroque faca
   <figcaption>A close-up of the central mascaron. A bearded man's head in a round medallion, surrounded by symmetrical acanthus scrolls. The porous, clean texture of the old oak is visible.</figcaption>
 </figure>
 
-* **Profiles of warriors and thinkers:** the side panels form a pair of cameo medallions. The left panel depicts a warrior in a Roman helmet with a visor; the right, a bearded sage in a deep, hood-like cowl. Above them, lavish cornucopias are carved, filled with pomegranates and pears — symbols of eternal life and the workshop's prosperity.
+* **Profiles of warriors and thinkers:** the side panels form a pair of cameo medallions. The left panel depicts a warrior in a Roman helmet with a visor; the right, a bearded sage in a deep, hood-like cowl. Above them, lavish cornucopias are carved, filled with pomegranates and pears – symbols of eternal life and the workshop's prosperity.
 
 <figure>
   <img src="/photos/flemish-renaissance-carved-panels-ammonia-restoration-4.jpg" alt="The warrior's profile in a helmet on the left panel, set within an oval medallion with a fruit garland above it" />
@@ -63,7 +63,7 @@ The panels' architecture follows the classic canons of a three-part Baroque faca
 
 <figure>
   <img src="/photos/flemish-renaissance-carved-panels-ammonia-restoration-5.jpg" alt="An extreme close-up of the helmeted warrior's face, showing the fine detail of his beard and features" />
-  <figcaption>The same warrior in extreme close-up — the jeweler-fine detail of the beard, facial folds, and metal helmet is visible.</figcaption>
+  <figcaption>The same warrior in extreme close-up – the jeweler-fine detail of the beard, facial folds, and metal helmet is visible.</figcaption>
 </figure>
 
 ### Chapter 4. An engineering challenge: a radial crack through time
@@ -77,12 +77,12 @@ Time spares not even oak. On the right panel, running right through the left win
 
 <figure>
   <img src="/photos/flemish-renaissance-carved-panels-ammonia-restoration-7.jpg" alt="Extreme close-up of the central mascaron with a fine shrinkage crack near the edge of the panel" />
-  <figcaption>The central mascaron in extreme close-up — near the panel's edge, another, finer shrinkage crack is visible.</figcaption>
+  <figcaption>The central mascaron in extreme close-up – near the panel's edge, another, finer shrinkage crack is visible.</figcaption>
 </figure>
 
 <figure>
   <img src="/photos/flemish-renaissance-carved-panels-ammonia-restoration-8.jpg" alt="All three panels seen straight on, showing the lower scroll-ornament register on each one" />
-  <figcaption>All three panels seen straight on — the lower scroll ornament register on each panel is clearly visible.</figcaption>
+  <figcaption>All three panels seen straight on – the lower scroll ornament register on each panel is clearly visible.</figcaption>
 </figure>
 
 <figure>

@@ -1,7 +1,7 @@
 ---
 title: "El oso que sabe demasiado"
 date: 2026-09-10
-excerpt: "El Oso está en su vigésimo tercer año — recuerda este Hogar mejor que nadie."
+excerpt: "El Oso está en su vigésimo tercer año – recuerda este Hogar mejor que nadie."
 cover: "/photos/the-bear-who-knows-too-much.jpg"
 section: night-chronicles
 ---
@@ -26,4 +26,4 @@ Ahora su paz la vigila la tercera y última de las perras, y su extraño compañ
 
 ![El Oso y la monita Dolce sentados juntos en la sala de la Casa](/photos/the-bear-who-knows-too-much-2.jpg)
 
-El Oso se sienta en su chaise longue de lavanda, pasando las páginas de un volumen pesado, mira el mar más allá de la ventana, mira a Mamá, más sabia con los años — todavía enérgica, todavía veloz, haciendo que todo a su alrededor se mueva —, y a Papá, que se ha convertido en un Faro firme y tranquilo para ese mar embravecido que es Mamá. El Oso mira al chico ya convertido en hombre y piensa que la verdadera historia del Hogar no se escribe en los aparatos, sino aquí mismo: en la calidez de las habitaciones de lavanda, en el murmullo de las olas y en los corazones de las personas que saben amar con tanta fuerza y tanta fidelidad.
+El Oso se sienta en su chaise longue de lavanda, pasando las páginas de un volumen pesado, mira el mar más allá de la ventana, mira a Mamá, más sabia con los años – todavía enérgica, todavía veloz, haciendo que todo a su alrededor se mueva –, y a Papá, que se ha convertido en un Faro firme y tranquilo para ese mar embravecido que es Mamá. El Oso mira al chico ya convertido en hombre y piensa que la verdadera historia del Hogar no se escribe en los aparatos, sino aquí mismo: en la calidez de las habitaciones de lavanda, en el murmullo de las olas y en los corazones de las personas que saben amar con tanta fuerza y tanta fidelidad.

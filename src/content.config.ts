@@ -7,7 +7,7 @@ const stories = defineCollection({
     pattern: '**/*.md',
     base: './src/content/stories',
     // Story filenames ARE the URL slug (lowercase-kebab-case, derived from
-    // the title, e.g. "the-bear-who-knows-too-much.md" — see project memory
+    // the title, e.g. "the-bear-who-knows-too-much.md" – see project memory
     // "story-slug-convention"). Use the filename as-is (still prefixed by
     // its locale folder, e.g. "en/the-bear-who-knows-too-much") instead of
     // Astro's default github-slugger id generation, so renaming a file is
@@ -25,16 +25,16 @@ const stories = defineCollection({
     cover: z.string().optional(),
     // CSS object-position for the cover photo when it's cropped to the
     // homepage/section card's fixed 4:3 thumbnail (src/components/
-    // StoryCard.astro) — e.g. "center 15%" to keep a subject's head from
+    // StoryCard.astro) – e.g. "center 15%" to keep a subject's head from
     // being cut off by the default center crop. Has no effect on the full,
     // uncropped cover shown at the top of the story page itself.
     coverPosition: z.string().optional(),
     // Which of the site's recurring sections (src/i18n/sections.ts) this
-    // story belongs to. Optional and gradual by design — sections fill in
+    // story belongs to. Optional and gradual by design – sections fill in
     // over time, and older/miscellaneous stories may stay unsectioned.
     section: z.enum(sectionIds).optional(),
     // Optional swipeable photo gallery, rendered at the end of the post
-    // (src/components/Gallery.astro) — a reusable block for posts with a
+    // (src/components/Gallery.astro) – a reusable block for posts with a
     // handful of extra photos that don't need individual placement in the
     // body text. `alt` is per-locale like everything else in this file.
     gallery: z

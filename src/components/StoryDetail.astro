@@ -26,7 +26,7 @@ const formattedDate = story.data.date.toLocaleDateString(localeTags[lang], {
   year: 'numeric',
 });
 
-// Prev/next chapter nav: scoped to the current story's own section — each
+// Prev/next chapter nav: scoped to the current story's own section – each
 // section reads like its own book, so chapters don't hop between sections
 // (Elena's call, discussed with her spouse). A sectionless story has no
 // "book" to walk, so it gets no chapter nav at all. Ordering matches the
@@ -54,7 +54,7 @@ const slug = story.id.slice(lang.length + 1);
 const allSlugs = await getCollection('stories');
 const availableLocales = locales.filter((l) => allSlugs.some((s) => s.id === `${l}/${slug}`));
 
-// hreflang alternates for <head> and (via the sitemap) search engines —
+// hreflang alternates for <head> and (via the sitemap) search engines –
 // only the locales this story actually has a translation in.
 const alternates = Object.fromEntries(availableLocales.map((l) => [l, getStoryPath(l, slug)]));
 if (availableLocales.includes('en')) {
@@ -63,7 +63,7 @@ if (availableLocales.includes('en')) {
 ---
 
 <Layout
-  title={`${story.data.title} — Covent Garden Syndrome`}
+  title={`${story.data.title} – Covent Garden Syndrome`}
   description={story.data.excerpt}
   lang={lang}
   alternates={alternates}
@@ -182,7 +182,7 @@ if (availableLocales.includes('en')) {
     width: 100%;
     margin: 2em 0;
     border: 1px solid var(--rule);
-    /* Tap-or-hover to enlarge: no JS needed — :hover also fires on tap for
+    /* Tap-or-hover to enlarge: no JS needed – :hover also fires on tap for
        a plain (non-link) element on iOS/Android, so this doubles as a
        touch affordance. Scale is modest so it stays fully visible even on
        narrow phones (see the .prose overflow-x rule above). */

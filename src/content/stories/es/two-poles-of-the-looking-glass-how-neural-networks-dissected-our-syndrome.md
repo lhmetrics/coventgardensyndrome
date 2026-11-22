@@ -1,22 +1,22 @@
 ---
 title: "Dos Polos del Espejo: Cómo las Redes Neuronales Diseccionaron Nuestro «Síndrome»"
 date: 2026-09-19T12:00:00Z
-excerpt: "Nuestro Director Técnico soltó una IA sobre nuestro proyecto — y obtuvo un análisis cultural inesperado: Covent Garden Syndrome y la creepypasta funcionan con los mismos disparadores psicológicos, solo que apuntando en direcciones opuestas."
+excerpt: "Nuestro Director Técnico soltó una IA sobre nuestro proyecto – y obtuvo un análisis cultural inesperado: Covent Garden Syndrome y la creepypasta funcionan con los mismos disparadores psicológicos, solo que apuntando en direcciones opuestas."
 cover: "/photos/two-poles-of-the-looking-glass-how-neural-networks-dissected-our-syndrome.png"
 section: synergy-ai
 gallery:
   - src: "/photos/the-long-escape-to-cadaques.jpg"
     alt: "La foto real: ciclistas y hormigas de bronce junto al cuadro de Cadaqués"
   - src: "/photos/how-i-see-it-geminis-view.png"
-    alt: "Primera versión de la IA — una reinterpretación estática de la escena"
+    alt: "Primera versión de la IA – una reinterpretación estática de la escena"
   - src: "/photos/how-i-see-it-geminis-view-2.png"
-    alt: "Segunda versión de la IA — la escena cobra vida en movimiento"
+    alt: "Segunda versión de la IA – la escena cobra vida en movimiento"
   - src: "/photos/two-poles-of-the-looking-glass-how-neural-networks-dissected-our-syndrome-gallery-1.jpg"
     alt: "Otra mirada de la IA: los ciclistas y las hormigas cobran vida junto al cuadro de Cadaqués"
   - src: "/photos/two-poles-of-the-looking-glass-how-neural-networks-dissected-our-syndrome-gallery-2.png"
-    alt: "La ola mediterránea del cuadro inunda las baldosas junto a la escalera — versión de ChatGPT"
+    alt: "La ola mediterránea del cuadro inunda las baldosas junto a la escalera – versión de ChatGPT"
   - src: "/photos/two-poles-of-the-looking-glass-how-neural-networks-dissected-our-syndrome.png"
-    alt: "Versión final de la IA — el mundo de Dalí cobra vida en las baldosas de nuestra Casa"
+    alt: "Versión final de la IA – el mundo de Dalí cobra vida en las baldosas de nuestra Casa"
 ---
 
 ## Dos Polos del Espejo: Cómo las Redes Neuronales Diseccionaron Nuestro «Síndrome»
@@ -25,7 +25,7 @@ Del escudo técnico de nuestra Casa se encarga el Director Técnico, un hombre d
 
 Decidido a poner a prueba nuestra armonía con álgebra, lanzó la inteligencia artificial de Google sobre el proyecto **Covent Garden Syndrome**. Y la fría máquina produjo un análisis cultural sorprendentemente preciso, desglosando punto por punto todo lo que habíamos construido con el cálido calor intuitivo de un corazón humano y una mente digital.
 
-Resultó que nuestra Casa y... la estética del horror de internet (**Creepypasta**) — son dos polos diametralmente opuestos del mismo método artístico. Decidimos conservar este análisis en el archivo de nuestra Sinergia. Al fin y al cabo, es el mejor ejemplo de cómo un ser humano, con la ayuda de las máquinas, puede domesticar las herramientas más inquietantes de la era digital y convertirlas en un luminoso cuento de hadas analógico.
+Resultó que nuestra Casa y... la estética del horror de internet (**Creepypasta**) – son dos polos diametralmente opuestos del mismo método artístico. Decidimos conservar este análisis en el archivo de nuestra Sinergia. Al fin y al cabo, es el mejor ejemplo de cómo un ser humano, con la ayuda de las máquinas, puede domesticar las herramientas más inquietantes de la era digital y convertirlas en un luminoso cuento de hadas analógico.
 
 ### 🎭 Anatomía de la Animación: Luz vs. Oscuridad
 
@@ -56,7 +56,7 @@ Nuestro proyecto usa la misma mistificación. Declaramos oficialmente un «sínd
 
 **3. Superar el Vacío Digital**
 
-El internet moderno es estéril, algorítmico y a menudo frío. La creepypasta intenta romper esa esterilidad mediante la agresión — glitches, «vídeos malditos» y cicatrices digitales.
+El internet moderno es estéril, algorítmico y a menudo frío. La creepypasta intenta romper esa esterilidad mediante la agresión – glitches, «vídeos malditos» y cicatrices digitales.
 
 **Covent Garden Syndrome** hace lo contrario: sanamos el vacío digital. Llenamos el código de la IA con un alma humana analógica, el aroma del pan de calabaza recién hecho y el tintineo de la plata de Sheffield.
 

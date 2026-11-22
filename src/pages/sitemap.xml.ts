@@ -6,7 +6,7 @@ import { sectionIds } from '../i18n/sections';
 
 // Hand-rolled instead of @astrojs/sitemap: this site's i18n routing is
 // hand-rolled too (see repo CLAUDE.md), and a story doesn't necessarily
-// exist in all 3 locales — the stock integration's i18n option assumes
+// exist in all 3 locales – the stock integration's i18n option assumes
 // Astro's built-in i18n config, which this project doesn't use. Building
 // it directly off the same path helpers (src/i18n/paths.ts) and content
 // collection everything else uses keeps it guaranteed correct.
@@ -31,7 +31,7 @@ export const GET: APIRoute = async ({ site }) => {
   const today = new Date().toISOString().slice(0, 10);
   const entries: UrlEntry[] = [];
 
-  // Homepage — exists in every locale.
+  // Homepage – exists in every locale.
   const homeAlternates: Alternate[] = [
     ...locales.map((l) => ({ hreflang: l, href: abs(getHomePath(l)) })),
     { hreflang: 'x-default', href: abs(getHomePath('en')) },
@@ -40,7 +40,7 @@ export const GET: APIRoute = async ({ site }) => {
     entries.push({ loc: abs(getHomePath(l)), alternates: homeAlternates, lastmod: today });
   }
 
-  // Section pages — sections are a fixed taxonomy, present in every locale.
+  // Section pages – sections are a fixed taxonomy, present in every locale.
   for (const id of sectionIds) {
     const alternates: Alternate[] = [
       ...locales.map((l) => ({ hreflang: l, href: abs(getSectionPath(l, id)) })),
@@ -51,7 +51,7 @@ export const GET: APIRoute = async ({ site }) => {
     }
   }
 
-  // Story pages — grouped by slug, only across the locales that slug
+  // Story pages – grouped by slug, only across the locales that slug
   // actually has a translation in (a story need not exist in all 3).
   const stories = await getCollection('stories');
   const bySlug = new Map<string, { locale: Locale; date: Date }[]>();

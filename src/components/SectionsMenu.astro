@@ -1,6 +1,6 @@
 ---
 // Fixed burger icon (mirrors LangSwitcher's opposite corner) that opens a
-// CSS-only overlay listing all 6 site sections with a short description —
+// CSS-only overlay listing all 6 site sections with a short description –
 // the site's main discovery affordance for sections that don't have a spot
 // in the main nav yet. No client JS, matching the rest of the site.
 import { getCollection } from 'astro:content';
@@ -16,7 +16,7 @@ interface Props {
 const { lang } = Astro.props;
 const t = ui[lang];
 
-// Same per-section count logic as HomeView.astro's chip badges — kept
+// Same per-section count logic as HomeView.astro's chip badges – kept
 // here too since this menu is the one discovery surface shared by every
 // page (home, section, story), not just the homepage.
 const stories = await getCollection('stories', ({ id }) => id.startsWith(`${lang}/`));

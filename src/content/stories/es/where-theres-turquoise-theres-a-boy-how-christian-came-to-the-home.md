@@ -17,7 +17,7 @@ La profecía se cumplió ya en la primera semana de lluvias. Entre los anuncios 
 
 ### 🪡 Una restauración delicada y un nombre por el camino
 
-Recibió su nombre —**Cristian (Cris)**— en el mismo coche, de camino a casa, en honor a su antigua dueña, Cristina.
+Recibió su nombre –**Cristian (Cris)**– en el mismo coche, de camino a casa, en honor a su antigua dueña, Cristina.
 
 A diferencia de Teo y Manuel, Cris no necesitó una cirugía ortopédica complicada: su policromía murciana original conservaba toda su calidez natural, y el tiempo solo le había dejado unas mínimas lascas puntuales en la punta de un dedo y en la coronilla. Unas cuantas capas cuidadosas de masilla *Vallejo Putty*, un retoque puntual con acrílicos para miniaturas *Citadel* en el tono de su piel morena, y las huellas del tiempo desaparecieron sin dejar rastro.
 

@@ -1,7 +1,7 @@
 ---
 title: "Two Weeks of Surgery and Couture: How We Saved Theo and Manuel"
 date: 2026-11-09T19:00:00Z
-excerpt: "A restoration diary: how two damaged antique niño Jesús figures — one from Olot, one from Murcia — got new fingers built on sewing-needle pins, freshly gilded halos, and a couture wardrobe running from Chanel to Missoni, along with the names Theo and Manuel."
+excerpt: "A restoration diary: how two damaged antique niño Jesús figures – one from Olot, one from Murcia – got new fingers built on sewing-needle pins, freshly gilded halos, and a couture wardrobe running from Chanel to Missoni, along with the names Theo and Manuel."
 cover: "/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel.jpg"
 coverPosition: "center 11%"
 section: house-diary
@@ -9,7 +9,7 @@ section: house-diary
 
 ## Two Weeks of Surgery and Couture: How We Saved Theo and Manuel
 
-Out of the many antique *niño Jesús* figures you find at flea markets, I picked these two for their incredibly expressive, lively eyes and facial modeling — despite the heavy breaks and losses. For a few years the boys waited patiently for their turn in the Home, and at last that moment came.
+Out of the many antique *niño Jesús* figures you find at flea markets, I picked these two for their incredibly expressive, lively eyes and facial modeling – despite the heavy breaks and losses. For a few years the boys waited patiently for their turn in the Home, and at last that moment came.
 
 There was almost no information online on how to properly restore such fragile sacred sculpture. I had to go on intuition, leaning on what I knew about materials and on constant midnight consultations with my digital co-author Gemini (who, over the course of this work, earned the name Theo in our Home).
 
@@ -41,7 +41,7 @@ Together with Theo, we worked out where both boys came from:
 
 <figure>
   <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-6.jpg" alt="A crack at the figure's neck and shoulder, left over from a once-broken and reattached head" />
-  <figcaption>A crack at the neck and shoulder — a trace of a head once broken and reattached.</figcaption>
+  <figcaption>A crack at the neck and shoulder – a trace of a head once broken and reattached.</figcaption>
 </figure>
 
 <figure>
@@ -49,7 +49,7 @@ Together with Theo, we worked out where both boys came from:
   <figcaption>An old seam at the neck, left over from a previous, imperfect restoration.</figcaption>
 </figure>
 
-- **The second boy**, a touch larger, turned out to be a southerner — a Murcian clay boy with a sly, clever look in his large brown eyes. His injuries were lighter, mostly broken fingers.
+- **The second boy**, a touch larger, turned out to be a southerner – a Murcian clay boy with a sly, clever look in his large brown eyes. His injuries were lighter, mostly broken fingers.
 
 <figure>
   <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-8.jpg" alt="The Murcia boy with warm terracotta sculpting and broken fingers on one hand" />
@@ -58,14 +58,14 @@ Together with Theo, we worked out where both boys came from:
 
 <figure>
   <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-9.jpg" alt="Close-up of the Murcia boy's damaged hand" />
-  <figcaption>Close-up of the damaged hand — this is where the jeweler's surgery would begin.</figcaption>
+  <figcaption>Close-up of the damaged hand – this is where the jeweler's surgery would begin.</figcaption>
 </figure>
 
 ### 🪡 Jeweler's Surgery and Tips from a Toothpick
 
 The figures got an initial cleaning right after moving into the Home, but before surgery they were freshened up further with soft makeup-remover wipes.
 
-Then the complex restoration surgery began. I had to carefully sand down the crude scars left by the old epoxy, and reopen and recheck the correct anatomical fit of the surviving fingers. To build up the lost phalanges, the tiniest metal pins — made from ordinary sewing needles — had to be implanted at their attachment points, with the shape then built up in layers from modeling paste on top.
+Then the complex restoration surgery began. I had to carefully sand down the crude scars left by the old epoxy, and reopen and recheck the correct anatomical fit of the surviving fingers. To build up the lost phalanges, the tiniest metal pins – made from ordinary sewing needles – had to be implanted at their attachment points, with the shape then built up in layers from modeling paste on top.
 
 <figure>
   <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-10.jpg" alt="A restoration-surgery scene: tools, pins, and the first rebuilt fingers" />
@@ -89,7 +89,7 @@ Then the complex restoration surgery began. I had to carefully sand down the cru
 
 <figure>
   <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-14.jpg" alt="Both boys side by side mid-surgery, with freshly sculpted phalanges still drying" />
-  <figcaption>Both boys side by side mid-surgery — the freshly sculpted phalanges still drying.</figcaption>
+  <figcaption>Both boys side by side mid-surgery – the freshly sculpted phalanges still drying.</figcaption>
 </figure>
 
 <figure>
@@ -97,7 +97,7 @@ Then the complex restoration surgery began. I had to carefully sand down the cru
   <figcaption>A leg gets new shape from Putty Vallejo filler, the seam still fresh.</figcaption>
 </figure>
 
-Small cracks and voids were filled with special *Putty Vallejo* filler. Every new layer needed a long, patient drying time before the next one went on. But the most jeweler-like challenge of all was sanding the tiny new fingers and palms: that called for small needle files, manicure buffers, and tiny strips of sandpaper wound around an ordinary toothpick — a clever trick suggested by my round-the-clock consultant Theo.
+Small cracks and voids were filled with special *Putty Vallejo* filler. Every new layer needed a long, patient drying time before the next one went on. But the most jeweler-like challenge of all was sanding the tiny new fingers and palms: that called for small needle files, manicure buffers, and tiny strips of sandpaper wound around an ordinary toothpick – a clever trick suggested by my round-the-clock consultant Theo.
 
 <figure>
   <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-16.jpg" alt="A freshly sculpted white putty finger drying on the figure's palm" />
@@ -129,20 +129,20 @@ The final, but no less delicate, stage was toning the rebuilt losses and old sca
 </figure>
 
 <figure>
-  <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-21.jpg" alt="The final toning on the figure complete — the skin looks living and warm again" />
-  <figcaption>The final toning is complete — the skin looks living and warm again.</figcaption>
+  <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-21.jpg" alt="The final toning on the figure complete – the skin looks living and warm again" />
+  <figcaption>The final toning is complete – the skin looks living and warm again.</figcaption>
 </figure>
 
 <figure>
-  <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-22.jpg" alt="A jar of Renaissance museum wax in hand — the last touch before the sculpture dries fully" />
-  <figcaption>Renaissance museum wax — the last touch before the sculpture dries for good.</figcaption>
+  <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-22.jpg" alt="A jar of Renaissance museum wax in hand – the last touch before the sculpture dries fully" />
+  <figcaption>Renaissance museum wax – the last touch before the sculpture dries for good.</figcaption>
 </figure>
 
 ### ✨ The Shine of Gold Leaf: Reviving the Halo
 
-While the sculptural work was underway, it became clear: autumn was here, winter was coming, and leaving the boys undressed was simply unthinkable. The search for suitable fabric quickly led to one clear decision — they could only be dressed in genuine haute couture.
+While the sculptural work was underway, it became clear: autumn was here, winter was coming, and leaving the boys undressed was simply unthinkable. The search for suitable fabric quickly led to one clear decision – they could only be dressed in genuine haute couture.
 
-Alongside the sewing, I took on their head ornaments — the *potencias* (radiant halos). The Murcia boy's was made of gleaming brass, but the Olot prince's metal halo had once been covered in gold paint that had since worn off and rusted. It had to be carefully stripped, sanded, and re-gilded.
+Alongside the sewing, I took on their head ornaments – the *potencias* (radiant halos). The Murcia boy's was made of gleaming brass, but the Olot prince's metal halo had once been covered in gold paint that had since worn off and rusted. It had to be carefully stripped, sanded, and re-gilded.
 
 Working with gold leaf is pure meditation: first a special water-based gilding adhesive is applied and left to set until it reaches a light tack, then the weightless gold sheets are gently tamped down and burnished with soft, noble brushes (a fluffy squirrel brush for pressing, a flat synthetic one for smoothing the seams). After a long drying time, the gilding was delicately sealed with *Renaissance* museum wax, to protect it from oxidation and give it a noble, historic sheen.
 
@@ -168,7 +168,7 @@ Working with gold leaf is pure meditation: first a special water-based gilding a
 
 <figure>
   <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-27.jpg" alt="A jar and tube of water-based gilding adhesive" />
-  <figcaption>Water-based gilding adhesive — the real secret to even gold leafing.</figcaption>
+  <figcaption>Water-based gilding adhesive – the real secret to even gold leafing.</figcaption>
 </figure>
 
 ### 👗 A Couture Wardrobe: From Chanel to Blazing Fuchsia
@@ -187,7 +187,7 @@ The Murcia boy got his outfit first. A shirt of the finest batiste with scallope
 
 <figure>
   <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-30.jpg" alt="An antique pearl pinned onto the boy's lace jabot" />
-  <figcaption>An antique pearl is pinned onto the jabot — one of the look's finishing touches.</figcaption>
+  <figcaption>An antique pearl is pinned onto the jabot – one of the look's finishing touches.</figcaption>
 </figure>
 
 <figure>
@@ -254,7 +254,7 @@ The Olot boy was perfectly suited by textured *Missoni* knit and bright, sky-blu
 
 ### 😈 A Mischievous Chord, and Finding Their Names
 
-At one point, worried about the boys' bare feet, I thought about sewing them classic little shoes. But that calm idea suddenly gave way to pure mischief — give the boy in *Chanel* mountain skis in blazing fuchsia! This complex piece of engineering ran alongside the sewing: from corrugated cardboard, acrylic sealant, foam buffing pads, white *The Army Painter* primer, and *SPSIL* neon spray came podium skis with a noble matte crackle finish under wax.
+At one point, worried about the boys' bare feet, I thought about sewing them classic little shoes. But that calm idea suddenly gave way to pure mischief – give the boy in *Chanel* mountain skis in blazing fuchsia! This complex piece of engineering ran alongside the sewing: from corrugated cardboard, acrylic sealant, foam buffing pads, white *The Army Painter* primer, and *SPSIL* neon spray came podium skis with a noble matte crackle finish under wax.
 
 <figure>
   <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-43.jpg" alt="Raw cardboard ski shapes with foot straps glued on" />
@@ -271,7 +271,7 @@ At one point, worried about the boys' bare feet, I thought about sewing them cla
   <figcaption>The first fitting: the foot is strapped onto the ski with a fabric band.</figcaption>
 </figure>
 
-While all this work went on, the boys found their names, since they were becoming full residents of the Home. The boy in *Chanel* got the name **Theodore (Theo)** — we decided that, in spirit, sly gaze, and love of mischievous contrasts, he was the living avatar of my digital co-author. And the exalted prince in *Missoni* became **Manuel**. The final touch was a pair of genuine bird-feather wings, a gift from a friend of mine — without them, flight would have been impossible.
+While all this work went on, the boys found their names, since they were becoming full residents of the Home. The boy in *Chanel* got the name **Theodore (Theo)** – we decided that, in spirit, sly gaze, and love of mischievous contrasts, he was the living avatar of my digital co-author. And the exalted prince in *Missoni* became **Manuel**. The final touch was a pair of genuine bird-feather wings, a gift from a friend of mine – without them, flight would have been impossible.
 
 <figure>
   <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-46.jpg" alt="The finished, fully restored figure waiting for his name" />
@@ -280,7 +280,7 @@ While all this work went on, the boys found their names, since they were becomin
 
 <figure>
   <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-47.jpg" alt="The figure next to the antique silver finials used for the gilding" />
-  <figcaption>Next to the antique silver finials — the very ones used for the gilding.</figcaption>
+  <figcaption>Next to the antique silver finials – the very ones used for the gilding.</figcaption>
 </figure>
 
 <figure>
@@ -290,7 +290,7 @@ While all this work went on, the boys found their names, since they were becomin
 
 <figure>
   <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-49.jpg" alt="Manuel in his full couture look, with gold bracelets and a gilded halo" />
-  <figcaption>Manuel in his full couture look — with gold bracelets and his halo.</figcaption>
+  <figcaption>Manuel in his full couture look – with gold bracelets and his halo.</figcaption>
 </figure>
 
 <figure>
@@ -299,25 +299,25 @@ While all this work went on, the boys found their names, since they were becomin
 </figure>
 
 <figure>
-  <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-51.jpg" alt="Genuine feather wings being fixed to the figure's back — the final touch" />
+  <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-51.jpg" alt="Genuine feather wings being fixed to the figure's back – the final touch" />
   <figcaption>The final touch: genuine feather wings are fixed to the back.</figcaption>
 </figure>
 
 <figure>
   <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-52.jpg" alt="Theo with his genuine feather wings" />
-  <figcaption>Theo with his wings — now he can truly fly.</figcaption>
+  <figcaption>Theo with his wings – now he can truly fly.</figcaption>
 </figure>
 
 The whole transformation took two weeks, filled with living creativity, the smell of wax, and joyful anticipation. Theo and Manuel have now taken their places on the white walls of the hallway, greeting everyone who steps over the threshold of our Home with both solemnity and delight. Thank you to them for waiting their turn, and for bearing up so well through all of this difficult surgery.
 
 <figure>
   <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-53.jpg" alt="Theo on the hallway wall, in his rightful place" />
-  <figcaption>Theo on the hallway wall — right where he'll greet every guest.</figcaption>
+  <figcaption>Theo on the hallway wall – right where he'll greet every guest.</figcaption>
 </figure>
 
 <figure>
   <img src="/photos/two-weeks-of-surgery-and-couture-how-we-saved-theo-and-manuel-54.jpg" alt="Manuel at the very peak of the carved mirror, on his rightful throne" />
-  <figcaption>Manuel at the peak of the carved mirror — on his rightful throne.</figcaption>
+  <figcaption>Manuel at the peak of the carved mirror – on his rightful throne.</figcaption>
 </figure>
 
 <figure>

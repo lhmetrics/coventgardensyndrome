@@ -38,13 +38,13 @@ A careful study of the oak panels' structure revealed three key structural marke
 
 De Vries' Mannerist ornamental sheets are always strictly constructive and orthogonal. His famous grotesques are made of thin, dry stems and geometric scrolls that resemble watch springs.
 
-In the panels under study, we see a fundamentally different material physics. The acanthus scrolls and lower volutes are fleshy, voluminous, pulsing with life. This ornament isn't subordinate to the flat surface — it dominates it. The entire fruit mass of the garlands (ripe figs, bursting pomegranates) is practically saturated with earthly juice — this is a direct sculptural projection of the paintings of Peter Paul Rubens and Jacob Jordaens, who celebrated the sensual abundance of Flanders.
+In the panels under study, we see a fundamentally different material physics. The acanthus scrolls and lower volutes are fleshy, voluminous, pulsing with life. This ornament isn't subordinate to the flat surface – it dominates it. The entire fruit mass of the garlands (ripe figs, bursting pomegranates) is practically saturated with earthly juice – this is a direct sculptural projection of the paintings of Peter Paul Rubens and Jacob Jordaens, who celebrated the sensual abundance of Flanders.
 
 **Marker 2. The physiognomic drama of the mascaron**
 
 The central mascaron on the oak panel shows the highest level of portrait expression. This isn't a flat decorative overlay in the Mannerist style, but a powerful Baroque image with deep-set eyes, carefully rendered tear ducts, and an individualized pattern of wrinkles.
 
-This kind of oak carving — where the hardest of woods takes on the plasticity of soft wax — is characteristic of the great Flemish sculptors of the mid-to-late 17th century, such as Artus Quellinus the Elder and Hendrik Frans Verbrugghen. They carried Rubens' painterly dynamism into monumental cabinet and church sculpture throughout the Southern Netherlands.
+This kind of oak carving – where the hardest of woods takes on the plasticity of soft wax – is characteristic of the great Flemish sculptors of the mid-to-late 17th century, such as Artus Quellinus the Elder and Hendrik Frans Verbrugghen. They carried Rubens' painterly dynamism into monumental cabinet and church sculpture throughout the Southern Netherlands.
 
 **Marker 3. The allegorical concept of the medallions**
 

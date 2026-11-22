@@ -25,7 +25,7 @@ Above the keyboard, the factory's elegant gold nameplate has survived intact: Be
 
 For a long time, the cast-iron elements at the instrument's base went unexamined. But in the course of a joint analysis of macro photographs with the AI Gemini, we managed to decipher a hidden mark located right on the pedals: PAT'D FEB 24, 1887. MOUSE PROOF PEDAL.
 
-And that's the whole charm and magic of Environmental Self-Reflection: we live for years side by side with astonishing objects, looking at them every day, and then, in a single moment, it turns out that an entire era is encoded within them — its daily life, its concerns, and its engineering genius.
+And that's the whole charm and magic of Environmental Self-Reflection: we live for years side by side with astonishing objects, looking at them every day, and then, in a single moment, it turns out that an entire era is encoded within them – its daily life, its concerns, and its engineering genius.
 
 The inscription "Mouse Proof Pedal" is a unique piece of engineering from the late 19th century. In that era, harmoniums were an important feature of country estates, where field mice posed a serious threat to musical instruments. Getting inside the casing, mice would destroy the felt, cloth, and leather bellows chambers. Bell's engineers patented a design in which the heavy cast-iron pedal flaps, when at rest, sealed the openings airtight, turning the instrument into a fortress impregnable to rodents.
 
@@ -33,13 +33,13 @@ The inscription "Mouse Proof Pedal" is a unique piece of engineering from the la
 
 Unlike a classical pipe organ, where air is forced into enormous pipes, the Canadian cabinet organ works on a fundamentally different principle. At the heart of the harmonium is a vacuum bellows system.
 
-When the musician alternately presses the foot pedals, they set in motion the massive folding leather bellows at the bottom of the casing. In the American and Canadian systems (unlike the European one), air isn't pushed outward but instead sucked inward, creating a vacuum inside the instrument. When a key is pressed, a valve opens, a stream of air rushes inward and sets the free-swinging metal reeds — hidden in special wooden cells — vibrating. It's the vibration of these brass reeds that produces the deep, dense, slightly humming sound so reminiscent of a church organ.
+When the musician alternately presses the foot pedals, they set in motion the massive folding leather bellows at the bottom of the casing. In the American and Canadian systems (unlike the European one), air isn't pushed outward but instead sucked inward, creating a vacuum inside the instrument. When a key is pressed, a valve opens, a stream of air rushes inward and sets the free-swinging metal reeds – hidden in special wooden cells – vibrating. It's the vibration of these brass reeds that produces the deep, dense, slightly humming sound so reminiscent of a church organ.
 
 The porcelain stop knobs above the keyboard (such as Vox Humana, Cremona, Diapason) control wooden shutters above the reeds. They alter the volume and character of the airflow, letting the musician imitate the sound of a human voice, a cello, or a flute.
 
 ### 🌲 The Architecture of the Case
 
-The instrument's case is a fine example of Victorian furniture craftsmanship. The Bell factory was renowned for its joinery workshop. To protect the sensitive mechanics from swings in humidity and temperature, fine woods were used — most often solid wood and veneer of noble black walnut or seasoned oak.
+The instrument's case is a fine example of Victorian furniture craftsmanship. The Bell factory was renowned for its joinery workshop. To protect the sensitive mechanics from swings in humidity and temperature, fine woods were used – most often solid wood and veneer of noble black walnut or seasoned oak.
 
 The front panels are adorned with deep hand-carved floral motifs and severe geometric lattices, which served not just an aesthetic purpose but also acted as sound windows, letting the dense acoustic wave escape the casing unimpeded.
 

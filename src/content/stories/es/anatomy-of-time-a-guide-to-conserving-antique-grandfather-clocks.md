@@ -14,20 +14,20 @@ Antes de coger cualquier herramienta, todo coleccionista debe interiorizar el c�
 
 ---
 
-### 🧹 Etapa 1: Limpieza en seco total — la ley del primer contacto
+### 🧹 Etapa 1: Limpieza en seco total – la ley del primer contacto
 
 Cualquier intento de frotar o lavar de inmediato una antigüedad centenaria convierte el polvo histórico en suciedad abrasiva, que se incrusta para siempre en los poros de la madera y raya la pátina original. El primer contacto con el reloj debe ser estrictamente en seco.
 
 1. **Brochas naturales:** La limpieza de la carcasa de madera y sus cavidades ocultas comienza con brochas de pintor o de artista secas, de cerda natural de dureza media. Las brochas suaves se reservan para las zonas delicadas.
 2. **Atención al detalle tallado:** Las volutas barrocas, las rocallas y los huecos exigen una paciencia de joyero. Todo el polvo centenario, las telarañas y los capullos de insectos se retiran con cuidado del relieve.
-3. **Solo herramientas de madera:** Para la suciedad incrustada y compactada en detalles y junturas pequeñas, está terminantemente prohibido usar rasquetas o cuchillos metálicos — dejarán arañazos irreparables en el roble. Solo se permiten espátulas de madera blanda, palillos de bambú y mondadientes comunes.
-4. **La regla de joyero para la aspiradora:** Al limpiar el mecanismo y los rincones interiores, la aspiradora se ajusta a potencia mínima y **se coloca siempre una media de nailon sobre la boquilla**. Los relojes antiguos esconden piezas diminutas perdidas en el tiempo — pasadores de latón, arandelas, pequeños muelles. El nailon salva estos fragmentos invaluables de la historia de ser succionados para siempre.
+3. **Solo herramientas de madera:** Para la suciedad incrustada y compactada en detalles y junturas pequeñas, está terminantemente prohibido usar rasquetas o cuchillos metálicos – dejarán arañazos irreparables en el roble. Solo se permiten espátulas de madera blanda, palillos de bambú y mondadientes comunes.
+4. **La regla de joyero para la aspiradora:** Al limpiar el mecanismo y los rincones interiores, la aspiradora se ajusta a potencia mínima y **se coloca siempre una media de nailon sobre la boquilla**. Los relojes antiguos esconden piezas diminutas perdidas en el tiempo – pasadores de latón, arandelas, pequeños muelles. El nailon salva estos fragmentos invaluables de la historia de ser succionados para siempre.
 
 ---
 
 ### 🛑 Zona prohibida: Metal, latón y el desmontaje del «cerebro»
 
-Mientras se limpia la carcasa, el «cerebro» del reloj — la esfera y el mecanismo — debe permanecer totalmente aislado de cualquier influencia externa y retirarse de la carcasa.
+Mientras se limpia la carcasa, el «cerebro» del reloj – la esfera y el mecanismo – debe permanecer totalmente aislado de cualquier influencia externa y retirarse de la carcasa.
 
 1. **Retirar la «cabeza»:** En la gran mayoría de los relojes de pie de esta época, la parte superior de la carcasa (la capota, o «cabeza») es desmontable. O bien se desliza suavemente hacia adelante por unas guías, o se levanta y se retira entera, abriendo acceso completo al mecanismo.
 2. **Extracción de los rieles:** El mecanismo de latón, junto con su pesada esfera, nunca se atornilló de forma permanente al reloj. Está fijado sobre una tabla horizontal de madera (el asiento), que simplemente descansa sobre unas guías verticales dentro de la carcasa. Desmontarlo requiere el cuidado de un joyero: levantar suavemente el asiento y deslizar hacia adelante todo el conjunto, esfera incluida. Desde ese momento, el «cerebro» vive aparte, en un estante seco.
@@ -61,6 +61,6 @@ Una vez terminada la fumigación, llega la etapa final del cuidado de la carcasa
 ### ⚠️ Física, lógica y seguridad al mover el reloj
 
 1. **Nada de forzar:** Si años de almacenamiento a la intemperie han abombado los estantes o el panel trasero por la humedad, nunca intentes devolverlos a su sitio por la fuerza. Tras secarse en una habitación cálida, las piezas volverán fácilmente a sus guías con unos golpecitos mínimos y controlados a través de un taco de madera.
-2. **Cuida los cristales antiguos:** El acristalamiento de los relojes antiguos es un tesoro frágil en sí mismo. El cristal de esa época se colaba a mano — es fino, irregular, con ondulaciones características, burbujas de aire y una «curvatura» irrepetible. Si un cristal así se rompe, encontrarle un reemplazo auténtico en el mundo actual del vidrio plano de fábrica es prácticamente imposible.
+2. **Cuida los cristales antiguos:** El acristalamiento de los relojes antiguos es un tesoro frágil en sí mismo. El cristal de esa época se colaba a mano – es fino, irregular, con ondulaciones características, burbujas de aire y una «curvatura» irrepetible. Si un cristal así se rompe, encontrarle un reemplazo auténtico en el mundo actual del vidrio plano de fábrica es prácticamente imposible.
 3. **El truco de las puertas:** Antes de inclinar, mover o tumbar la carcasa, **cierra y asegura firmemente todas las puertas** (con cinta de pintor o atándolas con cordel). Si al inclinar el mueble una pesada puerta de roble con su viejo cristal ondulado se abre de golpe por su propio peso, las bisagras pueden arrancarse de raíz, y el frágil cristal histórico se hará añicos sin remedio.
 4. **Si hay que tumbar el reloj:** Si la situación exige tumbar la carcasa en el suelo, solo puede hacerse después de haber retirado por completo la «cabeza» y el «cerebro». El reloj nunca se apoya directamente sobre baldosa o parqué desnudos. Se extiende en el suelo un geotextil o fieltro grueso, y bajo los «hombros» de la espalda del reloj se construye un podio blando de mantas enrolladas o cojines de sofá, para que la decoración de madera saliente de las molduras no cargue con el peso de todo el gigante de roble. Cualquier maniobra de levantar o inclinar se hace siempre entre dos personas.

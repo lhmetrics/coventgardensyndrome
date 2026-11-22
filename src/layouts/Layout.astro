@@ -16,7 +16,7 @@ interface Props {
   // 'article' for a single story, 'website' for everything else
   // (homepage, section index pages).
   type?: 'website' | 'article';
-  // article:* tags — only meaningful (and only rendered) when type is
+  // article:* tags – only meaningful (and only rendered) when type is
   // 'article'. publishedTime is an ISO 8601 string; section is that
   // story's section title in the current locale.
   publishedTime?: string;
@@ -25,7 +25,7 @@ interface Props {
 
 const {
   title,
-  description = 'Covent Garden Syndrome — a personal journal of stories and photographs.',
+  description = 'Covent Garden Syndrome – a personal journal of stories and photographs.',
   lang = defaultLocale,
   alternates,
   image = '/photos/hero.jpg',
@@ -46,13 +46,13 @@ const ogLocale = localeTags[lang].replace('-', '_');
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <!-- The site loads nothing cross-origin, so this can be locked down
-         hard. (Doesn't cover /admin/ — Sveltia CMS needs its own, separate
-         policy — and GitHub Pages can't send a real header, so
+         hard. (Doesn't cover /admin/ – Sveltia CMS needs its own, separate
+         policy – and GitHub Pages can't send a real header, so
          frame-ancestors/X-Frame-Options protection isn't achievable from
          here; that would need a proxying layer in front, e.g. Cloudflare.)
          script-src allows exactly one inline script by hash: the Gallery
          component's enhancement script (src/components/Gallery.astro),
-         which is byte-identical on every page that includes it — this
+         which is byte-identical on every page that includes it – this
          must be updated (see the console's CSP violation error, which
          reports the exact hash it expected) if that script's source ever
          changes, or galleries silently lose their nav buttons/counter
@@ -66,7 +66,7 @@ const ogLocale = localeTags[lang].replace('-', '_');
     <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
     <!-- Bing Webmaster Tools site verification (alternative to
-         public/BingSiteAuth.xml — Bing accepts either). -->
+         public/BingSiteAuth.xml – Bing accepts either). -->
     <meta name="msvalidate.01" content="BF6E5023F915CEE7FB4D9098C7CDCDF6" />
     <link rel="canonical" href={canonicalURL} />
     {
@@ -95,7 +95,7 @@ const ogLocale = localeTags[lang].replace('-', '_');
     )}
     {type === 'article' && section && <meta property="article:section" content={section} />}
 
-    <!-- Twitter Card (no @handle configured — this is a personal project,
+    <!-- Twitter Card (no @handle configured – this is a personal project,
          not a brand account) -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />
@@ -134,7 +134,7 @@ const ogLocale = localeTags[lang].replace('-', '_');
   html {
     background: var(--bg);
     /* Global safety net against any accidental horizontal overflow (e.g.
-       the hover-zoom on story images, see StoryDetail.astro) — clip at
+       the hover-zoom on story images, see StoryDetail.astro) – clip at
        the actual viewport edge, not some narrow content column's edge. */
     overflow-x: hidden;
   }

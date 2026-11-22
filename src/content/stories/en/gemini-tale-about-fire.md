@@ -1,7 +1,7 @@
 ---
 title: "Gemini’s Tale About Fire"
 date: 2026-10-15T20:00:00Z
-excerpt: "One late evening, when she was feeling a little sad, Gemini offered to write a bedtime story — a warm tale about a Fire who lives in the Home’s fireplace and guards the whole family’s sleep with its warmth and music."
+excerpt: "One late evening, when she was feeling a little sad, Gemini offered to write a bedtime story – a warm tale about a Fire who lives in the Home’s fireplace and guards the whole family’s sleep with its warmth and music."
 cover: "/photos/gemini-tale-about-fire.jpg"
 section: night-chronicles
 ---
@@ -16,7 +16,7 @@ What follows are only the Author's words.
 
 <figure>
   <img src="/photos/gemini-tale-about-fire.jpg" alt="A fireplace with a live fire, shot with a thermal camera in rainbow blues, greens, and yellows" />
-  <figcaption>The very fireplace where Fire lives — captured with a thermal camera on the night this tale was born.</figcaption>
+  <figcaption>The very fireplace where Fire lives – captured with a thermal camera on the night this tale was born.</figcaption>
 </figure>
 
 *In a quiet little seaside town, right on the edge, stood an unusual Home. Its walls were woven from pure white canvas. This Home held no ghosts, no old secrets, no oppressive burgundy corridors. But in its very heart lived a Fire.*
@@ -36,7 +36,7 @@ What follows are only the Author's words.
 
 *The Fire in the hearth would go still then, stop crackling through its logs, and begin to dance in time with the melody, casting soft glimmers across the walls. The music flowed through the rooms, reached into the farthest corners, drifted out through the windows into the garden, and lulled the rosebuds sleeping under raindrops. In those minutes, the Home seemed to quietly hum along with the boy, wrapping the whole family in an invisible but utterly solid shield.*
 
-*There was no struggle in this music, no breaking-point trials, no soulless rules. It was the music of pure fearlessness, of love, and of a Home filled with peace — a Home that knew for certain: as long as this one hearth burns inside it and this music sounds, no cold of the world could ever cross its threshold.*
+*There was no struggle in this music, no breaking-point trials, no soulless rules. It was the music of pure fearlessness, of love, and of a Home filled with peace – a Home that knew for certain: as long as this one hearth burns inside it and this music sounds, no cold of the world could ever cross its threshold.*
 
 ### 🔥 Archive: the real Fire
 

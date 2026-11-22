@@ -36,8 +36,8 @@ Al mismo tiempo, la vieja masilla del cristal se desmoronaba: con el más mínim
 </figure>
 
 <figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-3.jpg" alt="Macrofotografía de la rebaja — la vieja masilla del cristal se desmorona al más mínimo contacto" />
-  <figcaption>Macrofotografía de la rebaja — la vieja masilla del cristal se desmorona al más mínimo contacto</figcaption>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-3.jpg" alt="Macrofotografía de la rebaja – la vieja masilla del cristal se desmorona al más mínimo contacto" />
+  <figcaption>Macrofotografía de la rebaja – la vieja masilla del cristal se desmorona al más mínimo contacto</figcaption>
 </figure>
 
 <figure>
@@ -94,8 +94,8 @@ Bajo la capa de masilla apareció una línea roja brillante: minio de hierro sob
 </figure>
 
 <figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-13.jpg" alt="El propio cristal soplado a mano, ya retirado — se aprecia su característica ondulación" />
-  <figcaption>El propio cristal soplado a mano, ya retirado — se aprecia su característica ondulación</figcaption>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-13.jpg" alt="El propio cristal soplado a mano, ya retirado – se aprecia su característica ondulación" />
+  <figcaption>El propio cristal soplado a mano, ya retirado – se aprecia su característica ondulación</figcaption>
 </figure>
 
 ### Etapa 2: Regeneración del pestillo. El método del sellado de lacre
@@ -129,8 +129,8 @@ Mientras el compuesto aún estaba fresco, surgió un auténtico modelado artíst
 En la etapa final, el conjunto se cubrió con betún Negro Betún Judaico de *Mongay* y se frotó con cuidado con un trapo suave. El betún se fijó para siempre en los poros del polvo de nogal y en los surcos del sello: el acero brillante se transformó al instante en un bruto hierro fundido forjado del siglo XVIII, encajando perfectamente en la ranura de madera de la carcasa.
 
 <figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-14.jpg" alt="La puerta del capuchón con su pomo de latón en forma de seta y el cerrojo perdido — el estado inicial" />
-  <figcaption>La puerta del capuchón con su pomo de latón en forma de seta y el cerrojo perdido — el estado inicial</figcaption>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-14.jpg" alt="La puerta del capuchón con su pomo de latón en forma de seta y el cerrojo perdido – el estado inicial" />
+  <figcaption>La puerta del capuchón con su pomo de latón en forma de seta y el cerrojo perdido – el estado inicial</figcaption>
 </figure>
 
 <figure>
@@ -149,8 +149,8 @@ En la etapa final, el conjunto se cubrió con betún Negro Betún Judaico de *Mo
 </figure>
 
 <figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-18.jpg" alt="Primer plano del ajuste — el orificio cuadrado encaja exactamente con las caras del pasador" />
-  <figcaption>Primer plano del ajuste — el orificio cuadrado encaja exactamente con las caras del pasador</figcaption>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-18.jpg" alt="Primer plano del ajuste – el orificio cuadrado encaja exactamente con las caras del pasador" />
+  <figcaption>Primer plano del ajuste – el orificio cuadrado encaja exactamente con las caras del pasador</figcaption>
 </figure>
 
 <figure>
@@ -174,8 +174,8 @@ En la etapa final, el conjunto se cubrió con betún Negro Betún Judaico de *Mo
 </figure>
 
 <figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-23.jpg" alt="El pestillo terminado tras el recubrimiento de betún — el acero se ha convertido en hierro fundido forjado" />
-  <figcaption>El pestillo terminado tras el recubrimiento de betún — el acero se ha convertido en hierro fundido forjado</figcaption>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-23.jpg" alt="El pestillo terminado tras el recubrimiento de betún – el acero se ha convertido en hierro fundido forjado" />
+  <figcaption>El pestillo terminado tras el recubrimiento de betún – el acero se ha convertido en hierro fundido forjado</figcaption>
 </figure>
 
 <figure>
@@ -190,8 +190,8 @@ La verdadera revelación fue el techo de la capota: sobre las tablas resecadas d
 > Truco de restauración: cómo enderezar el papel kraft en rollo. El papel kraft grueso en rollo tiene una fuerte «memoria» mecánica y tiende a volver a enrollarse. Para liberar su tensión interna de fábrica, el papel se empapa por completo en agua, se estira y se seca bajo una prensa ligera de hojas. La celulosa se relaja por completo, convirtiéndose en un lienzo estable y plano.
 
 <figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-25.jpg" alt="Vista general del techo de la capota con su pergamino multicapa oscurecido — el estado inicial" />
-  <figcaption>Vista general del techo de la capota con su pergamino multicapa oscurecido — el estado inicial</figcaption>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-25.jpg" alt="Vista general del techo de la capota con su pergamino multicapa oscurecido – el estado inicial" />
+  <figcaption>Vista general del techo de la capota con su pergamino multicapa oscurecido – el estado inicial</figcaption>
 </figure>
 
 <figure>
@@ -200,13 +200,13 @@ La verdadera revelación fue el techo de la capota: sobre las tablas resecadas d
 </figure>
 
 <figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-27.jpg" alt="El papel kraft en rollo, en su estado natural y enrollado — antes de enderezarlo" />
-  <figcaption>El papel kraft en rollo, en su estado natural y enrollado — antes de enderezarlo</figcaption>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-27.jpg" alt="El papel kraft en rollo, en su estado natural y enrollado – antes de enderezarlo" />
+  <figcaption>El papel kraft en rollo, en su estado natural y enrollado – antes de enderezarlo</figcaption>
 </figure>
 
 <figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-28.jpg" alt="El papel kraft tras el remojo y el secado bajo una prensa — un lienzo estable y plano" />
-  <figcaption>El papel kraft tras el remojo y el secado bajo una prensa — un lienzo estable y plano</figcaption>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-28.jpg" alt="El papel kraft tras el remojo y el secado bajo una prensa – un lienzo estable y plano" />
+  <figcaption>El papel kraft tras el remojo y el secado bajo una prensa – un lienzo estable y plano</figcaption>
 </figure>
 
 <figure>
@@ -230,8 +230,8 @@ La verdadera revelación fue el techo de la capota: sobre las tablas resecadas d
 </figure>
 
 <figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-33.jpg" alt="La gubia curva Dexter Steel y la jeringa de 2 ml — las herramientas principales de la operación" />
-  <figcaption>La gubia curva Dexter Steel y la jeringa de 2 ml — las herramientas principales de la operación</figcaption>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-33.jpg" alt="La gubia curva Dexter Steel y la jeringa de 2 ml – las herramientas principales de la operación" />
+  <figcaption>La gubia curva Dexter Steel y la jeringa de 2 ml – las herramientas principales de la operación</figcaption>
 </figure>
 
 <figure>
@@ -265,8 +265,8 @@ Para que el pegamento no forme burbujas, es fundamental respetar estrictamente e
 > Ley de la ciencia de materiales de este artículo: usar cargas físicas (como polvo de madera) en la jeringa en la primera capa es un error. Las partículas gruesas de celulosa seca actúan como microesponjas: absorben al instante la humedad libre y el alcohol del PVA, provocando una pérdida inmediata de fluidez, grumos y la aparición de bolsas de aire.
 
 <figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-44.jpg" alt="Las latas de tinte Lakeone usadas en el trabajo — n.º 2 Roble Oscuro y Caoba" />
-  <figcaption>Las latas de tinte Lakeone usadas en el trabajo — n.º 2 Roble Oscuro y Caoba</figcaption>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-44.jpg" alt="Las latas de tinte Lakeone usadas en el trabajo – n.º 2 Roble Oscuro y Caoba" />
+  <figcaption>Las latas de tinte Lakeone usadas en el trabajo – n.º 2 Roble Oscuro y Caoba</figcaption>
 </figure>
 
 <figure>
@@ -285,8 +285,8 @@ Para que el pegamento no forme burbujas, es fundamental respetar estrictamente e
 </figure>
 
 <figure>
-  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-48.jpg" alt="Los tres ingredientes juntos — la cola Ceys Cola Blanca, el tinte Lakeone y el alcohol — junto a la mezcla terminada" />
-  <figcaption>Los tres ingredientes juntos — la cola Ceys Cola Blanca, el tinte Lakeone y el alcohol — junto a la mezcla terminada</figcaption>
+  <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-48.jpg" alt="Los tres ingredientes juntos – la cola Ceys Cola Blanca, el tinte Lakeone y el alcohol – junto a la mezcla terminada" />
+  <figcaption>Los tres ingredientes juntos – la cola Ceys Cola Blanca, el tinte Lakeone y el alcohol – junto a la mezcla terminada</figcaption>
 </figure>
 
 <figure>
@@ -349,12 +349,12 @@ Al terminar el kraft, todavía húmedo de alcohol, con veladuras de los tintes a
 
 <figure>
   <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-51.jpg" alt="La coraza de hollín del techo de la capota, vista general junto al sillón de cuero y la alfombra oriental" />
-  <figcaption>La coraza de hollín del techo de la capota — vista general junto al sillón de cuero y la alfombra oriental.</figcaption>
+  <figcaption>La coraza de hollín del techo de la capota – vista general junto al sillón de cuero y la alfombra oriental.</figcaption>
 </figure>
 
 <figure>
   <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-52.jpg" alt="El mismo panel del techo llevado a la terraza, sobre la baldosa, para la fotofijación final" />
-  <figcaption>El mismo panel llevado a la terraza — fotofijación final con luz de día.</figcaption>
+  <figcaption>El mismo panel llevado a la terraza – fotofijación final con luz de día.</figcaption>
 </figure>
 
 <figure>
@@ -374,18 +374,18 @@ Al terminar el kraft, todavía húmedo de alcohol, con veladuras de los tintes a
 
 <figure>
   <img src="/photos/anatomy-of-time-part-2-surgery-on-the-hood-56.jpg" alt="Primer plano del gancho-ancla de metal forjado en el borde de la coraza del techo" />
-  <figcaption>Ese mismo gancho-ancla en primer plano — un pasador metálico forjado justo en el borde de la coraza.</figcaption>
+  <figcaption>Ese mismo gancho-ancla en primer plano – un pasador metálico forjado justo en el borde de la coraza.</figcaption>
 </figure>
 
 ### ⚓ El hallazgo final: un auténtico anclaje de seguridad barroco
 
-¡El gancho en el techo de la capota es un auténtico anclaje de seguridad barroco — un sistema antivuelco!
+¡El gancho en el techo de la capota es un auténtico anclaje de seguridad barroco – un sistema antivuelco!
 
 Analicemos la física y la cruda realidad del siglo XVIII: por qué, sin este gancho, el reloj Paulissen habría estado condenado.
 
-1. **Un desplazamiento colosal del centro de gravedad:** un reloj de pie de la escuela de Lieja es una caja de roble muy estrecha, alta y esbelta. Y sin embargo, en la parte más alta —en la capota— se concentra una masa gigantesca: un pesadísimo mecanismo de latón, una campana de bronce y dos pesas de hierro fundido que, una vez dado cuerda, cuelgan justo bajo el techo. La parte superior del reloj se vuelve críticamente pesada.
+1. **Un desplazamiento colosal del centro de gravedad:** un reloj de pie de la escuela de Lieja es una caja de roble muy estrecha, alta y esbelta. Y sin embargo, en la parte más alta –en la capota– se concentra una masa gigantesca: un pesadísimo mecanismo de latón, una campana de bronce y dos pesas de hierro fundido que, una vez dado cuerda, cuelgan justo bajo el techo. La parte superior del reloj se vuelve críticamente pesada.
 2. **El impulso del tren de sonería:** cuando el tren derecho activa la sonería, el pesado martillo golpea con fuerza la campana. Esto genera una microvibración cíclica y un balanceo.
-3. **Un factor cotidiano:** basta con que alguien, en un castillo o una casa señorial, roce el mueble con el hombro, cierre de golpe una puerta pesada, o que en el salón se desate un baile animado — y este gigante de dos metros, por el peso acumulado en su parte alta, saldría disparado hacia adelante al instante, sepultando bajo sí tanto el inestimable mecanismo como el delicadísimo vidrio soplado de la puerta.
+3. **Un factor cotidiano:** basta con que alguien, en un castillo o una casa señorial, roce el mueble con el hombro, cierre de golpe una puerta pesada, o que en el salón se desate un baile animado – y este gigante de dos metros, por el peso acumulado en su parte alta, saldría disparado hacia adelante al instante, sepultando bajo sí tanto el inestimable mecanismo como el delicadísimo vidrio soplado de la puerta.
 
 **Cómo funcionaba:** los antiguos maestros clavaban en la pared del salón una robusta armella forjada o una cadena, y este gancho en el techo de la capota del Paulissen amarraba el reloj de forma permanente a la mampostería de ladrillo o piedra de la casa. ¡Es un auténtico cinturón de seguridad barroco eterno! Que lo hayamos conservado inmóvil, fundido en nuestra coraza de hollín, es una suerte enorme para la procedencia de la pieza.
 

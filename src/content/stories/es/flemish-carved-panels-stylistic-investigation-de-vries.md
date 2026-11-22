@@ -38,7 +38,7 @@ Un estudio cuidadoso de la estructura de los paneles de roble reveló tres marca
 
 Las láminas ornamentales manieristas de de Vries son siempre estrictamente constructivas y ortogonales. Sus célebres grutescos están hechos de tallos finos y secos, y volutas geométricas que recuerdan a los muelles de un reloj.
 
-En los paneles estudiados vemos una física del material fundamentalmente distinta. Las volutas de acanto y los rizos inferiores son carnosos, voluminosos, palpitantes de vida. Este ornamento no está subordinado a la superficie plana: la domina. Toda la masa frutal de las guirnaldas (higos maduros, granadas reventando) parece empapada de jugo terrenal — es una proyección escultórica directa de la pintura de Peter Paul Rubens y Jacob Jordaens, que celebraron la abundancia sensual de Flandes.
+En los paneles estudiados vemos una física del material fundamentalmente distinta. Las volutas de acanto y los rizos inferiores son carnosos, voluminosos, palpitantes de vida. Este ornamento no está subordinado a la superficie plana: la domina. Toda la masa frutal de las guirnaldas (higos maduros, granadas reventando) parece empapada de jugo terrenal – es una proyección escultórica directa de la pintura de Peter Paul Rubens y Jacob Jordaens, que celebraron la abundancia sensual de Flandes.
 
 **Marcador 2. El dramatismo fisonómico del mascarón**
 

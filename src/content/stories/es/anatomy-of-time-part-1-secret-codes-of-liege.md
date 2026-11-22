@@ -18,17 +18,17 @@ Con luz rasante aparecieron, en la cara interior del panel trasero, unas inscrip
 
 <figure>
   <img src="/photos/anatomy-of-time-part-1-secret-codes-of-liege-2.jpg" alt="Inscripciones a tiza en la cara interior del panel, con luz normal" />
-  <figcaption>Las inscripciones a tiza con luz normal — la ortografía barroca específica y el desgaste centenario impiden que las palabras se vuelvan legibles.</figcaption>
+  <figcaption>Las inscripciones a tiza con luz normal – la ortografía barroca específica y el desgaste centenario impiden que las palabras se vuelvan legibles.</figcaption>
 </figure>
 
 <figure>
   <img src="/photos/anatomy-of-time-part-1-secret-codes-of-liege-3.jpg" alt="Las inscripciones a tiza bajo el haz de una linterna de restauración" />
-  <figcaption>El mismo punto bajo el haz de una linterna de restauración — el círculo de luz resalta con más claridad los trazos manuscritos sobre la madera.</figcaption>
+  <figcaption>El mismo punto bajo el haz de una linterna de restauración – el círculo de luz resalta con más claridad los trazos manuscritos sobre la madera.</figcaption>
 </figure>
 
 <figure>
   <img src="/photos/anatomy-of-time-part-1-secret-codes-of-liege-4.jpg" alt="Otro ángulo de las marcas a tiza bajo el haz de la linterna" />
-  <figcaption>Otro ángulo de las marcas a tiza bajo el haz de la linterna — se distinguen letras sueltas y florituras.</figcaption>
+  <figcaption>Otro ángulo de las marcas a tiza bajo el haz de la linterna – se distinguen letras sueltas y florituras.</figcaption>
 </figure>
 
 Un análisis detallado, realizado junto con Gemini, reveló el sentido profesional de estas marcas:
@@ -42,7 +42,7 @@ Durante la limpieza total de las cavidades internas de la base, nuestro inspecto
 
 <figure>
   <img src="/photos/anatomy-of-time-part-1-secret-codes-of-liege-5.jpg" alt="El capuchón y el panel trasero de roble retirados, con una aspiradora limpiando el polvo de la base abierta del reloj" />
-  <figcaption>El capuchón y el panel trasero de roble retirados — una aspiradora retira décadas de polvo de la base abierta del reloj.</figcaption>
+  <figcaption>El capuchón y el panel trasero de roble retirados – una aspiradora retira décadas de polvo de la base abierta del reloj.</figcaption>
 </figure>
 
 ### Capítulo 2: El enigma de la etiqueta flamenca en la trampilla
@@ -51,7 +51,7 @@ El siguiente gran hallazgo fue una etiqueta impresa, parcialmente conservada, co
 
 <figure>
   <img src="/photos/anatomy-of-time-part-1-secret-codes-of-liege-6.jpg" alt="Una etiqueta azul antigua sobre la tabla de la trampilla, escrita a mano con Horloge petit côté" />
-  <figcaption>La etiqueta azul antigua sobre la trampilla desmontada del capuchón — la inscripción manuscrita se lee «Horloge petit côté».</figcaption>
+  <figcaption>La etiqueta azul antigua sobre la trampilla desmontada del capuchón – la inscripción manuscrita se lee «Horloge petit côté».</figcaption>
 </figure>
 
 Con un fuerte aumento macro, la inscripción en tinta ferrogálica se lee como **«Horloge... Liège... coté»** («Reloj... Lieja... lado»). El análisis de la tipografía del marco y de la textura del papel verjurado reveló que se trata de una etiqueta original de aduana o de transporte de finales del siglo XVIII, o quizá un albarán de un taller de logística.
@@ -70,7 +70,7 @@ Antes de empezar la conservación, el elemento más complicado del techo del cap
 
 <figure>
   <img src="/photos/anatomy-of-time-part-1-secret-codes-of-liege-7.jpg" alt="El capuchón retirado por completo de la caja y colocado en el suelo, con la capa agrietada del techo visible desde arriba" />
-  <figcaption>El capuchón retirado por completo de la caja y colocado en el suelo — la capa agrietada del techo se ve con claridad desde arriba.</figcaption>
+  <figcaption>El capuchón retirado por completo de la caja y colocado en el suelo – la capa agrietada del techo se ve con claridad desde arriba.</figcaption>
 </figure>
 
 <figure>
@@ -80,67 +80,67 @@ Antes de empezar la conservación, el elemento más complicado del techo del cap
 
 <figure>
   <img src="/photos/anatomy-of-time-part-1-secret-codes-of-liege-9.jpg" alt="El techo del capuchón junto a su moldura octogonal tallada" />
-  <figcaption>Otro ángulo del techo — se aprecia cómo la capa llega hasta la moldura octogonal tallada.</figcaption>
+  <figcaption>Otro ángulo del techo – se aprecia cómo la capa llega hasta la moldura octogonal tallada.</figcaption>
 </figure>
 
 <figure>
   <img src="/photos/anatomy-of-time-part-1-secret-codes-of-liege-10.jpg" alt="Una sección del techo con un gancho forjado cerca del borde, rodeado de papel muy agrietado" />
-  <figcaption>La misma sección del techo — cerca del borde se ve un gancho forjado, rodeado de papel especialmente agrietado.</figcaption>
+  <figcaption>La misma sección del techo – cerca del borde se ve un gancho forjado, rodeado de papel especialmente agrietado.</figcaption>
 </figure>
 
 <figure>
   <img src="/photos/anatomy-of-time-part-1-secret-codes-of-liege-11.jpg" alt="Una esquina del techo en la unión octogonal tallada, donde la capa antigua se levanta y se enrosca" />
-  <figcaption>Una esquina del techo en la unión octogonal tallada — aquí la capa se levanta y se enrosca.</figcaption>
+  <figcaption>Una esquina del techo en la unión octogonal tallada – aquí la capa se levanta y se enrosca.</figcaption>
 </figure>
 
 <figure>
   <img src="/photos/anatomy-of-time-part-1-secret-codes-of-liege-12.jpg" alt="Un primer plano del gancho forjado, rodeado de papel agrietado en grandes fragmentos" />
-  <figcaption>El gancho forjado en primer plano — la capa a su alrededor se ha agrietado en grandes fragmentos.</figcaption>
+  <figcaption>El gancho forjado en primer plano – la capa a su alrededor se ha agrietado en grandes fragmentos.</figcaption>
 </figure>
 
 <figure>
   <img src="/photos/anatomy-of-time-part-1-secret-codes-of-liege-13.jpg" alt="Una rotura cerca del borde del techo, que deja ver la madera desnuda" />
-  <figcaption>Una rotura cerca del borde — a través de la grieta se asoma la madera desnuda.</figcaption>
+  <figcaption>Una rotura cerca del borde – a través de la grieta se asoma la madera desnuda.</figcaption>
 </figure>
 
 <figure>
   <img src="/photos/anatomy-of-time-part-1-secret-codes-of-liege-14.jpg" alt="Otra rotura que atraviesa la capa antigua, que se deshace en fragmentos" />
-  <figcaption>Otra rotura que la atraviesa de lado a lado — la capa antigua prácticamente se deshace ante nuestros ojos.</figcaption>
+  <figcaption>Otra rotura que la atraviesa de lado a lado – la capa antigua prácticamente se deshace ante nuestros ojos.</figcaption>
 </figure>
 
 <figure>
   <img src="/photos/anatomy-of-time-part-1-secret-codes-of-liege-15.jpg" alt="Un primer plano de la textura de la capa antigua, con manchas, grietas y una línea trazada apenas visible" />
-  <figcaption>Un primer plano de la textura de la capa antigua — se aprecian manchas, grietas y una línea trazada apenas visible.</figcaption>
+  <figcaption>Un primer plano de la textura de la capa antigua – se aprecian manchas, grietas y una línea trazada apenas visible.</figcaption>
 </figure>
 
 <figure>
   <img src="/photos/anatomy-of-time-part-1-secret-codes-of-liege-16.jpg" alt="Otra esquina del techo con un pequeño herraje forjado incrustado en la capa agrietada" />
-  <figcaption>Otra esquina del techo — cerca del borde se ve un pequeño herraje forjado, incrustado en la capa agrietada.</figcaption>
+  <figcaption>Otra esquina del techo – cerca del borde se ve un pequeño herraje forjado, incrustado en la capa agrietada.</figcaption>
 </figure>
 
 ¿Por qué los antiguos maestros forraban el techo del reloj con capas de papel? La respuesta está en la práctica barroca, dura y pragmática:
 
-1. **Un amortiguador de polvo:** el mecanismo del reloj —su «cerebro» de latón— es extremadamente sensible a la caída de micropartículas. Siempre había, por encima del reloj, un desván o unas vigas de techo, de donde caían polvo de cal, serrín y hollín de chimenea. El papel actuaba como una pantalla-paraguas hermética.
+1. **Un amortiguador de polvo:** el mecanismo del reloj –su «cerebro» de latón– es extremadamente sensible a la caída de micropartículas. Siempre había, por encima del reloj, un desván o unas vigas de techo, de donde caían polvo de cal, serrín y hollín de chimenea. El papel actuaba como una pantalla-paraguas hermética.
 2. **Compensación de la contracción:** la madera maciza de roble del techo del capuchón sufría enormes cambios de temperatura por el calor ascendente. Las tablas inevitablemente se secaban y se contraían. El papel, pegado en varias capas, se estiraba junto con la madera, manteniendo la estructura unida y sin permitir que las corrientes de aire alteraran el movimiento del péndulo.
 
 <figure>
   <img src="/photos/anatomy-of-time-part-1-secret-codes-of-liege-17.jpg" alt="Examinando el papel bajo luz ultravioleta en la mesa de trabajo, con un gato esfinge curioso cerca" />
-  <figcaption>Examinando el papel bajo luz ultravioleta en la mesa de trabajo — como era de esperar, un gato esfinge curioso no puede resistirse a unirse.</figcaption>
+  <figcaption>Examinando el papel bajo luz ultravioleta en la mesa de trabajo – como era de esperar, un gato esfinge curioso no puede resistirse a unirse.</figcaption>
 </figure>
 
 <figure>
   <img src="/photos/anatomy-of-time-part-1-secret-codes-of-liege-18.jpg" alt="El techo del capuchón por completo bajo luz ultravioleta, mostrando manchas orgánicas y los bordes de las grietas" />
-  <figcaption>El techo del capuchón por completo bajo luz ultravioleta — se aprecian manchas orgánicas y los bordes de las grietas.</figcaption>
+  <figcaption>El techo del capuchón por completo bajo luz ultravioleta – se aprecian manchas orgánicas y los bordes de las grietas.</figcaption>
 </figure>
 
 <figure>
   <img src="/photos/anatomy-of-time-part-1-secret-codes-of-liege-19.jpg" alt="Un primer plano de la superficie bajo luz UV, con la estructura oculta de la cola de hueso y las fibras" />
-  <figcaption>Un primer plano de la misma superficie bajo luz UV — se ve la estructura oculta de la cola de hueso y las fibras.</figcaption>
+  <figcaption>Un primer plano de la misma superficie bajo luz UV – se ve la estructura oculta de la cola de hueso y las fibras.</figcaption>
 </figure>
 
 <figure>
   <img src="/photos/anatomy-of-time-part-1-secret-codes-of-liege-20.jpg" alt="Una esquina del techo bajo luz ultravioleta junto a la unión tallada, con un patrón de grietas muy marcado" />
-  <figcaption>Otra esquina del techo bajo luz ultravioleta — el patrón de grietas se distingue con claridad junto a la unión tallada.</figcaption>
+  <figcaption>Otra esquina del techo bajo luz ultravioleta – el patrón de grietas se distingue con claridad junto a la unión tallada.</figcaption>
 </figure>
 
 Al estudiar esta coraza de papel bajo el haz de una linterna ultravioleta, descubrimos la estructura oculta de la cola animal (de hueso) original y la textura de las fibras de trapo. Esto nos convenció definitivamente: **la capa antigua no se puede retirar bajo ningún concepto**. Precisamente este hallazgo sentó las bases de nuestra operación de conservación más delicada, en la que, con una jeringa de dos centímetros cúbicos y una cuchilla curva Dexter, introdujimos con precisión de joyero una nueva subcapa de papel kraft resistente, justo debajo del pergamino original, conservando el gancho forjado centenario exactamente en su lugar histórico.

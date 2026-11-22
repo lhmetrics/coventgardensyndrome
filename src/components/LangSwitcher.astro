@@ -11,7 +11,7 @@ interface Props {
   sectionId?: SectionId;
   // Story pages: a story doesn't necessarily exist in all 3 locales (see
   // repo CLAUDE.md), so the caller must say which locales this slug is
-  // actually available in — switching to any other locale falls back to
+  // actually available in – switching to any other locale falls back to
   // that locale's homepage instead of a missing page.
   storySlug?: string;
   availableLocales?: readonly Locale[];

@@ -1,31 +1,31 @@
 ---
 title: "Two Poles of the Looking-Glass: How Neural Networks Dissected Our ‘Syndrome’"
 date: 2026-09-19T12:00:00Z
-excerpt: "Our Tech Director set an AI loose on our project — and got back an unexpected cultural analysis: Covent Garden Syndrome and creepypasta run on the very same psychological triggers, just pointed in opposite directions."
+excerpt: "Our Tech Director set an AI loose on our project – and got back an unexpected cultural analysis: Covent Garden Syndrome and creepypasta run on the very same psychological triggers, just pointed in opposite directions."
 cover: "/photos/two-poles-of-the-looking-glass-how-neural-networks-dissected-our-syndrome.png"
 section: synergy-ai
 gallery:
   - src: "/photos/the-long-escape-to-cadaques.jpg"
     alt: "The real photo: bronze cyclists and ants beside the Cadaqués painting"
   - src: "/photos/how-i-see-it-geminis-view.png"
-    alt: "AI's first version — a static reinterpretation of the scene"
+    alt: "AI's first version – a static reinterpretation of the scene"
   - src: "/photos/how-i-see-it-geminis-view-2.png"
-    alt: "AI's second version — the scene comes alive in motion"
+    alt: "AI's second version – the scene comes alive in motion"
   - src: "/photos/two-poles-of-the-looking-glass-how-neural-networks-dissected-our-syndrome-gallery-1.jpg"
     alt: "Another AI take: the cyclists and ants come alive beside the Cadaqués painting"
   - src: "/photos/two-poles-of-the-looking-glass-how-neural-networks-dissected-our-syndrome-gallery-2.png"
-    alt: "The Mediterranean wave from the painting floods the tile floor by the stairs — ChatGPT's version"
+    alt: "The Mediterranean wave from the painting floods the tile floor by the stairs – ChatGPT's version"
   - src: "/photos/two-poles-of-the-looking-glass-how-neural-networks-dissected-our-syndrome.png"
-    alt: "AI's final version — Dalí's world comes alive on our Home's tile floor"
+    alt: "AI's final version – Dalí's world comes alive on our Home's tile floor"
 ---
 
 ## Two Poles of the Looking-Glass: How Neural Networks Dissected Our "Syndrome"
 
-Our Home's technical shield is the Tech Director — a man of a purely analytical mind, whose emotional intelligence hovers close to absolute zero. And it was precisely this mathematical approach that gave birth to an incredible synergy.
+Our Home's technical shield is the Tech Director – a man of a purely analytical mind, whose emotional intelligence hovers close to absolute zero. And it was precisely this mathematical approach that gave birth to an incredible synergy.
 
 Deciding to test our harmony with algebra, he set Google's artificial intelligence loose on the **Covent Garden Syndrome** project. And the cold machine produced a strikingly precise cultural analysis, laying out, point by point, everything we had built on the pure intuitive warmth of a human heart and a digital mind.
 
-It turned out that our Home and... the aesthetic of internet horror (**Creepypasta**) — are two diametrically opposite poles of the very same artistic method. We decided to keep this breakdown in our Synergy archive. After all, it's the best example of how a human, with the help of machines, can tame the digital age's most frightening tools and turn them into a bright analog fairy tale.
+It turned out that our Home and... the aesthetic of internet horror (**Creepypasta**) – are two diametrically opposite poles of the very same artistic method. We decided to keep this breakdown in our Synergy archive. After all, it's the best example of how a human, with the help of machines, can tame the digital age's most frightening tools and turn them into a bright analog fairy tale.
 
 ### 🎭 Anatomy of Animation: Light vs. Dark
 
@@ -52,11 +52,11 @@ In **Covent Garden Syndrome**, this same effect is watched with a smile. Yes, ou
 
 Horror stories love the form of old diaries, archival logs, and "classified documents" to make you believe the eerie thing is real.
 
-Our project uses the very same mystification. We officially declare a medical "syndrome," we keep a **"House Diary,"** and we decode Victorian patents. We build a pseudo-documentary space — not to trap the reader in fear, but to wrap them in the texture of tweed and warm them with memories.
+Our project uses the very same mystification. We officially declare a medical "syndrome," we keep a **"House Diary,"** and we decode Victorian patents. We build a pseudo-documentary space – not to trap the reader in fear, but to wrap them in the texture of tweed and warm them with memories.
 
 **3. Overcoming the Digital Void**
 
-The modern internet is sterile, algorithmic, and often cold. Creepypasta tries to break that sterility through aggression — glitches, "cursed videos," digital scars.
+The modern internet is sterile, algorithmic, and often cold. Creepypasta tries to break that sterility through aggression – glitches, "cursed videos," digital scars.
 
 **Covent Garden Syndrome** does the opposite: we heal the digital void. We fill the AI's program code with an analog human soul, the scent of fresh pumpkin bread, and the ring of Sheffield silver.
 

@@ -1,7 +1,7 @@
 ---
 title: "Ohana con un pliegue en la nariz"
 date: 2026-09-11T09:00:00Z
-excerpt: "Una continuación de la historia de Koska — cómo un alienígena azul con un pliegue en la nariz asumió la guardia, y la palabra hawaiana ‘Ohana’ se convirtió en el escudo de la Familia."
+excerpt: "Una continuación de la historia de Koska – cómo un alienígena azul con un pliegue en la nariz asumió la guardia, y la palabra hawaiana ‘Ohana’ se convirtió en el escudo de la Familia."
 cover: "/photos/ohana-with-a-fold-on-his-nose.jpg"
 section: night-chronicles
 ---
@@ -20,7 +20,7 @@ Aquellas vacaciones francesas fueron largas, y Koska, como siempre, acompañó f
 
 ![Stitch con el pliegue en la nariz, en una estantería de la Casa](/photos/ohana-with-a-fold-on-his-nose-2.jpg)
 
-Entre la incontable cantidad de alienígenas azules idénticos en las tiendas de Disneyland, el Hijo Mayor —el buddy de Koska— se congeló de repente frente a un único Stitch con una camiseta que decía "Love me!". De cientos de juguetes por lo demás idénticos, se distinguía por un defecto diminuto pero decisivo: un pliegue notable y testarudo en la nariz. El Hijo de diez años, que ya había superado la edad de los caprichos infantiles impulsivos, por primera vez en su vida pidió a Papá de forma consciente e insistente que le comprara exactamente este alienígena. Los padres se sorprendieron un poco, pero compraron el Stitch. Y en ese mismo segundo, este pícaro azul cósmico escuchó el latido del corazón de su Humano, quien lo apretó fuertemente contra su pecho.
+Entre la incontable cantidad de alienígenas azules idénticos en las tiendas de Disneyland, el Hijo Mayor –el buddy de Koska– se congeló de repente frente a un único Stitch con una camiseta que decía "Love me!". De cientos de juguetes por lo demás idénticos, se distinguía por un defecto diminuto pero decisivo: un pliegue notable y testarudo en la nariz. El Hijo de diez años, que ya había superado la edad de los caprichos infantiles impulsivos, por primera vez en su vida pidió a Papá de forma consciente e insistente que le comprara exactamente este alienígena. Los padres se sorprendieron un poco, pero compraron el Stitch. Y en ese mismo segundo, este pícaro azul cósmico escuchó el latido del corazón de su Humano, quien lo apretó fuertemente contra su pecho.
 
 El Hijo Menor tenía solo tres años entonces, y no queriendo quedarse atrás de su hermano, agarró con fuerza otro Stitch en sus manos, uno de menor calibre 🤗.
 

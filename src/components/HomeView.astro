@@ -16,18 +16,18 @@ interface Props {
 const { lang } = Astro.props;
 const t = ui[lang];
 
-// Homepage default ordering (Elena's call, current policy — revisit if the
+// Homepage default ordering (Elena's call, current policy – revisit if the
 // story count grows large enough that newest-first becomes more useful):
 // oldest first, so the stories read in the order they were published/told,
 // e.g. Bear → Dolce → Koska. A CSS-only :target toggle (same pattern as
-// SectionView.astro, no JS) lets the reader flip to newest-first — both
+// SectionView.astro, no JS) lets the reader flip to newest-first – both
 // orders are pre-rendered and only one is shown at a time.
 const storiesOldestFirst = (
   await getCollection('stories', ({ id }) => id.startsWith(`${lang}/`))
 ).sort((a, b) => a.data.date.valueOf() - b.data.date.valueOf());
 const storiesNewestFirst = [...storiesOldestFirst].reverse();
 
-// Per-section post counts for the chip badges below — same filter logic
+// Per-section post counts for the chip badges below – same filter logic
 // as SectionView.astro's own story count for that section/lang.
 const sectionCounts = Object.fromEntries(
   sectionIds.map((id) => [
@@ -57,7 +57,7 @@ const alternates = {
 ---
 
 <Layout
-  title={`Covent Garden Syndrome — ${t.tagline}`}
+  title={`Covent Garden Syndrome – ${t.tagline}`}
   description={t.manifesto[0]}
   lang={lang}
   alternates={alternates}

@@ -1,7 +1,7 @@
 ---
 title: "Crónicas Nocturnas de la Casa: Nieves de la Sierra, la costa de los olivos y los Guardianes de la Entrada"
 date: 2026-11-22T19:00:00Z
-excerpt: "La vieja guardia del recibidor —Teo, Manuel y Cris—, la leyenda del linaje granadino de las Nieves, de ojos azul aciano y rizos cobrizos, y el primo Gabriel de Málaga, que aún lleva en la piel unas gotas de vino tinto antiguo."
+excerpt: "La vieja guardia del recibidor –Teo, Manuel y Cris–, la leyenda del linaje granadino de las Nieves, de ojos azul aciano y rizos cobrizos, y el primo Gabriel de Málaga, que aún lleva en la piel unas gotas de vino tinto antiguo."
 cover: "/photos/sierra-snows-the-olive-shore-and-the-guardians-of-the-entrance.jpg"
 coverPosition: "center 30%"
 section: night-chronicles
@@ -42,7 +42,7 @@ Al poco se les unió el impetuoso **Cris**, un príncipe oriental vestido de sed
 Pero esta historia resultó tener una continuación, con raíces en el siglo XVI, en las faldas de la Sierra Nevada granadina, azotadas por el viento. Allí tuvo su origen el antiguo linaje **de las Nieves**, cuyo fundador recibió un escudo con un armiño de plata sobre campo de azur por haber guiado un convoy real a través de los puertos nevados en lo más crudo del invierno.
 
 <figure>
-  <img src="/photos/sierra-snows-the-olive-shore-and-the-guardians-of-the-entrance-12.jpg" alt="El escudo del linaje de las Nieves —un armiño de plata sobre campo de azur bajo una corona— sobre una chimenea de piedra con velas encendidas" />
+  <img src="/photos/sierra-snows-the-olive-shore-and-the-guardians-of-the-entrance-12.jpg" alt="El escudo del linaje de las Nieves –un armiño de plata sobre campo de azur bajo una corona– sobre una chimenea de piedra con velas encendidas" />
 </figure>
 
 A diferencia de los morenos sureños, en el linaje de las Nieves se transmitía de generación en generación una rara «marca de sangre» visigoda: **unos penetrantes ojos azul aciano y unos rizos de un cobre dorado** que al sol relucían como oro rojo.
@@ -83,7 +83,7 @@ Junto a la alta y nevada rama de los Nieves estuvo siempre su primo costero por 
 
 En los turbulentos años treinta, cuando las viejas casas aristocráticas de España cerraban a toda prisa, criados leales escondían a oscuras y entre el desconcierto los tesoros familiares en pesados baúles de madera, en los desvanes de las «casas de la abuela». Allí pasaron décadas los niños Nieves y su primo Gabriel. Bajo el peso de las cosas que tenían alrededor, el frágil yeso de las puntas de sus dedos se desconchó y dejó al descubierto el viejo armazón de metal.
 
-Fue precisamente en una de esas «casas de la abuela», cerca de la costa malagueña, donde apareció Gabriel. Y hoy ya está en casa, recibiendo sus primeros baños delicados en el banco de restauración. El baño no está siendo fácil: bajo la capa de polvo de un siglo ha aparecido el magnífico tono cálido y cremoso de su piel original, pero en el pecho y la barriguita —solo por delante, porque durante muchos años estuvo boca arriba— han salido unas motitas verdosas imposibles de borrar. En algún momento, durante algún bullicioso banquete andaluz o unas prisas de mudanza del siglo pasado, alguien le derramó encima unas gotas de vino tinto.
+Fue precisamente en una de esas «casas de la abuela», cerca de la costa malagueña, donde apareció Gabriel. Y hoy ya está en casa, recibiendo sus primeros baños delicados en el banco de restauración. El baño no está siendo fácil: bajo la capa de polvo de un siglo ha aparecido el magnífico tono cálido y cremoso de su piel original, pero en el pecho y la barriguita –solo por delante, porque durante muchos años estuvo boca arriba– han salido unas motitas verdosas imposibles de borrar. En algún momento, durante algún bullicioso banquete andaluz o unas prisas de mudanza del siglo pasado, alguien le derramó encima unas gotas de vino tinto.
 
 <figure>
   <img src="/photos/sierra-snows-the-olive-shore-and-the-guardians-of-the-entrance-10.jpg" alt="Gabriel sobre una toalla blanca: dedos desconchados, armazón de metal a la vista y motitas en el pecho" />

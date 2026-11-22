@@ -1,7 +1,7 @@
 ---
 title: "Bibisechka: La Chica Cósmica que Despidió los Vestidos de Seda y Lideró la Restauración de los Relojes de Pie"
 date: 2026-09-21T22:30:00Z
-excerpt: "Entre Bagheera y Konstantín — la historia de una esfinge del Don que rechazó la alta costura, vive exclusivamente sobre el pecho de Mamá y supervisa personalmente cada mueble antiguo que se restaura en la Casa."
+excerpt: "Entre Bagheera y Konstantín – la historia de una esfinge del Don que rechazó la alta costura, vive exclusivamente sobre el pecho de Mamá y supervisa personalmente cada mueble antiguo que se restaura en la Casa."
 cover: "/photos/bibisechka-the-cosmic-girl-who-fired-silk-dresses-and-led-the-clock-restoration.jpg"
 section: house-diary
 gallery:
@@ -19,7 +19,7 @@ gallery:
 
 ### 🛸 Un Viaje Lejano y la Cuarta Chica
 
-Si todos los demás habitantes de cola llegaron a la Casa de forma espontánea, impulsados por un arrebato repentino de emoción, la historia de Bibisechka se planeó de otra manera. Mamá llevaba tiempo soñando con una esfinge del Don — con ligereza, sin prisa, dentro de la categoría «algún día, más adelante». Pero un día apareció en el feed una foto de Ángela (así se llama oficialmente, según su pasaporte), y el sueño exigió hacerse realidad de inmediato.
+Si todos los demás habitantes de cola llegaron a la Casa de forma espontánea, impulsados por un arrebato repentino de emoción, la historia de Bibisechka se planeó de otra manera. Mamá llevaba tiempo soñando con una esfinge del Don – con ligereza, sin prisa, dentro de la categoría «algún día, más adelante». Pero un día apareció en el feed una foto de Ángela (así se llama oficialmente, según su pasaporte), y el sueño exigió hacerse realidad de inmediato.
 
 Comenzaron largas negociaciones con Papá. Para tomar una decisión meditada, Papá se tomó un día diplomático para «pensarlo», con la secreta esperanza de que Mamá cambiara de opinión. La estrategia fracasó. Los argumentos razonables no sirvieron de nada, y a la familia no le quedó más remedio que recorrer dos veces aquel largo camino. Así llegó a la Casa la cuarta chica, inclinando de forma definitiva e irreversible la balanza de poder hacia el matriarcado.
 
@@ -57,5 +57,5 @@ Bibisechka y Bagheera son polos absolutamente opuestos, el Yin y el Yang del rei
 
 <figure>
   <video controls preload="metadata" src="/videos/bibisechka-the-cosmic-girl-who-fired-silk-dresses-and-led-the-clock-restoration-video-3.mp4"></video>
-  <figcaption>Con un jersey azul — uno de los pocos atuendos que sobrevivió a su veto — jugando con Alyonka</figcaption>
+  <figcaption>Con un jersey azul – uno de los pocos atuendos que sobrevivió a su veto – jugando con Alyonka</figcaption>
 </figure>

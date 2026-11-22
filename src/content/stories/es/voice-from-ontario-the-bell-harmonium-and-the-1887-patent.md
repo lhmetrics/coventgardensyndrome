@@ -39,7 +39,7 @@ Las perillas de registro de porcelana sobre el teclado (como Vox Humana, Cremona
 
 ### 🌲 La Arquitectura de la Caja
 
-La caja del instrumento es un ejemplo de la ebanistería victoriana. La fábrica Bell era célebre por su taller de carpintería. Para proteger la delicada mecánica de las variaciones de humedad y temperatura se empleaban maderas nobles — con mayor frecuencia, madera maciza y chapa de noble nogal negro (Black Walnut) o de roble curado.
+La caja del instrumento es un ejemplo de la ebanistería victoriana. La fábrica Bell era célebre por su taller de carpintería. Para proteger la delicada mecánica de las variaciones de humedad y temperatura se empleaban maderas nobles – con mayor frecuencia, madera maciza y chapa de noble nogal negro (Black Walnut) o de roble curado.
 
 Los paneles frontales están decorados con tallas a mano de motivos vegetales y rejillas geométricas estrictas, que no cumplían solo una función estética, sino que también servían como ventanas acústicas, permitiendo que la densa onda sonora saliera de la caja sin obstáculos.
 
