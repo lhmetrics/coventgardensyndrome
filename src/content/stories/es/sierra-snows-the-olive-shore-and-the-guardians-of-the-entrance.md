@@ -90,4 +90,9 @@ Fue precisamente en una de esas «casas de la abuela», cerca de la costa malagu
   <figcaption>El primo Gabriel recién llegado de Málaga: nobles cicatrices del tiempo, la varilla del meñique al descubierto y restos de vino tinto antiguo en el pecho.</figcaption>
 </figure>
 
+<figure>
+  <img src="/photos/sierra-snows-the-olive-shore-and-the-guardians-of-the-entrance-11.jpg" alt="Gabriel tras su primera limpieza: un cálido tono cremoso de piel" />
+  <figcaption>Tras el primer baño apareció un magnífico tono cálido de piel; por delante quedan el modelado minucioso de los deditos, el plateado de la corona y la prueba del terciopelo color salvia polvorienta.</figcaption>
+</figure>
+
 Esas salpicaduras de vino nunca cedieron al agua, pero nadie piensa borrarlas a la fuerza: se han quedado en su piel como un sello vivo de la historia malagueña. Muy pronto sus deditos recuperarán la forma, su maciza corona, gastada por los años, brillará con noble plata, y el propio Gabi se vestirá de terciopelo color salvia polvorienta para recibir en la Casa a sus nevados primos del linaje de las Nieves.

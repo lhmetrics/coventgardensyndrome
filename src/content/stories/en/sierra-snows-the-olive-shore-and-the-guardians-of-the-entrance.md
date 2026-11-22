@@ -90,4 +90,9 @@ It was in just such a "grandmother's house" near the Málaga coast that Gabriel 
   <figcaption>Cousin Gabriel just after the journey from Málaga: the noble scars of time, the bare rod of his little finger, and traces of old red wine on his chest.</figcaption>
 </figure>
 
+<figure>
+  <img src="/photos/sierra-snows-the-olive-shore-and-the-guardians-of-the-entrance-11.jpg" alt="Gabriel after his first cleaning: a warm, creamy skin tone" />
+  <figcaption>After the first bath, a magnificent warm skin tone came through — ahead lie the fine sculpting of his fingers, the silvering of his crown and a fitting in dusty-sage velvet.</figcaption>
+</figure>
+
 Those wine splashes never gave way to water, but no one is going to scrub them off by force: they have stayed on his skin as a living seal of Málaga history. Very soon his little fingers will take shape again, his massive, time-worn crown will shine with noble silver, and Gabi himself will be dressed in dusty-sage velvet, ready to welcome his snowy cousins of the house of Nieves to the Home.
