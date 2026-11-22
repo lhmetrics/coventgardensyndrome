@@ -11,7 +11,7 @@ section: human-shores
 
 Hay en mi memoria Casas que ya no existen sobre la tierra, pero que se han quedado para siempre como fortalezas inquebrantables en nuestro corazón.
 
-Era una Mansión preciosa... Un auténtico *palacete* clásico, construido para durar siglos por un dueño concienzudo. Lo conocimos, a él y a sus propietarios, cuando andábamos en una larga búsqueda de nuestro lugar. La casa pertenecía a un matrimonio encantador de personas muy mayores, y aquel espacio era el reflejo exacto de ellos mismos.
+Era una Mansión preciosa... Un auténtico *palacete* clásico, construido para durar siglos por un dueño concienzudo. Lo conocimos, a él y a sus propietarios, cuando andábamos en una larga búsqueda de nuestro lugar. La casa pertenecía a un matrimonio encantador de edad madura, y aquel espacio era el reflejo exacto de ellos mismos.
 
 El palacete acogía a sus invitados en su abrazo desde el mismo umbral: desde el suave crujido de la gravilla fina bajo las ruedas del coche. Se abría con el semicírculo de su entrada principal, que parecía invitarte a pasar y sumergirte de lleno en la dicha, la calma y la armonía.
 
@@ -31,7 +31,7 @@ El palacete tenía también un amplio comedor. La señora había tapizado sus pa
 
 ...En su lugar se alza ahora una extraña construcción moderna de listones de madera, que recuerda a un cobertizo descolorido perdido en el bosque. La cacatúa ya no tiene casa, no hay jardín en flor, no hay golondrinas bajo el tejado. Solo queda la tierra allanada y un barracón gris de madera. Así de rápida y despiadadamente ha cambiado el mundo a nuestro alrededor.
 
-Pero en mi memoria esta Casa soleada, amarilla como una yema, y sus personas son eternas. Y este recuerdo de un calor que ya se fue, ya nadie nos lo puede quitar.
+Pero en mi memoria esta Casa soleada, amarilla como una yema, y sus personas son eternas. Y este recuerdo de un calor que ya se fue, nadie nos lo podrá quitar jamás.
 
 <figure>
   <img src="/photos/the-tale-of-the-egg-yolk-yellow-palacete-1.jpg" alt="Un collage de recuerdos: el palacete amarillo con columnas, una cacatúa en el jardín, la sala del piano de cola, el bar de roble, el comedor con tela de cachemira, la cocina, un niño al piano, encaje antiguo, una golondrina junto a su nido bajo el tejado y el cobertizo gris de madera que hoy ocupa el lugar de la casa" />
