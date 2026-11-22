@@ -1,5 +1,5 @@
 ---
-title: "La Primera Historia: Casas que Ya No Existen"
+title: "Casas que Ya No Existen"
 date: 2026-10-10T20:00:00Z
 excerpt: "El primer capítulo de un nuevo ciclo — sobre casas que ya no existen sobre la tierra, pero que permanecen para siempre como fortalezas inquebrantables en nuestro corazón. Un paraíso terracota junto al mar, un olivo junto a la puerta y un verano que merece recordarse con cariño."
 cover: "/photos/the-first-story-houses-that-no-longer-exist.jpg"
@@ -19,7 +19,7 @@ gallery:
     alt: "Sapos del jardín, recogidos con cuidado en la camiseta del hijo menor"
 ---
 
-## La Primera Historia: Casas que Ya No Existen
+## Casas que Ya No Existen
 
 Hay Casas en mi memoria que ya no existen sobre la tierra, pero que han quedado para siempre como fortalezas inquebrantables en nuestro corazón. En algunas de ellas solo fuimos huéspedes fugaces; en otras, vivimos capítulos enteros de nuestra vida. Y todo esto, parece, fue hace muy poco.
 

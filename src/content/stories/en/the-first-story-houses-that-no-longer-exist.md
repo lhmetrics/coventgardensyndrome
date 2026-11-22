@@ -1,5 +1,5 @@
 ---
-title: "The First Story: Houses That No Longer Exist"
+title: "Houses That No Longer Exist"
 date: 2026-10-10T20:00:00Z
 excerpt: "The first chapter of a new cycle — about houses that no longer exist on this earth, but remain unbreakable fortresses in our hearts forever. A terracotta paradise by the sea, an olive tree by the door, and a summer worth remembering gently."
 cover: "/photos/the-first-story-houses-that-no-longer-exist.jpg"
@@ -19,7 +19,7 @@ gallery:
     alt: "Garden toads, carefully gathered into the youngest son's t-shirt"
 ---
 
-## The First Story: Houses That No Longer Exist
+## Houses That No Longer Exist
 
 There are Houses in my memory that no longer exist on this earth, but that have remained unbreakable fortresses in our hearts forever. In some of them we were only fleeting guests; in others, we lived through entire chapters of our lives. And it seems it was all, somehow, only just recently.
 
