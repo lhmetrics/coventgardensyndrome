@@ -10,6 +10,12 @@ through a house mascot (a teddy bear). Manifesto/voice: whimsical, warm,
 literary first-person essays, not a generic blog. The owner (Elena) writes
 in Russian and sometimes supplies her own English/Spanish text directly —
 treat her own wording as authoritative over any translation Claude drafts.
+
+**Typography rule:** all site text (stories in every language, excerpts,
+titles, alt/captions, UI strings) uses the short en dash `–` (U+2013),
+never the long em dash `—` (U+2014) – including Spanish dialogue dashes
+and dashes in the owner's own RU text. `grep -r '—' src` must come back
+empty before committing.
 Published at **coventgardensyndrome.com** (domain on Cloudflare), built
 with Astro, hosted on GitHub Pages (repo: `lhmetrics/coventgardensyndrome`).
 
